@@ -1,0 +1,70 @@
+{
+  "nouns": [
+    {
+      "word": "chat",
+      "gender": "m",
+      "theword": "Le chat",
+      "imageLink": "https://storage.prompt-hunt.workers.dev/clg0w8r2o0033jt08bkynmzy4_1"
+    },
+    {
+      "word": "voiture",
+      "gender": "f",
+      "theword": "La voiture",
+      "imageLink": "https://cdn.pixabay.com/photo/2018/05/17/17/36/auto-3409184_960_720.jpg"
+    },
+    {
+      "word": "livre",
+      "gender": "m",
+      "theword": "Le livre",
+      "imageLink": "https://www.theweddingshoppe.ca/v/vspfiles/photos/WS9688-26-2.jpg"
+    },
+    {
+      "word": "maison",
+      "gender": "f",
+      "theword": "La maison",
+      "imageLink": "https://cdn.pixabay.com/photo/2017/07/31/20/51/architecture-2560959_960_720.jpg"
+    },
+    {
+      "word": "chaise",
+      "gender": "f",
+      "theword": "La chaise",
+      "imageLink": "https://cdn.pixabay.com/photo/2014/12/21/23/39/armchair-575788_960_720.png"
+    },
+    {
+      "word": "vélo",
+      "gender": "m",
+      "theword": "Le vélo",
+      "imageLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWArAC492OzuYQmZ-L0uT7vsfKGcI1ngMw1A&usqp=CAU"
+    },
+    {
+      "word": "arbre",
+      "gender": "m",
+      "theword": "L'arbre",
+      "imageLink": "https://storage.prompt-hunt.workers.dev/clfezy4d70001js081996uo16_1"
+    },
+    {
+      "word": "table",
+      "gender": "f",
+      "theword": "La table",
+      "imageLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSq96XpjCl-smfST9U2XUr_pbL-QiaUMotwMg&usqp=CAU"
+    },
+    {
+      "word": "porte",
+      "gender": "f",
+      "theword": "La porte",
+      "imageLink": "https://cdn.pixabay.com/photo/2017/04/14/15/12/old-2230483_960_720.jpg"
+    },
+    {
+      "word": "stylo",
+      "gender": "m",
+      "theword": "Le stylo",
+      "imageLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvGwjPS7mGwsg6dWB8zC2SCUeV2WDAVOzzsg&usqp=CAU"
+    },
+    {
+      "word": "chien",
+      "gender": "m",
+      "theword": "Le chien",
+      "imageLink": "https://storage.prompt-hunt.workers.dev/clg378jyx0017jx08w50zeew5_1"
+    }
+  ]
+}
