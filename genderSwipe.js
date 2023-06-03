@@ -48,6 +48,7 @@ fetch("frenchGender.json")
         // Function to display a new question
         function displayQuestion() {
             imageElement.classList.add("hidden");
+            hintButton.classList.remove("hidden")
             let unansweredNouns = nouns.filter(noun => !noun.answered && !noun.answeredCorrectly); // Filter out nouns that have been answered or answered correctly
             let totalAnswered = nouns.filter(noun => noun.answered).length; // Count the total number of answered nouns
 
