@@ -35,16 +35,19 @@ fetch("frenchGender.json")
         });
 
         hintButton.addEventListener("click", () => {
+            hintButton.classList.add("hidden")
             // Show a hint for the current noun
             if (currentNounIndex < 0) {
                 currentNounIndex = nouns.length - 1;
             }
+            imageElement.classList.remove("hidden");
             imageElement.src = nouns[currentNounIndex].imageLink;
             wordElement.textContent = nouns[currentNounIndex].the_word;
         });
 
         // Function to display a new question
         function displayQuestion() {
+            imageElement.classList.add("hidden");
             let unansweredNouns = nouns.filter(noun => !noun.answered && !noun.answeredCorrectly); // Filter out nouns that have been answered or answered correctly
             let totalAnswered = nouns.filter(noun => noun.answered).length; // Count the total number of answered nouns
 
@@ -147,6 +150,7 @@ fetch("frenchGender.json")
             messageElement.classList.remove("hidden");
             masculineButton.classList.remove("hidden");
             feminineButton.classList.remove("hidden");
+
 
             // Add the hint button back to the card body
             cardBody.appendChild(hintButton);
