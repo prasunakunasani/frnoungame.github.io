@@ -2,20 +2,19 @@
 fetch("frenchGender.json")
     .then((response) => response.json())
     .then((data) => {
-        const nouns = data.nouns;
-        let currentNounIndex = 0;
-        let previousNounIndex = 0;
-        let score = 0;
-        const questionElement = document.getElementById("question");
-        const messageElement = document.getElementById("message");
-        const scoreElement = document.getElementById("score");
-        const cardBody = document.querySelector(".card-body");
-        const masculineButton = document.getElementById("masculine");
-        const feminineButton = document.getElementById("feminine");
-        const wordElement = document.getElementById("word");
-        const imageElement = document.getElementById("image");
-        const hintButton = document.getElementById("hint");
-        const resultsTable = document.getElementById("scoreboard-body");
+        const nouns = data.nouns; // Get the array of nouns from the JSON data
+        let currentNounIndex = 0; // Keep track of the current noun index
+        let score = 0; // Keep track of the player's score
+        const questionElement = document.getElementById("question"); // Get the question element
+        const messageElement = document.getElementById("message"); // Get the message element
+        const scoreElement = document.getElementById("score"); // Get the score element
+        const cardBody = document.querySelector(".card-body"); // Get the card body element
+        const masculineButton = document.getElementById("masculine"); // Get the masculine button element
+        const feminineButton = document.getElementById("feminine"); // Get the feminine button element
+        const wordElement = document.getElementById("word"); // Get the word element
+        const imageElement = document.getElementById("image"); // Get the image element
+        const hintButton = document.getElementById("hint"); // Get the hint button element
+        const resultsTable = document.getElementById("scoreboard-body"); // Get the results table element
         let gameEnded = false; // Flag variable to keep track of game ending
 
         // Append the word, image, and hint button elements to the card body
@@ -36,79 +35,41 @@ fetch("frenchGender.json")
         });
 
         hintButton.addEventListener("click", () => {
-            // currentNounIndex--;
+            // Show a hint for the current noun
             if (currentNounIndex < 0) {
                 currentNounIndex = nouns.length - 1;
             }
             imageElement.src = nouns[currentNounIndex].imageLink;
-            wordElement.textContent = nouns[currentNounIndex].theword;
+            wordElement.textContent = nouns[currentNounIndex].the_word;
         });
 
-
-        // function displayQuestion() {
-        //     // Choose a random noun that has not been answered yet
-        //     let unansweredNouns = nouns.filter(noun => !noun.answered && !noun.answeredCorrectly);
-        //     let totalAnswered = nouns.filter(noun => noun.answered).length;
-        //
-        //     if (totalAnswered === nouns.length) {
-        //         // Display a message or end the game
-        //         // messageElement.textContent = "All nouns have been answered!";
-        //         gameEnded = true; // set the flag to end the game
-        //         return;
-        //     } else if (unansweredNouns.length === 0) {
-        //         // Reset the answered property of each noun to false
-        //         nouns.forEach(noun => {
-        //             noun.answered = false;
-        //             noun.answeredCorrectly = false;
-        //         });
-        //         unansweredNouns = nouns;
-        //     }
-        //
-        //     const randomIndex = Math.floor(Math.random() * unansweredNouns.length);
-        //     const noun = unansweredNouns[randomIndex];
-        //     currentNounIndex = nouns.indexOf(noun);
-        //     noun.answered = true;
-        //     // Display the question, word, and image
-        //     questionElement.textContent = " " + noun.word + "?";
-        //     wordElement.textContent = "";
-        //     imageElement.src = "";
-        //     // Clear the message element
-        //     messageElement.textContent = "";
-        //
-        //     if (totalAnswered === nouns.length - 1 && unansweredNouns.length === 1) {
-        //         // Display a message or end the game
-        //         messageElement.textContent = "All nouns have been answered!";
-        //         gameEnded = true; // set the flag to end the game
-        //         return;
-        //     }
-        //
-        // }
-
+        // Function to display a new question
         function displayQuestion() {
-            let unansweredNouns = nouns.filter(noun => !noun.answered && !noun.answeredCorrectly);
-            let totalAnswered = nouns.filter(noun => noun.answered).length;
+            let unansweredNouns = nouns.filter(noun => !noun.answered && !noun.answeredCorrectly); // Filter out nouns that have been answered or answered correctly
+            let totalAnswered = nouns.filter(noun => noun.answered).length; // Count the total number of answered nouns
 
             if (totalAnswered === nouns.length) {
-                gameEnded = true;
+                gameEnded = true; // All nouns have been answered, end the game
             } else if (unansweredNouns.length === 0) {
-                resetNounsAnsweredStatus();
-                unansweredNouns = nouns;
+                resetNounsAnsweredStatus(); // Reset the answered status of nouns and get all nouns again
             } else {
                 const randomIndex = Math.floor(Math.random() * unansweredNouns.length);
                 const noun = unansweredNouns[randomIndex];
-                currentNounIndex = nouns.indexOf(noun);
-                noun.answered = true;
-                questionElement.textContent = " " + noun.word + "?";
-                wordElement.textContent = "";
-                imageElement.src = "";
-                messageElement.textContent = "";
+                currentNounIndex = nouns.indexOf(noun); // Update the current noun index
+                noun.answered = true; // Mark the noun as answered
+                questionElement.textContent = " " + noun.word + "?"; // Display the question
+                wordElement.textContent = ""; // Clear the word element
+                imageElement.src = ""; // Clear the image element
+                messageElement.textContent = ""; // Clear the message element
+
                 if (totalAnswered === nouns.length - 1 && unansweredNouns.length === 1) {
                     messageElement.textContent = "All nouns have been answered!";
-                    gameEnded = true;
+                    gameEnded = true; // All nouns have been answered, end the game
                 }
             }
         }
 
+        // Function to reset the answered status of nouns
         function resetNounsAnsweredStatus() {
             nouns.forEach(noun => {
                 noun.answered = false;
@@ -116,8 +77,8 @@ fetch("frenchGender.json")
             });
         }
 
+        // Function to check the user's answer
         function checkAnswer(answer) {
-
             if (gameEnded) {
                 messageElement.textContent = "The game has ended!";
                 return;
@@ -126,15 +87,17 @@ fetch("frenchGender.json")
             const noun = nouns[currentNounIndex];
             const correctAnswer = noun.gender;
             const userAnswer = answer;
+
             if (userAnswer === correctAnswer) {
                 messageElement.textContent = "Correct!";
                 score++;
                 scoreElement.textContent = `Score: ${score}`;
-                noun.answeredCorrectly = true;
+                noun.answeredCorrectly = true; // Mark the noun as answered correctly
             } else {
                 messageElement.textContent = `Wrong! The correct answer is "${correctAnswer}".`;
-                noun.answeredCorrectly = false;
+                noun.answeredCorrectly = false; // Mark the noun as answered incorrectly
             }
+
             // Add the question and user's answer to the results table
             const row = resultsTable.insertRow(-1);
             const numberCell = row.insertCell(0);
@@ -152,7 +115,6 @@ fetch("frenchGender.json")
             // Check if all nouns have been answered
             const totalAnswered = nouns.filter(noun => noun.answered).length;
             if (totalAnswered === nouns.length) {
-                // Display a message or end the game
                 console.log("All nouns have been answered!");
                 return;
             }
@@ -163,8 +125,7 @@ fetch("frenchGender.json")
             }, 150);
         }
 
-
-        // Display the user's score
+        // Function to restart the game
         function restartGame() {
             // Reset the "answered" and "answeredCorrectly" properties of each noun to false
             nouns.forEach(noun => {
@@ -186,7 +147,12 @@ fetch("frenchGender.json")
             messageElement.classList.remove("hidden");
             masculineButton.classList.remove("hidden");
             feminineButton.classList.remove("hidden");
-            // hintButton.classList.remove("hidden");
+
+            // Add the hint button back to the card body
+            cardBody.appendChild(hintButton);
+
+            // Reset the score to 0
+            scoreElement.textContent = `Score: ${score}`;
 
             // Display the first question
             displayQuestion();

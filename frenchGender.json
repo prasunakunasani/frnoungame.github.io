@@ -3,68 +3,194 @@
     {
       "word": "chat",
       "gender": "m",
-      "theword": "Le chat",
+      "the_word": "Un chat",
       "imageLink": "https://storage.prompt-hunt.workers.dev/clg0w8r2o0033jt08bkynmzy4_1"
     },
     {
       "word": "voiture",
       "gender": "f",
-      "theword": "La voiture",
+      "the_word": "Une voiture",
       "imageLink": "https://cdn.pixabay.com/photo/2018/05/17/17/36/auto-3409184_960_720.jpg"
     },
     {
       "word": "livre",
       "gender": "m",
-      "theword": "Le livre",
-      "imageLink": "https://www.theweddingshoppe.ca/v/vspfiles/photos/WS9688-26-2.jpg"
+      "the_word": "Un livre",
+      "imageLink": "https://www.theweddingshoppe.ca/v/vspfiUns/photos/WS9688-26-2.jpg"
     },
     {
       "word": "maison",
       "gender": "f",
-      "theword": "La maison",
+      "the_word": "Une maison",
       "imageLink": "https://cdn.pixabay.com/photo/2017/07/31/20/51/architecture-2560959_960_720.jpg"
     },
     {
       "word": "chaise",
       "gender": "f",
-      "theword": "La chaise",
+      "the_word": "Une chaise",
       "imageLink": "https://cdn.pixabay.com/photo/2014/12/21/23/39/armchair-575788_960_720.png"
     },
     {
       "word": "vélo",
       "gender": "m",
-      "theword": "Le vélo",
+      "the_word": "Un vélo",
       "imageLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWArAC492OzuYQmZ-L0uT7vsfKGcI1ngMw1A&usqp=CAU"
     },
     {
       "word": "arbre",
       "gender": "m",
-      "theword": "L'arbre",
+      "the_word": "L'arbre",
       "imageLink": "https://storage.prompt-hunt.workers.dev/clfezy4d70001js081996uo16_1"
     },
     {
       "word": "table",
       "gender": "f",
-      "theword": "La table",
+      "the_word": "Une table",
       "imageLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSq96XpjCl-smfST9U2XUr_pbL-QiaUMotwMg&usqp=CAU"
     },
     {
       "word": "porte",
       "gender": "f",
-      "theword": "La porte",
+      "the_word": "Une porte",
       "imageLink": "https://cdn.pixabay.com/photo/2017/04/14/15/12/old-2230483_960_720.jpg"
     },
     {
       "word": "stylo",
       "gender": "m",
-      "theword": "Le stylo",
+      "the_word": "Un stylo",
       "imageLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvGwjPS7mGwsg6dWB8zC2SCUeV2WDAVOzzsg&usqp=CAU"
     },
     {
       "word": "chien",
       "gender": "m",
-      "theword": "Le chien",
+      "the_word": "Un chien",
       "imageLink": "https://storage.prompt-hunt.workers.dev/clg378jyx0017jx08w50zeew5_1"
+    },
+    {
+      "word": "fille",
+      "gender": "f",
+      "the_word": "Une fille",
+      "imageLink": "https://easydrawingguides.com/wp-content/uploads/2017/02/How-to-draw-a-cartoon-girl-20.png"
+    },
+    {
+      "word": "garçon",
+      "gender": "m",
+      "the_word": "un garçon",
+      "imageLink": "https://img.freepik.com/premium-vector/cartoon-little-boy-yellow-jacket-peace-hand-sign_353337-605.jpg?w=2000"
+    },
+    {
+      "word": "femme",
+      "gender": "f",
+      "the_word": "Une femme",
+      "imageLink": "https://cdn2.vectorstock.com/i/1000x1000/60/56/business-women-character-cartoon-vector-14196056.jpg"
+    },
+    {
+      "word": "homme",
+      "gender": "m",
+      "the_word": "Un homme",
+      "imageLink": "https://media.istockphoto.com/id/980239992/vector/happy-handsome-man-showing-thumbs-up-concept-illustration-in-cartoon-style.jpg?s=612x612&w=0&k=20&c=1ikVDLkafPxGOLqq4gtIs4HQFBQpdjuiaSchIoqW_M4="
+    },
+    {
+      "word": "cheval",
+      "gender": "m",
+      "the_word": "Un cheval",
+      "imageLink": "https://cdn1.vectorstock.com/i/1000x1000/18/55/blue-horse-vector-1711855.jpg"
+    },
+    {
+      "word": "croissant",
+      "gender": "m",
+      "the_word": "Un croissant",
+      "imageLink": "https://cdn1.vectorstock.com/i/1000x1000/23/35/blue-croissant-on-a-white-background-vector-44312335.jpg"
+    },
+    {
+      "word": "hamburger",
+      "gender": "m",
+      "the_word": "Un hamburger",
+      "imageLink": "https://cdn5.vectorstock.com/i/1000x1000/77/69/burger-simple-sign-sky-blue-icon-vector-17167769.jpg"
+    },
+    {
+      "word": "restaurant",
+      "gender": "m",
+      "the_word": "Un restaurant",
+      "imageLink": "https://cdn2.vectorstock.com/i/1000x1000/64/01/cartoon-businessman-notebook-order-food-restaurant-vector-25076401.jpg"
+    },
+    {
+      "word": "passeport",
+      "gender": "m",
+      "the_word": "Un passeport",
+      "imageLink": "https://cdn1.vectorstock.com/i/1000x1000/52/50/passport-in-cartoon-style-on-white-vector-29015250.jpg"
+    },
+    {
+      "word": "valise",
+      "gender": "f",
+      "the_word": "Une valise",
+      "imageLink": "https://cdn5.vectorstock.com/i/1000x1000/00/09/line-color-travel-backpack-in-love-kawaii-cartoon-vector-19420009.jpg"
+    },
+    {
+      "word": "gomme",
+      "gender": "f",
+      "the_word": "Une gomme",
+      "imageLink": "https://thumbs.dreamstime.com/b/happy-eraser-illustration-vector-white-background-207016599.jpg"
+    },
+    {
+      "word": "marqueur",
+      "gender": "m",
+      "the_word": "Un marqueur",
+      "imageLink": "https://cdn5.vectorstock.com/i/1000x1000/97/24/freehand-drawn-cartoon-marker-pen-vector-8649724.jpg"
+    },
+    {
+      "word": "crayon de couleur",
+      "gender": "m",
+      "the_word": "Un crayon de couleur",
+      "imageLink": "https://cdn4.vectorstock.com/i/1000x1000/27/98/astonished-cartoon-pencil-vector-1502798.jpg"
+    },
+    {
+      "word": "crayon",
+      "gender": "m",
+      "the_word": "Un crayon",
+      "imageLink": "https://cdn2.vectorstock.com/i/1000x1000/66/16/blue-pencil-vector-14086616.jpg"
+    },
+    {
+      "word": "cahier",
+      "gender": "m",
+      "the_word": "Un cahier",
+      "imageLink": "https://cdn5.vectorstock.com/i/1000x1000/30/74/cartoon-exercise-book-vector-21573074.jpg"
+    },
+    {
+      "word": "feuille de papier",
+      "gender": "f",
+      "the_word": "Une feuille de papier",
+      "imageLink": "https://cdn1.vectorstock.com/i/1000x1000/47/00/empty-pink-papers-vector-1924700.jpg"
+    },
+    {
+      "word": "colle",
+      "gender": "f",
+      "the_word": "Une colle",
+      "imageLink": "https://cdn.vectorstock.com/i/preview-1x/01/10/office-glue-bottle-cartoon-vector-47150110.jpg"
+    },
+    {
+      "word": "règle",
+      "gender": "f",
+      "the_word": "Une règle",
+      "imageLink": "https://www.shutterstock.com/image-photo/pink-plastic-ruler-isolated-on-260nw-1772203070.jpg"
+    },
+    {
+      "word": "tableau blanc",
+      "gender": "m",
+      "the_word": "Un tableau blanc",
+      "imageLink": "https://cdn5.vectorstock.com/i/1000x1000/66/49/cute-cartoon-price-tag-teacher-with-big-whiteboard-vector-42816649.jpg"
+    },
+    {
+      "word": "sac à dos",
+      "gender": "m",
+      "the_word": "Un sac à dos",
+      "imageLink": "https://cdn1.vectorstock.com/i/1000x1000/68/40/blue-backpack-icon-flat-style-vector-27066840.jpg"
+    },
+    {
+      "word": "cartable",
+      "gender": "m",
+      "the_word": "Un cartable",
+      "imageLink": "https://cdn4.vectorstock.com/i/1000x1000/11/38/blue-binder-vector-1501138.jpg"
     }
   ]
 }
