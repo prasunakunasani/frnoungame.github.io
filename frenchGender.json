@@ -4,289 +4,337 @@
       "word": "chat",
       "gender": "m",
       "the_word": "Un chat",
-      "imageLink": "https://storage.prompt-hunt.workers.dev/clg0w8r2o0033jt08bkynmzy4_1"
+      "imageLink": "https://storage.prompt-hunt.workers.dev/clg0w8r2o0033jt08bkynmzy4_1",
+      "eng_word": "cat"
     },
     {
       "word": "voiture",
       "gender": "f",
       "the_word": "Une voiture",
-      "imageLink": "https://cdn.pixabay.com/photo/2018/05/17/17/36/auto-3409184_960_720.jpg"
+      "imageLink": "https://cdn.pixabay.com/photo/2018/05/17/17/36/auto-3409184_960_720.jpg",
+      "eng_word": "car"
     },
     {
       "word": "livre",
       "gender": "m",
       "the_word": "Un livre",
-      "imageLink": "https://i.pinimg.com/474x/f3/f9/5b/f3f95bddbe7213b5b3d8d7f0a23ae653.jpg"
+      "imageLink": "https://i.pinimg.com/474x/f3/f9/5b/f3f95bddbe7213b5b3d8d7f0a23ae653.jpg",
+      "eng_word": "book"
     },
     {
       "word": "maison",
       "gender": "f",
       "the_word": "Une maison",
-      "imageLink": "https://cdn.pixabay.com/photo/2017/07/31/20/51/architecture-2560959_960_720.jpg"
+      "imageLink": "https://cdn.pixabay.com/photo/2017/07/31/20/51/architecture-2560959_960_720.jpg",
+      "eng_word": "house"
     },
     {
       "word": "chaise",
       "gender": "f",
       "the_word": "Une chaise",
-      "imageLink": "https://cdn.pixabay.com/photo/2014/12/21/23/39/armchair-575788_960_720.png"
+      "imageLink": "https://cdn.pixabay.com/photo/2014/12/21/23/39/armchair-575788_960_720.png",
+      "eng_word": "chair"
     },
     {
       "word": "vélo",
       "gender": "m",
       "the_word": "Un vélo",
-      "imageLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWArAC492OzuYQmZ-L0uT7vsfKGcI1ngMw1A&usqp=CAU"
+      "imageLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWArAC492OzuYQmZ-L0uT7vsfKGcI1ngMw1A&usqp=CAU",
+      "eng_word": "bicycle"
     },
     {
       "word": "arbre",
       "gender": "m",
       "the_word": "L'arbre",
-      "imageLink": "https://storage.prompt-hunt.workers.dev/clfezy4d70001js081996uo16_1"
+      "imageLink": "https://storage.prompt-hunt.workers.dev/clfezy4d70001js081996uo16_1",
+      "eng_word": "tree"
     },
     {
       "word": "table",
       "gender": "f",
       "the_word": "Une table",
-      "imageLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSq96XpjCl-smfST9U2XUr_pbL-QiaUMotwMg&usqp=CAU"
+      "imageLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSq96XpjCl-smfST9U2XUr_pbL-QiaUMotwMg&usqp=CAU",
+      "eng_word": "table"
     },
     {
       "word": "porte",
       "gender": "f",
       "the_word": "Une porte",
-      "imageLink": "https://cdn.pixabay.com/photo/2017/04/14/15/12/old-2230483_960_720.jpg"
+      "imageLink": "https://cdn.pixabay.com/photo/2017/04/14/15/12/old-2230483_960_720.jpg",
+      "eng_word": "door"
     },
     {
       "word": "stylo",
       "gender": "m",
       "the_word": "Un stylo",
-      "imageLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvGwjPS7mGwsg6dWB8zC2SCUeV2WDAVOzzsg&usqp=CAU"
+      "imageLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvGwjPS7mGwsg6dWB8zC2SCUeV2WDAVOzzsg&usqp=CAU",
+      "eng_word": "pen"
     },
     {
       "word": "chien",
       "gender": "m",
       "the_word": "Un chien",
-      "imageLink": "https://storage.prompt-hunt.workers.dev/clg378jyx0017jx08w50zeew5_1"
+      "imageLink": "https://storage.prompt-hunt.workers.dev/clg378jyx0017jx08w50zeew5_1",
+      "eng_word": "dog"
     },
     {
       "word": "fille",
       "gender": "f",
       "the_word": "Une fille",
-      "imageLink": "https://easydrawingguides.com/wp-content/uploads/2017/02/How-to-draw-a-cartoon-girl-20.png"
+      "imageLink": "https://easydrawingguides.com/wp-content/uploads/2017/02/How-to-draw-a-cartoon-girl-20.png",
+      "eng_word": "girl"
     },
     {
       "word": "garçon",
       "gender": "m",
       "the_word": "un garçon",
-      "imageLink": "https://img.freepik.com/premium-vector/cartoon-little-boy-yellow-jacket-peace-hand-sign_353337-605.jpg?w=2000"
+      "imageLink": "https://img.freepik.com/premium-vector/cartoon-little-boy-yellow-jacket-peace-hand-sign_353337-605.jpg?w=2000",
+      "eng_word": "boy"
     },
     {
       "word": "femme",
       "gender": "f",
       "the_word": "Une femme",
-      "imageLink": "https://cdn2.vectorstock.com/i/1000x1000/60/56/business-women-character-cartoon-vector-14196056.jpg"
+      "imageLink": "https://cdn2.vectorstock.com/i/1000x1000/60/56/business-women-character-cartoon-vector-14196056.jpg",
+      "eng_word": "woman"
     },
     {
       "word": "homme",
       "gender": "m",
       "the_word": "Un homme",
-      "imageLink": "https://media.istockphoto.com/id/980239992/vector/happy-handsome-man-showing-thumbs-up-concept-illustration-in-cartoon-style.jpg?s=612x612&w=0&k=20&c=1ikVDLkafPxGOLqq4gtIs4HQFBQpdjuiaSchIoqW_M4="
+      "imageLink": "https://media.istockphoto.com/id/980239992/vector/happy-handsome-man-showing-thumbs-up-concept-illustration-in-cartoon-style.jpg?s=612x612&w=0&k=20&c=1ikVDLkafPxGOLqq4gtIs4HQFBQpdjuiaSchIoqW_M4=",
+      "eng_word": "man"
     },
     {
       "word": "cheval",
       "gender": "m",
       "the_word": "Un cheval",
-      "imageLink": "https://cdn1.vectorstock.com/i/1000x1000/18/55/blue-horse-vector-1711855.jpg"
+      "imageLink": "https://cdn1.vectorstock.com/i/1000x1000/18/55/blue-horse-vector-1711855.jpg",
+      "eng_word": "horse"
     },
     {
       "word": "croissant",
       "gender": "m",
       "the_word": "Un croissant",
-      "imageLink": "https://cdn1.vectorstock.com/i/1000x1000/23/35/blue-croissant-on-a-white-background-vector-44312335.jpg"
+      "imageLink": "https://cdn1.vectorstock.com/i/1000x1000/23/35/blue-croissant-on-a-white-background-vector-44312335.jpg",
+      "eng_word": "croissant"
     },
     {
       "word": "hamburger",
       "gender": "m",
       "the_word": "Un hamburger",
-      "imageLink": "https://cdn5.vectorstock.com/i/1000x1000/77/69/burger-simple-sign-sky-blue-icon-vector-17167769.jpg"
+      "imageLink": "https://cdn5.vectorstock.com/i/1000x1000/77/69/burger-simple-sign-sky-blue-icon-vector-17167769.jpg",
+      "eng_word": "hamburger"
     },
     {
       "word": "restaurant",
       "gender": "m",
       "the_word": "Un restaurant",
-      "imageLink": "https://cdn2.vectorstock.com/i/1000x1000/64/01/cartoon-businessman-notebook-order-food-restaurant-vector-25076401.jpg"
+      "imageLink": "https://cdn2.vectorstock.com/i/1000x1000/64/01/cartoon-businessman-notebook-order-food-restaurant-vector-25076401.jpg",
+      "eng_word": "restaurant"
     },
     {
       "word": "passeport",
       "gender": "m",
       "the_word": "Un passeport",
-      "imageLink": "https://cdn1.vectorstock.com/i/1000x1000/52/50/passport-in-cartoon-style-on-white-vector-29015250.jpg"
+      "imageLink": "https://cdn1.vectorstock.com/i/1000x1000/52/50/passport-in-cartoon-style-on-white-vector-29015250.jpg",
+      "eng_word": "passport"
     },
     {
       "word": "valise",
       "gender": "f",
       "the_word": "Une valise",
-      "imageLink": "https://cdn5.vectorstock.com/i/1000x1000/00/09/line-color-travel-backpack-in-love-kawaii-cartoon-vector-19420009.jpg"
+      "imageLink": "https://cdn5.vectorstock.com/i/1000x1000/00/09/line-color-travel-backpack-in-love-kawaii-cartoon-vector-19420009.jpg",
+      "eng_word": "suitcase"
     },
     {
       "word": "gomme",
       "gender": "f",
       "the_word": "Une gomme",
-      "imageLink": "https://thumbs.dreamstime.com/b/happy-eraser-illustration-vector-white-background-207016599.jpg"
+      "imageLink": "https://thumbs.dreamstime.com/b/happy-eraser-illustration-vector-white-background-207016599.jpg",
+      "eng_word": "eraser"
     },
     {
       "word": "marqueur",
       "gender": "m",
       "the_word": "Un marqueur",
-      "imageLink": "https://cdn5.vectorstock.com/i/1000x1000/97/24/freehand-drawn-cartoon-marker-pen-vector-8649724.jpg"
+      "imageLink": "https://cdn5.vectorstock.com/i/1000x1000/97/24/freehand-drawn-cartoon-marker-pen-vector-8649724.jpg",
+      "eng_word": "marker"
     },
     {
       "word": "crayon de couleur",
       "gender": "m",
       "the_word": "Un crayon de couleur",
-      "imageLink": "https://cdn4.vectorstock.com/i/1000x1000/27/98/astonished-cartoon-pencil-vector-1502798.jpg"
+      "imageLink": "https://cdn4.vectorstock.com/i/1000x1000/27/98/astonished-cartoon-pencil-vector-1502798.jpg",
+      "eng_word": "colored pencil"
     },
     {
       "word": "crayon",
       "gender": "m",
       "the_word": "Un crayon",
-      "imageLink": "https://cdn2.vectorstock.com/i/1000x1000/66/16/blue-pencil-vector-14086616.jpg"
+      "imageLink": "https://cdn2.vectorstock.com/i/1000x1000/66/16/blue-pencil-vector-14086616.jpg",
+      "eng_word": "pencil"
     },
     {
       "word": "cahier",
       "gender": "m",
       "the_word": "Un cahier",
-      "imageLink": "https://cdn5.vectorstock.com/i/1000x1000/30/74/cartoon-exercise-book-vector-21573074.jpg"
+      "imageLink": "https://cdn5.vectorstock.com/i/1000x1000/30/74/cartoon-exercise-book-vector-21573074.jpg",
+      "eng_word": "notebook"
     },
     {
       "word": "feuille de papier",
       "gender": "f",
       "the_word": "Une feuille de papier",
-      "imageLink": "https://cdn1.vectorstock.com/i/1000x1000/47/00/empty-pink-papers-vector-1924700.jpg"
+      "imageLink": "https://cdn1.vectorstock.com/i/1000x1000/47/00/empty-pink-papers-vector-1924700.jpg",
+      "eng_word": "paper sheet"
     },
     {
       "word": "colle",
       "gender": "f",
       "the_word": "Une colle",
-      "imageLink": "https://cdn.vectorstock.com/i/preview-1x/01/10/office-glue-bottle-cartoon-vector-47150110.jpg"
+      "imageLink": "https://cdn.vectorstock.com/i/preview-1x/01/10/office-glue-bottle-cartoon-vector-47150110.jpg",
+      "eng_word": "glue"
     },
     {
       "word": "règle",
       "gender": "f",
       "the_word": "Une règle",
-      "imageLink": "https://www.shutterstock.com/image-photo/pink-plastic-ruler-isolated-on-260nw-1772203070.jpg"
+      "imageLink": "https://www.shutterstock.com/image-photo/pink-plastic-ruler-isolated-on-260nw-1772203070.jpg",
+      "eng_word": "ruler"
     },
     {
       "word": "tableau blanc",
       "gender": "m",
       "the_word": "Un tableau blanc",
-      "imageLink": "https://cdn5.vectorstock.com/i/1000x1000/66/49/cute-cartoon-price-tag-teacher-with-big-whiteboard-vector-42816649.jpg"
+      "imageLink": "https://cdn5.vectorstock.com/i/1000x1000/66/49/cute-cartoon-price-tag-teacher-with-big-whiteboard-vector-42816649.jpg",
+      "eng_word": "whiteboard"
     },
     {
       "word": "sac à dos",
       "gender": "m",
       "the_word": "Un sac à dos",
-      "imageLink": "https://cdn1.vectorstock.com/i/1000x1000/68/40/blue-backpack-icon-flat-style-vector-27066840.jpg"
+      "imageLink": "https://cdn1.vectorstock.com/i/1000x1000/68/40/blue-backpack-icon-flat-style-vector-27066840.jpg",
+      "eng_word": "backpack"
     },
     {
       "word": "cartable",
       "gender": "m",
       "the_word": "Un cartable",
-      "imageLink": "https://cdn4.vectorstock.com/i/1000x1000/11/38/blue-binder-vector-1501138.jpg"
+      "imageLink": "https://cdn4.vectorstock.com/i/1000x1000/11/38/blue-binder-vector-1501138.jpg",
+      "eng_word": "school bag"
     },
     {
       "word": "extrait",
       "gender": "m",
       "the_word": "Un extrait",
-      "imageLink": ""
+      "imageLink": "",
+      "eng_word": "excerpt"
     },
     {
       "word": "compte",
       "gender": "m",
       "the_word": "Un compte",
-      "imageLink": "https://ichef.bbci.co.uk/images/ic/1920x1080/p099dmrp.png"
+      "imageLink": "https://ichef.bbci.co.uk/images/ic/1920x1080/p099dmrp.png",
+      "eng_word": "account"
     },
     {
       "word": "téléphone",
       "gender": "m",
       "the_word": "Un téléphone",
-      "imageLink": "https://cdn3.vectorstock.com/i/1000x1000/81/02/cartoon-blue-landline-telephone-vector-2078102.jpg"
+      "imageLink": "https://cdn3.vectorstock.com/i/1000x1000/81/02/cartoon-blue-landline-telephone-vector-2078102.jpg",
+      "eng_word": "telephone"
     },
     {
       "word": "mois",
       "gender": "m",
       "the_word": "Un mois",
-      "imageLink": "https://cdn1.vectorstock.com/i/1000x1000/05/30/month-time-management-icon-cartoon-style-vector-36840530.jpg"
+      "imageLink": "https://cdn1.vectorstock.com/i/1000x1000/05/30/month-time-management-icon-cartoon-style-vector-36840530.jpg",
+      "eng_word": "month"
     },
     {
       "word": "janvier",
       "gender": "m",
       "the_word": "Janvier",
-      "imageLink": "https://thumbs.dreamstime.com/z/calendar-design-template-year-blue-tiger-chinese-new-january-vector-stock-flat-illustration-cartoon-months-231209381.jpg"
+      "imageLink": "https://thumbs.dreamstime.com/z/calendar-design-template-year-blue-tiger-chinese-new-january-vector-stock-flat-illustration-cartoon-months-231209381.jpg",
+      "eng_word": "January"
     },
     {
       "word": "février",
       "gender": "m",
       "the_word": "Février",
-      "imageLink": "https://img.freepik.com/premium-vector/calendar-design-template-year-blue-tiger-chinese-new-year-february-vector-stock-flat-illustr_497982-321.jpg?w=2000"
+      "imageLink": "https://img.freepik.com/premium-vector/calendar-design-template-year-blue-tiger-chinese-new-year-february-vector-stock-flat-illustr_497982-321.jpg?w=2000",
+      "eng_word": "February"
     },
     {
       "word": "mars",
       "gender": "m",
       "the_word": "Mars",
-      "imageLink": "https://thumbs.dreamstime.com/z/calendar-design-template-year-blue-tiger-chinese-new-march-vector-stock-flat-illustration-cartoon-months-231209406.jpg"
+      "imageLink": "https://thumbs.dreamstime.com/z/calendar-design-template-year-blue-tiger-chinese-new-march-vector-stock-flat-illustration-cartoon-months-231209406.jpg",
+      "eng_word": "March"
     },
     {
       "word": "avril",
       "gender": "m",
       "the_word": "Avril",
-      "imageLink": "https://en.pimg.jp/082/626/335/1/82626335.jpg"
+      "imageLink": "https://en.pimg.jp/082/626/335/1/82626335.jpg",
+      "eng_word": "April"
     },
     {
       "word": "mai",
       "gender": "m",
       "the_word": "Mai",
-      "imageLink": "https://thumbs.dreamstime.com/b/calendar-design-template-year-blue-tiger-chinese-new-may-vector-stock-flat-illustration-cartoon-months-231209424.jpg"
+      "imageLink": "https://thumbs.dreamstime.com/b/calendar-design-template-year-blue-tiger-chinese-new-may-vector-stock-flat-illustration-cartoon-months-231209424.jpg",
+      "eng_word": "May"
     },
     {
       "word": "juin",
       "gender": "m",
       "the_word": "Juin",
-      "imageLink": "https://thumbs.dreamstime.com/z/calendar-design-template-year-blue-tiger-chinese-new-june-vector-stock-flat-illustration-cartoon-months-231209432.jpg"
+      "imageLink": "https://thumbs.dreamstime.com/z/calendar-design-template-year-blue-tiger-chinese-new-june-vector-stock-flat-illustration-cartoon-months-231209432.jpg",
+      "eng_word": "June"
     },
     {
       "word": "juillet",
       "gender": "m",
       "the_word": "Juillet",
-      "imageLink": "https://thumbs.dreamstime.com/b/calendar-design-template-year-blue-tiger-chinese-new-year-july-vector-stock-flat-illustration-cartoon-calendar-design-231280850.jpg"
+      "imageLink": "https://thumbs.dreamstime.com/b/calendar-design-template-year-blue-tiger-chinese-new-year-july-vector-stock-flat-illustration-cartoon-calendar-design-231280850.jpg",
+      "eng_word": "July"
     },
     {
       "word": "août",
       "gender": "m",
       "the_word": "Août",
-      "imageLink": "https://cdn5.vectorstock.com/i/1000x1000/39/99/calendar-design-template-for-2022-year-of-blue-vector-39663999.jpg"
+      "imageLink": "https://cdn5.vectorstock.com/i/1000x1000/39/99/calendar-design-template-for-2022-year-of-blue-vector-39663999.jpg",
+      "eng_word": "August"
     },
     {
       "word": "septembre",
       "gender": "m",
       "the_word": "Septembre",
-      "imageLink": "https://img.freepik.com/premium-vector/calendar-design-template-year-blue-tiger-chinese-new-year-september-vector-stock-flat-illust_497982-331.jpg?w=2000"
+      "imageLink": "https://img.freepik.com/premium-vector/calendar-design-template-year-blue-tiger-chinese-new-year-september-vector-stock-flat-illust_497982-331.jpg?w=2000",
+      "eng_word": "September"
     },
     {
       "word": "octobre",
       "gender": "m",
       "the_word": "Octobre",
-      "imageLink": "https://img.freepik.com/premium-vector/calendar-design-template-year-blue-tiger-chinese-new-year-october-vector-stock-flat-illustra_497982-332.jpg?w=2000"
+      "imageLink": "https://img.freepik.com/premium-vector/calendar-design-template-year-blue-tiger-chinese-new-year-october-vector-stock-flat-illustra_497982-332.jpg?w=2000",
+      "eng_word": "October"
     },
     {
       "word": "novembre",
       "gender": "m",
       "the_word": "Novembre",
-      "imageLink": "https://img.freepik.com/premium-vector/calendar-design-template-year-blue-tiger-chinese-new-year-november-vector-stock-flat-illustr_497982-333.jpg"
+      "imageLink": "https://img.freepik.com/premium-vector/calendar-design-template-year-blue-tiger-chinese-new-year-november-vector-stock-flat-illustr_497982-333.jpg",
+      "eng_word": "November"
     },
     {
       "word": "décembre",
       "gender": "m",
       "the_word": "Décembre",
-      "imageLink": "https://img.freepik.com/premium-vector/calendar-design-template-year-blue-tiger-chinese-new-year-december-vector-stock-flat-illustr_497982-334.jpg?w=2000"
+      "imageLink": "https://img.freepik.com/premium-vector/calendar-design-template-year-blue-tiger-chinese-new-year-december-vector-stock-flat-illustr_497982-334.jpg?w=2000",
+      "eng_word": "December"
     }
   ]
 }
