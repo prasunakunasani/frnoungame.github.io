@@ -95,7 +95,8 @@ fetch("frenchGender.json")
             if (userAnswer === correctAnswer) {
                 messageElement.textContent = "Correct!";
                 score++;
-                scoreElement.textContent = `Score: ${score}`;
+                //todo - fix the -1 garbage
+                scoreElement.textContent = `Score: ${score}/${(nouns.length)-1}`;
                 noun.answeredCorrectly = true; // Mark the noun as answered correctly
             } else {
                 messageElement.textContent = `Wrong! The correct answer is "${correctAnswer}".`;
@@ -109,7 +110,7 @@ fetch("frenchGender.json")
             const userAnswerCell = row.insertCell(2);
             const correctAnswerCell = row.insertCell(3);
             const resultCell = row.insertCell(4);
-            numberCell.textContent = resultsTable.rows.length - 1;
+            numberCell.textContent = resultsTable.rows.length ;
             wordCell.textContent = noun.word;
             userAnswerCell.textContent = userAnswer;
             correctAnswerCell.textContent = correctAnswer;
@@ -157,7 +158,8 @@ fetch("frenchGender.json")
             cardBody.appendChild(hintButton);
 
             // Reset the score to 0
-            scoreElement.textContent = `Score: ${score}`;
+            //todo - fix the -1 garbage
+            scoreElement.textContent = `Score: ${score}/${(nouns.length)-1}`;
 
             // Display the first question
             displayQuestion();

@@ -16,7 +16,7 @@
       "word": "livre",
       "gender": "m",
       "the_word": "Un livre",
-      "imageLink": "https://www.theweddingshoppe.ca/v/vspfiUns/photos/WS9688-26-2.jpg"
+      "imageLink": "https://i.pinimg.com/474x/f3/f9/5b/f3f95bddbe7213b5b3d8d7f0a23ae653.jpg"
     },
     {
       "word": "maison",
@@ -191,6 +191,102 @@
       "gender": "m",
       "the_word": "Un cartable",
       "imageLink": "https://cdn4.vectorstock.com/i/1000x1000/11/38/blue-binder-vector-1501138.jpg"
+    },
+    {
+      "word": "extrait",
+      "gender": "m",
+      "the_word": "Un extrait",
+      "imageLink": ""
+    },
+    {
+      "word": "compte",
+      "gender": "m",
+      "the_word": "Un compte",
+      "imageLink": "https://ichef.bbci.co.uk/images/ic/1920x1080/p099dmrp.png"
+    },
+    {
+      "word": "téléphone",
+      "gender": "m",
+      "the_word": "Un téléphone",
+      "imageLink": "https://cdn3.vectorstock.com/i/1000x1000/81/02/cartoon-blue-landline-telephone-vector-2078102.jpg"
+    },
+    {
+      "word": "mois",
+      "gender": "m",
+      "the_word": "Un mois",
+      "imageLink": "https://cdn1.vectorstock.com/i/1000x1000/05/30/month-time-management-icon-cartoon-style-vector-36840530.jpg"
+    },
+    {
+      "word": "janvier",
+      "gender": "m",
+      "the_word": "Janvier",
+      "imageLink": "https://thumbs.dreamstime.com/z/calendar-design-template-year-blue-tiger-chinese-new-january-vector-stock-flat-illustration-cartoon-months-231209381.jpg"
+    },
+    {
+      "word": "février",
+      "gender": "m",
+      "the_word": "Février",
+      "imageLink": "https://img.freepik.com/premium-vector/calendar-design-template-year-blue-tiger-chinese-new-year-february-vector-stock-flat-illustr_497982-321.jpg?w=2000"
+    },
+    {
+      "word": "mars",
+      "gender": "m",
+      "the_word": "Mars",
+      "imageLink": "https://thumbs.dreamstime.com/z/calendar-design-template-year-blue-tiger-chinese-new-march-vector-stock-flat-illustration-cartoon-months-231209406.jpg"
+    },
+    {
+      "word": "avril",
+      "gender": "m",
+      "the_word": "Avril",
+      "imageLink": "https://en.pimg.jp/082/626/335/1/82626335.jpg"
+    },
+    {
+      "word": "mai",
+      "gender": "m",
+      "the_word": "Mai",
+      "imageLink": "https://thumbs.dreamstime.com/b/calendar-design-template-year-blue-tiger-chinese-new-may-vector-stock-flat-illustration-cartoon-months-231209424.jpg"
+    },
+    {
+      "word": "juin",
+      "gender": "m",
+      "the_word": "Juin",
+      "imageLink": "https://thumbs.dreamstime.com/z/calendar-design-template-year-blue-tiger-chinese-new-june-vector-stock-flat-illustration-cartoon-months-231209432.jpg"
+    },
+    {
+      "word": "juillet",
+      "gender": "m",
+      "the_word": "Juillet",
+      "imageLink": "https://thumbs.dreamstime.com/b/calendar-design-template-year-blue-tiger-chinese-new-year-july-vector-stock-flat-illustration-cartoon-calendar-design-231280850.jpg"
+    },
+    {
+      "word": "août",
+      "gender": "m",
+      "the_word": "Août",
+      "imageLink": "https://cdn5.vectorstock.com/i/1000x1000/39/99/calendar-design-template-for-2022-year-of-blue-vector-39663999.jpg"
+    },
+    {
+      "word": "septembre",
+      "gender": "m",
+      "the_word": "Septembre",
+      "imageLink": "https://img.freepik.com/premium-vector/calendar-design-template-year-blue-tiger-chinese-new-year-september-vector-stock-flat-illust_497982-331.jpg?w=2000"
+    },
+    {
+      "word": "octobre",
+      "gender": "m",
+      "the_word": "Octobre",
+      "imageLink": "https://img.freepik.com/premium-vector/calendar-design-template-year-blue-tiger-chinese-new-year-october-vector-stock-flat-illustra_497982-332.jpg?w=2000"
+    },
+    {
+      "word": "novembre",
+      "gender": "m",
+      "the_word": "Novembre",
+      "imageLink": "https://img.freepik.com/premium-vector/calendar-design-template-year-blue-tiger-chinese-new-year-november-vector-stock-flat-illustr_497982-333.jpg"
+    },
+    {
+      "word": "décembre",
+      "gender": "m",
+      "the_word": "Décembre",
+      "imageLink": "https://img.freepik.com/premium-vector/calendar-design-template-year-blue-tiger-chinese-new-year-december-vector-stock-flat-illustr_497982-334.jpg?w=2000"
     }
   ]
 }
