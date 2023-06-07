@@ -11,14 +11,16 @@ fetch("frenchGender.json")
         const cardBody = document.querySelector(".card-body"); // Get the card body element
         const masculineButton = document.getElementById("masculine"); // Get the masculine button element
         const feminineButton = document.getElementById("feminine"); // Get the feminine button element
-        const wordElement = document.getElementById("word"); // Get the word element
+        const frenchWordElement = document.getElementById("fr_word"); // Get the word element
+        const engWordElement = document.getElementById("eng_word"); // Get the word element
         const imageElement = document.getElementById("image"); // Get the image element
         const hintButton = document.getElementById("hint"); // Get the hint button element
         const resultsTable = document.getElementById("scoreboard-body"); // Get the results table element
         let gameEnded = false; // Flag variable to keep track of game ending
 
         // Append the word, image, and hint button elements to the card body
-        cardBody.appendChild(wordElement);
+        cardBody.appendChild(frenchWordElement);
+        cardBody.appendChild(engWordElement);
         cardBody.appendChild(imageElement);
         cardBody.appendChild(hintButton);
 
@@ -42,7 +44,9 @@ fetch("frenchGender.json")
             }
             imageElement.classList.remove("hidden");
             imageElement.src = nouns[currentNounIndex].imageLink;
-            wordElement.textContent = nouns[currentNounIndex].the_word;
+            frenchWordElement.textContent = nouns[currentNounIndex].the_word;
+            engWordElement.textContent = "Eng: "+nouns[currentNounIndex].eng_word;
+
         });
 
         // Function to display a new question
@@ -62,7 +66,8 @@ fetch("frenchGender.json")
                 currentNounIndex = nouns.indexOf(noun); // Update the current noun index
                 noun.answered = true; // Mark the noun as answered
                 questionElement.textContent = " " + noun.word + "?"; // Display the question
-                wordElement.textContent = ""; // Clear the word element
+                frenchWordElement.textContent = ""; // Clear the word element
+                engWordElement.textContent = ""; // Clear the word element
                 imageElement.src = ""; // Clear the image element
                 messageElement.textContent = ""; // Clear the message element
 

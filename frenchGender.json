@@ -335,6 +335,1616 @@
       "the_word": "Décembre",
       "imageLink": "https://img.freepik.com/premium-vector/calendar-design-template-year-blue-tiger-chinese-new-year-december-vector-stock-flat-illustr_497982-334.jpg?w=2000",
       "eng_word": "December"
+    },
+    {
+      "word": "père",
+      "gender": "m",
+      "the_word": "le père",
+      "imageLink": "",
+      "eng_word": "the father"
+    },
+    {
+      "word": "frère",
+      "gender": "m",
+      "the_word": "le frère",
+      "imageLink": "",
+      "eng_word": "the brother"
+    },
+    {
+      "word": "état",
+      "gender": "m",
+      "the_word": "Un état",
+      "imageLink": "https://example.com/state_image.jpg",
+      "eng_word": "state"
+    },
+    {
+      "word": "condition",
+      "gender": "f",
+      "the_word": "Une condition",
+      "imageLink": "https://example.com/condition_image.jpg",
+      "eng_word": "condition"
+    },
+    {
+      "word": "bâtiment",
+      "gender": "m",
+      "the_word": "Un bâtiment",
+      "imageLink": "https://example.com/building_image.jpg",
+      "eng_word": "building"
+    },
+    {
+      "word": "situation",
+      "gender": "f",
+      "the_word": "Une situation",
+      "imageLink": "https://example.com/situation_image.jpg",
+      "eng_word": "situation"
+    },
+    {
+      "word": "personne",
+      "gender": "f",
+      "the_word": "Une personne",
+      "imageLink": "https://example.com/person_image.jpg",
+      "eng_word": "person"
+    },
+    {
+      "word": "responsable",
+      "gender": "m",
+      "the_word": "Un responsable",
+      "imageLink": "https://example.com/person_in_charge_image.jpg",
+      "eng_word": "person in charge"
+    },
+    {
+      "word": "remboursement",
+      "gender": "m",
+      "the_word": "Un remboursement",
+      "imageLink": "https://example.com/refund_image.jpg",
+      "eng_word": "refund"
+    },
+    {
+      "word": "remboursement",
+      "gender": "m",
+      "the_word": "Un remboursement",
+      "imageLink": "https://example.com/reimbursement_image.jpg",
+      "eng_word": "reimbursement"
+    },
+    {
+      "word": "rapport",
+      "gender": "m",
+      "the_word": "Un rapport",
+      "imageLink": "https://example.com/report_image.jpg",
+      "eng_word": "report"
+    },
+    {
+      "word": "échéance",
+      "gender": "f",
+      "the_word": "Une échéance",
+      "imageLink": "https://example.com/deadline_image.jpg",
+      "eng_word": "deadline"
+    },
+    {
+      "word": "retard",
+      "gender": "m",
+      "the_word": "Un retard",
+      "imageLink": "https://example.com/delay_image.jpg",
+      "eng_word": "delay"
+    },
+    {
+      "word": "édifice",
+      "gender": "m",
+      "the_word": "Un édifice",
+      "imageLink": "https://example.com/edifice_image.jpg",
+      "eng_word": "building"
+    },
+    {
+      "word": "couverture",
+      "gender": "f",
+      "the_word": "Une couverture",
+      "imageLink": "https://example.com/couverture_image.jpg",
+      "eng_word": "cover"
+    },
+    {
+      "word": "numéro",
+      "gender": "m",
+      "the_word": "Un numéro",
+      "imageLink": "https://example.com/numero_image.jpg",
+      "eng_word": "number"
+    },
+    {
+      "word": "identification",
+      "gender": "f",
+      "the_word": "Une identification",
+      "imageLink": "https://example.com/identification_image.jpg",
+      "eng_word": "identification"
+    },
+    {
+      "word": "nom",
+      "gender": "m",
+      "the_word": "Un nom",
+      "imageLink": "https://example.com/nom_image.jpg",
+      "eng_word": "name"
+    },
+    {
+      "word": "reproduction",
+      "gender": "f",
+      "the_word": "Une reproduction",
+      "imageLink": "https://example.com/reproduction_image.jpg",
+      "eng_word": "reproduction"
+    },
+    {
+      "word": "été",
+      "gender": "m",
+      "the_word": "L'été",
+      "imageLink": "https://example.com/ete_image.jpg",
+      "eng_word": "summer"
+    },
+    {
+      "word": "service",
+      "gender": "m",
+      "the_word": "Le service",
+      "imageLink": "https://example.com/service_image.jpg",
+      "eng_word": "service"
+    },
+    {
+      "word": "paye",
+      "gender": "f",
+      "the_word": "La paye",
+      "imageLink": "https://example.com/paye_image.jpg",
+      "eng_word": "payroll"
+    },
+    {
+      "word": "surplus",
+      "gender": "m",
+      "the_word": "Un surplus",
+      "imageLink": "https://example.com/surplus_image.jpg",
+      "eng_word": "surplus"
+    },
+    {
+      "word": "travail",
+      "gender": "m",
+      "the_word": "Le travail",
+      "imageLink": "https://example.com/travail_image.jpg",
+      "eng_word": "work"
+    },
+    {
+      "word": "personnel",
+      "gender": "m",
+      "the_word": "Le personnel",
+      "imageLink": "https://example.com/personnel_image.jpg",
+      "eng_word": "personnel"
+    },
+    {
+      "word": "normale",
+      "gender": "f",
+      "the_word": "La normale",
+      "imageLink": "https://example.com/normale_image.jpg",
+      "eng_word": "normal"
+    },
+    {
+      "word": "courrier",
+      "gender": "m",
+      "the_word": "Le courrier",
+      "imageLink": "https://example.com/courrier_image.jpg",
+      "eng_word": "mail"
+    },
+    {
+      "word": "région",
+      "gender": "f",
+      "the_word": "La région",
+      "imageLink": "https://example.com/regions_image.jpg",
+      "eng_word": "region"
+    },
+    {
+      "word": "unité",
+      "gender": "f",
+      "the_word": "L'unité",
+      "imageLink": "https://example.com/unites_image.jpg",
+      "eng_word": "unit"
+    },
+    {
+      "word": "Direction générale",
+      "gender": "f",
+      "the_word": "La Direction générale",
+      "imageLink": "https://example.com/direction_generale_image.jpg",
+      "eng_word": "General Directorate"
+    },
+    {
+      "word": "service",
+      "gender": "m",
+      "the_word": "Le service",
+      "imageLink": "https://example.com/service_image.jpg",
+      "eng_word": "service"
+    },
+    {
+      "word": "Secrétariat",
+      "gender": "m",
+      "the_word": "Le Secrétariat",
+      "imageLink": "https://example.com/secretariat_image.jpg",
+      "eng_word": "Secretariat"
+    },
+    {
+      "word": "livraison",
+      "gender": "f",
+      "the_word": "La livraison",
+      "imageLink": "https://example.com/livraison_image.jpg",
+      "eng_word": "delivery"
+    },
+    {
+      "word": "jour",
+      "gender": "m",
+      "the_word": "Le jour",
+      "imageLink": "https://example.com/jour_image.jpg",
+      "eng_word": "day"
+    },
+    {
+      "word": "expédition",
+      "gender": "f",
+      "the_word": "L'expédition",
+      "imageLink": "https://example.com/expedition_image.jpg",
+      "eng_word": "shipment"
+    },
+    {
+      "word": "casier",
+      "gender": "m",
+      "the_word": "Le casiers",
+      "imageLink": "https://example.com/casiers_image.jpg",
+      "eng_word": "mailboxes"
+    },
+    {
+      "word": "local",
+      "gender": "m",
+      "the_word": "Le locaux",
+      "imageLink": "https://example.com/locaux_image.jpg",
+      "eng_word": "premises"
+    },
+    {
+      "word": "pièce",
+      "gender": "f",
+      "the_word": "La pièce",
+      "imageLink": "https://example.com/piece_image.jpg",
+      "eng_word": "room"
+    },
+    {
+      "word": "étage",
+      "gender": "m",
+      "the_word": "L'étage",
+      "imageLink": "https://example.com/etage_image.jpg",
+      "eng_word": "floor"
+    },
+    {
+      "word": "mardi",
+      "gender": "m",
+      "the_word": "Mardi",
+      "imageLink": "https://example.com/mardi_image.jpg",
+      "eng_word": "Tuesday"
+    },
+    {
+      "word": "tableau",
+      "gender": "m",
+      "the_word": "Le tableau",
+      "imageLink": "https://example.com/tableau_image.jpg",
+      "eng_word": "Board"
+    },
+    {
+      "word": "section",
+      "gender": "f",
+      "the_word": "La section",
+      "imageLink": "https://example.com/section_image.jpg",
+      "eng_word": "section"
+    },
+    {
+      "word": "document",
+      "gender": "m",
+      "the_word": "Le document",
+      "imageLink": "https://example.com/document_image.jpg",
+      "eng_word": "document"
+    },
+    {
+      "word": "semaine",
+      "gender": "f",
+      "the_word": "La semaine",
+      "imageLink": "https://example.com/semaine_image.jpg",
+      "eng_word": "week"
+    },
+    {
+      "word": "comité",
+      "gender": "m",
+      "the_word": "Le comité",
+      "imageLink": "https://example.com/comite_image.jpg",
+      "eng_word": "committee"
+    },
+    {
+      "word": "télévision",
+      "gender": "f",
+      "the_word": "La télévision",
+      "imageLink": "https://example.com/television_image.jpg",
+      "eng_word": "television"
+    },
+    {
+      "word": "anglais",
+      "gender": "m",
+      "the_word": "L'anglais",
+      "imageLink": "https://example.com/anglais_image.jpg",
+      "eng_word": "English"
+    },
+    {
+      "word": "français",
+      "gender": "m",
+      "the_word": "Le français",
+      "imageLink": "https://example.com/francais_image.jpg",
+      "eng_word": "French"
+    },
+    {
+      "word": "révision",
+      "gender": "f",
+      "the_word": "La révision",
+      "imageLink": "https://example.com/revision_image.jpg",
+      "eng_word": "revision"
+    },
+    {
+      "word": "version",
+      "gender": "f",
+      "the_word": "La version",
+      "imageLink": "https://example.com/version_image.jpg",
+      "eng_word": "version"
+    },
+    {
+      "word": "secrétaire",
+      "gender": "m",
+      "the_word": "Le secrétaire",
+      "imageLink": "https://example.com/secretaire_image.jpg",
+      "eng_word": "secretary"
+    },
+    {
+      "word": "directive",
+      "gender": "f",
+      "the_word": "La directive",
+      "imageLink": "https://example.com/directive_image.jpg",
+      "eng_word": "directive"
+    },
+    {
+      "word": "décentralisation",
+      "gender": "f",
+      "the_word": "La décentralisation",
+      "imageLink": "https://example.com/decentralisation_image.jpg",
+      "eng_word": "decentralization"
+    },
+    {
+      "word": "déménagement",
+      "gender": "m",
+      "the_word": "Le déménagement",
+      "imageLink": "https://example.com/demenagement_image.jpg",
+      "eng_word": "relocation"
+    },
+    {
+      "word": "employé",
+      "gender": "m",
+      "the_word": "L'employé",
+      "imageLink": "https://example.com/employe_image.jpg",
+      "eng_word": "employee"
+    },
+    {
+      "word": "programme de formation",
+      "gender": "m",
+      "the_word": "Le programme de formation",
+      "imageLink": "https://example.com/programme_formation_image.jpg",
+      "eng_word": "training program"
+    },
+    {
+      "word": "réaffectation",
+      "gender": "f",
+      "the_word": "La réaffectation",
+      "imageLink": "https://example.com/reaffectation_image.jpg",
+      "eng_word": "reassignment"
+    },
+    {
+      "word": "Fonction publique",
+      "gender": "f",
+      "the_word": "La Fonction publique",
+      "imageLink": "https://example.com/fonction_publique_image.jpg",
+      "eng_word": "public service"
+    },
+    {
+      "word": "cours de formation",
+      "gender": "m",
+      "the_word": "Le cours de formation",
+      "imageLink": "https://example.com/cours_formation_image.jpg",
+      "eng_word": "training course"
+    },
+    {
+      "word": "durée",
+      "gender": "f",
+      "the_word": "La durée",
+      "imageLink": "https://example.com/duree_image.jpg",
+      "eng_word": "duration"
+    },
+    {
+      "word": "lettre",
+      "gender": "f",
+      "the_word": "La lettre",
+      "imageLink": "https://example.com/lettre_image.jpg",
+      "eng_word": "letter"
+    },
+    {
+      "word": "adresse",
+      "gender": "f",
+      "the_word": "L'adresse",
+      "imageLink": "https://example.com/adresse_image.jpg",
+      "eng_word": "address"
+    },
+    {
+      "word": "domicile",
+      "gender": "m",
+      "the_word": "Le domicile",
+      "imageLink": "https://example.com/domicile_image.jpg",
+      "eng_word": "residence"
+    },
+    {
+      "word": " adresse",
+      "gender": "f",
+      "the_word": "La adresse",
+      "imageLink": "https://example.com/nouvelle_adresse_image.jpg",
+      "eng_word": "address"
+    },
+    {
+      "word": "ancienne adresse",
+      "gender": "f",
+      "the_word": "L'ancienne adresse",
+      "imageLink": "https://example.com/ancienne_adresse_image.jpg",
+      "eng_word": "old address"
+    },
+    {
+      "word": "recherche",
+      "gender": "f",
+      "the_word": "La recherche",
+      "imageLink": "https://example.com/recherche_image.jpg",
+      "eng_word": "research"
+    },
+    {
+      "word": "enquête",
+      "gender": "f",
+      "the_word": "L'enquête",
+      "imageLink": "https://example.com/enquete_image.jpg",
+      "eng_word": "investigation"
+    },
+    {
+      "word": "cause",
+      "gender": "f",
+      "the_word": "La cause",
+      "imageLink": "https://example.com/cause_image.jpg",
+      "eng_word": "cause"
+    },
+    {
+      "word": "accident",
+      "gender": "m",
+      "the_word": "L'accident",
+      "imageLink": "https://example.com/accident_image.jpg",
+      "eng_word": "accident"
+    },
+    {
+      "word": "soirée",
+      "gender": "f",
+      "the_word": "La soirée",
+      "imageLink": "https://example.com/soiree_image.jpg",
+      "eng_word": "evening/party"
+    },
+    {
+      "word": "fête",
+      "gender": "f",
+      "the_word": "La fête",
+      "imageLink": "https://example.com/fete_image.jpg",
+      "eng_word": "celebration/holiday"
+    },
+    {
+      "word": "sondage",
+      "gender": "m",
+      "the_word": "Le sondage",
+      "imageLink": "https://example.com/sondage_image.jpg",
+      "eng_word": "survey"
+    },
+    {
+      "word": "membre du personnel",
+      "gender": "m",
+      "the_word": "Le membre du personnel",
+      "imageLink": "https://example.com/membre_personnel_image.jpg",
+      "eng_word": "staff member"
+    },
+    {
+      "word": "majorité",
+      "gender": "f",
+      "the_word": "La majorité",
+      "imageLink": "https://example.com/majorite_image.jpg",
+      "eng_word": "majority"
+    },
+    {
+      "word": "ministère",
+      "gender": "m",
+      "the_word": "Le ministère",
+      "imageLink": "https://example.com/ministere_image.jpg",
+      "eng_word": "ministry"
+    },
+    {
+      "word": "approche",
+      "gender": "f",
+      "the_word": "Une approche",
+      "imageLink": "https://example.com/approche_image.jpg",
+      "eng_word": "approach"
+    },
+    {
+      "word": "datation",
+      "gender": "f",
+      "the_word": "La datation",
+      "imageLink": "https://example.com/datation_image.jpg",
+      "eng_word": "dating"
+    },
+    {
+      "word": "correspondance",
+      "gender": "f",
+      "the_word": "La correspondance",
+      "imageLink": "https://example.com/correspondance_image.jpg",
+      "eng_word": "correspondence"
+    },
+    {
+      "word": "personnel",
+      "gender": "m",
+      "the_word": "Le personnel",
+      "imageLink": "https://example.com/personnel_image.jpg",
+      "eng_word": "personnel/staff"
+    },
+    {
+      "word": "norme",
+      "gender": "f",
+      "the_word": "La norme",
+      "imageLink": "https://example.com/norme_image.jpg",
+      "eng_word": "standard"
+    },
+    {
+      "word": "norme propre",
+      "gender": "f",
+      "the_word": "La norme propre",
+      "imageLink": "https://example.com/norme_propre_image.jpg",
+      "eng_word": "specific standard"
+    },
+    {
+      "word": "langue",
+      "gender": "f",
+      "the_word": "La langue",
+      "imageLink": "https://example.com/langue_image.jpg",
+      "eng_word": "language"
+    },
+    {
+      "word": "plaisir",
+      "gender": "m",
+      "the_word": "Le plaisir",
+      "imageLink": "https://example.com/plaisir_image.jpg",
+      "eng_word": "pleasure"
+    },
+    {
+      "word": "région",
+      "gender": "f",
+      "the_word": "La région",
+      "imageLink": "https://example.com/region_image.jpg",
+      "eng_word": "region"
+    },
+    {
+      "word": "disposition",
+      "gender": "f",
+      "the_word": "La disposition",
+      "imageLink": "https://example.com/disposition_image.jpg",
+      "eng_word": "availability"
+    },
+    {
+      "word": "matériel",
+      "gender": "m",
+      "the_word": "Le matériel",
+      "imageLink": "https://example.com/materiel_image.jpg",
+      "eng_word": "material"
+    },
+    {
+      "word": "liste",
+      "gender": "f",
+      "the_word": "La liste",
+      "imageLink": "https://example.com/liste_image.jpg",
+      "eng_word": "list"
+    },
+    {
+      "word": "façon",
+      "gender": "f",
+      "the_word": "La façon",
+      "imageLink": "https://example.com/facon_image.jpg",
+      "eng_word": "way"
+    },
+    {
+      "word": "conversation",
+      "gender": "f",
+      "the_word": "La conversation",
+      "imageLink": "https://example.com/conversation_image.jpg",
+      "eng_word": "conversation"
+    },
+    {
+      "word": "local",
+      "gender": "m",
+      "the_word": "Un local",
+      "imageLink": "https://example.com/local_image.jpg",
+      "eng_word": "room"
+    },
+    {
+      "word": "réception",
+      "gender": "f",
+      "the_word": "La réception",
+      "imageLink": "https://example.com/reception_image.jpg",
+      "eng_word": "reception"
+    },
+    {
+      "word": "vérification",
+      "gender": "f",
+      "the_word": "La vérification",
+      "imageLink": "https://example.com/verification_image.jpg",
+      "eng_word": "audit"
+    },
+    {
+      "word": "départ",
+      "gender": "m",
+      "the_word": "Le départ",
+      "imageLink": "https://example.com/depart_image.jpg",
+      "eng_word": "departure"
+    },
+    {
+      "word": "clé",
+      "gender": "f",
+      "the_word": "La clé",
+      "imageLink": "https://example.com/cle_image.jpg",
+      "eng_word": "key"
+    },
+    {
+      "word": "ascenseur",
+      "gender": "m",
+      "the_word": "Un ascenseur",
+      "imageLink": "https://example.com/ascenseur_image.jpg",
+      "eng_word": "elevator"
+    },
+    {
+      "word": "besoin",
+      "gender": "m",
+      "the_word": "Le besoin",
+      "imageLink": "https://example.com/besoin_image.jpg",
+      "eng_word": "need"
+    },
+    {
+      "word": "personne",
+      "gender": "f",
+      "the_word": "La personne",
+      "imageLink": "https://example.com/personne_image.jpg",
+      "eng_word": "person"
+    },
+    {
+      "word": "retour",
+      "gender": "m",
+      "the_word": "Le retour",
+      "imageLink": "https://example.com/retour_image.jpg",
+      "eng_word": "return"
+    },
+    {
+      "word": "recherche",
+      "gender": "f",
+      "the_word": "La recherche",
+      "imageLink": "https://example.com/recherche_image.jpg",
+      "eng_word": "research"
+    },
+    {
+      "word": "travail",
+      "gender": "m",
+      "the_word": "Le travail",
+      "imageLink": "https://example.com/travail_image.jpg",
+      "eng_word": "work"
+    },
+    {
+      "word": "achat",
+      "gender": "m",
+      "the_word": "L'achat",
+      "imageLink": "https://example.com/achat_image.jpg",
+      "eng_word": "purchase"
+    },
+    {
+      "word": "équipe",
+      "gender": "f",
+      "the_word": "L'équipe",
+      "imageLink": "https://example.com/equipe_image.jpg",
+      "eng_word": "team"
+    },
+    {
+      "word": "approbation",
+      "gender": "f",
+      "the_word": "L'approbation",
+      "imageLink": "https://example.com/approbation_image.jpg",
+      "eng_word": "approval"
+    },
+    {
+      "word": "membre",
+      "gender": "m",
+      "the_word": "Le membre",
+      "imageLink": "https://example.com/membre_image.jpg",
+      "eng_word": "member"
+    },
+    {
+      "word": "comité",
+      "gender": "m",
+      "the_word": "Le comité",
+      "imageLink": "https://example.com/comite_image.jpg",
+      "eng_word": "committee"
+    },
+    {
+      "word": "manifestation",
+      "gender": "f",
+      "the_word": "La manifestation",
+      "imageLink": "https://example.com/manifestation_image.jpg",
+      "eng_word": "event"
+    },
+    {
+      "word": "bureau",
+      "gender": "m",
+      "the_word": "Le bureau",
+      "imageLink": "https://example.com/bureau_image.jpg",
+      "eng_word": "office"
+    },
+    {
+      "word": "sécurité",
+      "gender": "f",
+      "the_word": "La sécurité",
+      "imageLink": "https://example.com/securite_image.jpg",
+      "eng_word": "security"
+    },
+    {
+      "word": "carte",
+      "gender": "f",
+      "the_word": "La carte",
+      "imageLink": "https://example.com/carte_image.jpg",
+      "eng_word": "card"
+    },
+    {
+      "word": "passage",
+      "gender": "m",
+      "the_word": "Le passage",
+      "imageLink": "https://example.com/passage_image.jpg",
+      "eng_word": "passage"
+    },
+    {
+      "word": "place",
+      "gender": "f",
+      "the_word": "La place",
+      "imageLink": "https://example.com/place_image.jpg",
+      "eng_word": "place"
+    },
+    {
+      "word": "principe",
+      "gender": "m",
+      "the_word": "Le principe",
+      "imageLink": "https://example.com/principe_image.jpg",
+      "eng_word": "principle"
+    },
+    {
+      "word": "allocution",
+      "gender": "f",
+      "the_word": "L'allocution",
+      "imageLink": "https://example.com/allocution_image.jpg",
+      "eng_word": "speech"
+    },
+    {
+      "word": "fonctionnaire",
+      "gender": "m",
+      "the_word": "Le fonctionnaire",
+      "imageLink": "https://example.com/fonctionnaire_image.jpg",
+      "eng_word": "civil servant"
+    },
+    {
+      "word": "question",
+      "gender": "f",
+      "the_word": "La question",
+      "imageLink": "https://example.com/question_image.jpg",
+      "eng_word": "question"
+    },
+    {
+      "word": "approche",
+      "gender": "f",
+      "the_word": "L'approche",
+      "imageLink": "https://example.com/approche_image.jpg",
+      "eng_word": "approach"
+    },
+    {
+      "word": "programme",
+      "gender": "m",
+      "the_word": "Le programme",
+      "imageLink": "https://example.com/programme_image.jpg",
+      "eng_word": "program"
+    },
+    {
+      "word": "invitation",
+      "gender": "f",
+      "the_word": "L'invitation",
+      "imageLink": "https://example.com/invitation_image.jpg",
+      "eng_word": "invitation"
+    },
+    {
+      "word": "opinion",
+      "gender": "f",
+      "the_word": "L'opinion",
+      "imageLink": "https://example.com/opinion_image.jpg",
+      "eng_word": "opinion"
+    },
+    {
+      "word": "possibilité",
+      "gender": "f",
+      "the_word": "La possibilité",
+      "imageLink": "https://example.com/possibilite_image.jpg",
+      "eng_word": "possibility"
+    },
+    {
+      "word": "pays",
+      "gender": "m",
+      "the_word": "Le pays",
+      "imageLink": "https://example.com/pays_image.jpg",
+      "eng_word": "country"
+    },
+    {
+      "word": "choix",
+      "gender": "m",
+      "the_word": "Le choix",
+      "imageLink": "https://example.com/choix_image.jpg",
+      "eng_word": "choice"
+    },
+    {
+      "word": "allocation",
+      "gender": "f",
+      "the_word": "L'allocation",
+      "imageLink": "https://example.com/allocation_image.jpg",
+      "eng_word": "allowance"
+    },
+    {
+      "word": "dépense",
+      "gender": "f",
+      "the_word": "La dépense",
+      "imageLink": "https://example.com/depense_image.jpg",
+      "eng_word": "expense"
+    },
+    {
+      "word": "adoption",
+      "gender": "f",
+      "the_word": "L'adoption",
+      "imageLink": "https://example.com/adoption_image.jpg",
+      "eng_word": "adoption"
+    },
+    {
+      "word": "moyen",
+      "gender": "m",
+      "the_word": "Le moyen",
+      "imageLink": "https://example.com/moyen_image.jpg",
+      "eng_word": "means"
+    },
+    {
+      "word": "besoin",
+      "gender": "m",
+      "the_word": "Le besoin",
+      "imageLink": "https://example.com/besoin_image.jpg",
+      "eng_word": "need"
+    },
+    {
+      "word": "quelqu'un",
+      "gender": "m",
+      "the_word": "Quelqu'un",
+      "imageLink": "https://example.com/quelquun_image.jpg",
+      "eng_word": "someone"
+    },
+    {
+      "word": "recherche",
+      "gender": "f",
+      "the_word": "La recherche",
+      "imageLink": "https://example.com/recherche_image.jpg",
+      "eng_word": "search"
+    },
+    {
+      "word": "une",
+      "gender": "f",
+      "the_word": "Une",
+      "imageLink": "https://example.com/une_image.jpg",
+      "eng_word": "a/an"
+    },
+    {
+      "word": "pour",
+      "gender": "f",
+      "the_word": "Pour",
+      "imageLink": "https://example.com/pour_image.jpg",
+      "eng_word": "for"
+    },
+    {
+      "word": "années",
+      "gender": "f",
+      "the_word": "L'année",
+      "imageLink": "https://example.com/annees_image.jpg",
+      "eng_word": "year"
+    },
+    {
+      "word": "tous",
+      "gender": "m",
+      "the_word": "Tous",
+      "imageLink": "https://example.com/tous_image.jpg",
+      "eng_word": "all/every"
+    },
+    {
+      "word": "valide",
+      "gender": "m",
+      "the_word": "Le valide",
+      "imageLink": "https://example.com/valides_image.jpg",
+      "eng_word": "valid"
+    },
+    {
+      "word": "gestion",
+      "gender": "f",
+      "the_word": "La gestion",
+      "imageLink": "https://example.com/gestion_image.jpg",
+      "eng_word": "management"
+    },
+    {
+      "word": "selon",
+      "gender": "m",
+      "the_word": "Selon",
+      "imageLink": "https://example.com/selon_image.jpg",
+      "eng_word": "according to"
+    },
+    {
+      "word": "récemment",
+      "gender": "m",
+      "the_word": "Récemment",
+      "imageLink": "https://example.com/recemment_image.jpg",
+      "eng_word": "recently"
+    },
+    {
+      "word": "également",
+      "gender": "f",
+      "the_word": "Également",
+      "imageLink": "https://example.com/egalement_image.jpg",
+      "eng_word": "also"
+    },
+    {
+      "word": "aucun",
+      "gender": "m",
+      "the_word": "Aucun",
+      "imageLink": "https://example.com/aucun_image.jpg",
+      "eng_word": "none"
+    },
+    {
+      "word": "conférence",
+      "gender": "f",
+      "the_word": "La conférence",
+      "imageLink": "https://example.com/conference_image.jpg",
+      "eng_word": "conference"
+    },
+    {
+      "word": "renseignements",
+      "gender": "m",
+      "the_word": "Le renseignement",
+      "imageLink": "https://example.com/renseignements_image.jpg",
+      "eng_word": "information"
+    },
+    {
+      "word": "activités",
+      "gender": "f",
+      "the_word": "L'activité",
+      "imageLink": "https://example.com/activites_image.jpg",
+      "eng_word": "activity"
+    },
+    {
+      "word": "stratégie",
+      "gender": "f",
+      "the_word": "La stratégie",
+      "imageLink": "https://example.com/strategie_image.jpg",
+      "eng_word": "strategy"
+    },
+    {
+      "word": "salubrité",
+      "gender": "f",
+      "the_word": "La salubrité",
+      "imageLink": "https://example.com/salubrite_image.jpg",
+      "eng_word": "sanitation"
+    },
+    {
+      "word": "approvisionnement",
+      "gender": "m",
+      "the_word": "L'approvisionnement",
+      "imageLink": "https://example.com/approvisionnement_image.jpg",
+      "eng_word": "procurement"
+    },
+    {
+      "word": "eau",
+      "gender": "f",
+      "the_word": "L'eau",
+      "imageLink": "https://example.com/eau_image.jpg",
+      "eng_word": "water"
+    },
+    {
+      "word": "potable",
+      "gender": "m",
+      "the_word": "L'eau potable",
+      "imageLink": "https://example.com/potable_image.jpg",
+      "eng_word": "drinking water"
+    },
+    {
+      "word": "canada",
+      "gender": "m",
+      "the_word": "Le Canada",
+      "imageLink": "https://example.com/canada_image.jpg",
+      "eng_word": "Canada"
+    },
+    {
+      "word": "formalités",
+      "gender": "f",
+      "the_word": "La formalité",
+      "imageLink": "https://example.com/formalites_image.jpg",
+      "eng_word": "formality"
+    },
+    {
+      "word": "soumissionnaires",
+      "gender": "m",
+      "the_word": "Le soumissionnaire",
+      "imageLink": "https://example.com/soumissionnaires_image.jpg",
+      "eng_word": "bidder"
+    },
+    {
+      "word": "politique",
+      "gender": "f",
+      "the_word": "La politique",
+      "imageLink": "https://example.com/politique_image.jpg",
+      "eng_word": "policy"
+    },
+    {
+      "word": "ligne",
+      "gender": "f",
+      "the_word": "La ligne",
+      "imageLink": "https://example.com/lignes_image.jpg",
+      "eng_word": "line"
+    },
+    {
+      "word": "directive",
+      "gender": "f",
+      "the_word": "La directive",
+      "imageLink": "https://example.com/directives_image.jpg",
+      "eng_word": "directive"
+    },
+    {
+      "word": "processus",
+      "gender": "m",
+      "the_word": "Le processus",
+      "imageLink": "https://example.com/processus_image.jpg",
+      "eng_word": "process"
+    },
+    {
+      "word": "qualité",
+      "gender": "f",
+      "the_word": "La qualité",
+      "imageLink": "https://example.com/qualite_image.jpg",
+      "eng_word": "quality"
+    },
+    {
+      "word": "prix",
+      "gender": "m",
+      "the_word": "Le prix",
+      "imageLink": "https://example.com/prix_image.jpg",
+      "eng_word": "price"
+    },
+    {
+      "word": "industrie",
+      "gender": "f",
+      "the_word": "L'industrie",
+      "imageLink": "https://example.com/industrie_image.jpg",
+      "eng_word": "industry"
+    },
+    {
+      "word": "division",
+      "gender": "f",
+      "the_word": "La division",
+      "imageLink": "https://example.com/division_image.jpg",
+      "eng_word": "division"
+    },
+    {
+      "word": "étude",
+      "gender": "f",
+      "the_word": "L'étude",
+      "imageLink": "https://example.com/etudes_image.jpg",
+      "eng_word": "study"
+    },
+    {
+      "word": "analyse",
+      "gender": "f",
+      "the_word": "L'analyse",
+      "imageLink": "https://example.com/analyses_image.jpg",
+      "eng_word": "analysis"
+    },
+    {
+      "word": "plan",
+      "gender": "m",
+      "the_word": "Le plan",
+      "imageLink": "https://example.com/plan_image.jpg",
+      "eng_word": "plan"
+    },
+    {
+      "word": "projet",
+      "gender": "m",
+      "the_word": "Le projet",
+      "imageLink": "https://example.com/projets_image.jpg",
+      "eng_word": "project"
+    },
+    {
+      "word": "année",
+      "gender": "f",
+      "the_word": "L'année",
+      "imageLink": "https://example.com/annee_image.jpg",
+      "eng_word": "year"
+    },
+    {
+      "word": "recrutement",
+      "gender": "m",
+      "the_word": "Le recrutement",
+      "imageLink": "https://example.com/recrutement_image.jpg",
+      "eng_word": "recruitment"
+    },
+    {
+      "word": "direction",
+      "gender": "f",
+      "the_word": "La direction",
+      "imageLink": "https://example.com/direction_image.jpg",
+      "eng_word": "direction"
+    },
+    {
+      "word": "durée",
+      "gender": "f",
+      "the_word": "La durée",
+      "imageLink": "https://example.com/duree_image.jpg",
+      "eng_word": "duration"
+    },
+    {
+      "word": "projet",
+      "gender": "m",
+      "the_word": "Le projet",
+      "imageLink": "https://example.com/projet_image.jpg",
+      "eng_word": "project"
+    },
+    {
+      "word": "étude",
+      "gender": "f",
+      "the_word": "L'étude",
+      "imageLink": "https://example.com/etude_image.jpg",
+      "eng_word": "study"
+    },
+    {
+      "word": "situation",
+      "gender": "f",
+      "the_word": "La situation",
+      "imageLink": "https://example.com/situation_image.jpg",
+      "eng_word": "situation"
+    },
+    {
+      "word": "résultat",
+      "gender": "m",
+      "the_word": "Le résultat",
+      "imageLink": "https://example.com/resultat_image.jpg",
+      "eng_word": "result"
+    },
+    {
+      "word": "étape",
+      "gender": "f",
+      "the_word": "L'étape",
+      "imageLink": "https://example.com/etape_image.jpg",
+      "eng_word": "step"
+    },
+    {
+      "word": "stratégie",
+      "gender": "f",
+      "the_word": "La stratégie",
+      "imageLink": "https://example.com/strategie_image.jpg",
+      "eng_word": "strategy"
+    },
+    {
+      "word": "formation",
+      "gender": "f",
+      "the_word": "La formation",
+      "imageLink": "https://example.com/formation_image.jpg",
+      "eng_word": "training"
+    },
+    {
+      "word": "demande",
+      "gender": "f",
+      "the_word": "La demande",
+      "imageLink": "https://example.com/demande_image.jpg",
+      "eng_word": "request"
+    },
+    {
+      "word": "objectif",
+      "gender": "m",
+      "the_word": "L'objectif",
+      "imageLink": "https://example.com/objectif_image.jpg",
+      "eng_word": "objective"
+    },
+    {
+      "word": "conclusion",
+      "gender": "f",
+      "the_word": "La conclusion",
+      "imageLink": "https://example.com/conclusion_image.jpg",
+      "eng_word": "conclusion"
+    },
+    {
+      "word": "recommandation",
+      "gender": "f",
+      "the_word": "La recommandation",
+      "imageLink": "https://example.com/recommandation_image.jpg",
+      "eng_word": "recommendation"
+    },
+    {
+      "word": "aspect",
+      "gender": "m",
+      "the_word": "L'aspect",
+      "imageLink": "https://example.com/aspect_image.jpg",
+      "eng_word": "aspect"
+    },
+    {
+      "word": "avantage",
+      "gender": "m",
+      "the_word": "L'avantage",
+      "imageLink": "https://example.com/avantage_image.jpg",
+      "eng_word": "advantage"
+    },
+    {
+      "word": "inconvénient",
+      "gender": "m",
+      "the_word": "L'inconvénient",
+      "imageLink": "https://example.com/inconvenient_image.jpg",
+      "eng_word": "disadvantage"
+    },
+    {
+      "word": "ministère",
+      "gender": "m",
+      "the_word": "Le ministère",
+      "imageLink": "https://example.com/ministere_image.jpg",
+      "eng_word": "ministry"
+    },
+    {
+      "word": "autorisation",
+      "gender": "f",
+      "the_word": "L'autorisation",
+      "imageLink": "https://example.com/autorisation_image.jpg",
+      "eng_word": "authorization"
+    },
+    {
+      "word": "écrite",
+      "gender": "f",
+      "the_word": "L'écrite",
+      "imageLink": "https://example.com/ecrite_image.jpg",
+      "eng_word": "written"
+    },
+    {
+      "word": "directeur",
+      "gender": "m",
+      "the_word": "Le directeur",
+      "imageLink": "https://example.com/directeur_image.jpg",
+      "eng_word": "director"
+    },
+    {
+      "word": "représentant",
+      "gender": "m",
+      "the_word": "Le représentant",
+      "imageLink": "https://example.com/representant_image.jpg",
+      "eng_word": "representative"
+    },
+    {
+      "word": "agent",
+      "gender": "m",
+      "the_word": "L'agent",
+      "imageLink": "https://example.com/agent_image.jpg",
+      "eng_word": "agent"
+    },
+    {
+      "word": "sécurité",
+      "gender": "f",
+      "the_word": "La sécurité",
+      "imageLink": "https://example.com/securite_image.jpg",
+      "eng_word": "security"
+    },
+    {
+      "word": "permission",
+      "gender": "f",
+      "the_word": "La permission",
+      "imageLink": "https://example.com/permission_image.jpg",
+      "eng_word": "permission"
+    },
+    {
+      "word": "matériel",
+      "gender": "m",
+      "the_word": "Le matériel",
+      "imageLink": "https://example.com/materiel_image.jpg",
+      "eng_word": "equipment"
+    },
+    {
+      "word": "inspecteur",
+      "gender": "m",
+      "the_word": "L'inspecteur",
+      "imageLink": "https://example.com/inspecteurs_image.jpg",
+      "eng_word": "inspector"
+    },
+    {
+      "word": "douane",
+      "gender": "f",
+      "the_word": "La douane",
+      "imageLink": "https://example.com/douanes_image.jpg",
+      "eng_word": "customs"
+    },
+    {
+      "word": "opération",
+      "gender": "f",
+      "the_word": "L'opération",
+      "imageLink": "https://example.com/operations_image.jpg",
+      "eng_word": "operation"
+    },
+    {
+      "word": "local",
+      "gender": "m",
+      "the_word": "Le local",
+      "imageLink": "https://example.com/locaux_image.jpg",
+      "eng_word": "premises"
+    },
+    {
+      "word": "réprimande",
+      "gender": "f",
+      "the_word": "La réprimande",
+      "imageLink": "https://example.com/reprimandes_image.jpg",
+      "eng_word": "reprimand"
+    },
+    {
+      "word": "cas",
+      "gender": "m",
+      "the_word": "Le cas",
+      "imageLink": "https://example.com/cas_image.jpg",
+      "eng_word": "case"
+    },
+    {
+      "word": "absence",
+      "gender": "f",
+      "the_word": "L'absence",
+      "imageLink": "https://example.com/absence_image.jpg",
+      "eng_word": "absence"
+    },
+    {
+      "word": "avertissement",
+      "gender": "m",
+      "the_word": "L'avertissement",
+      "imageLink": "https://example.com/avertissement_image.jpg",
+      "eng_word": "warning"
+    },
+    {
+      "word": "message",
+      "gender": "m",
+      "the_word": "Le message",
+      "imageLink": "https://example.com/message_image.jpg",
+      "eng_word": "message"
+    },
+    {
+      "word": "tableau",
+      "gender": "m",
+      "the_word": "Le tableau",
+      "imageLink": "https://example.com/tableau_image.jpg",
+      "eng_word": "table"
+    },
+    {
+      "word": "communication",
+      "gender": "f",
+      "the_word": "La communication",
+      "imageLink": "https://example.com/communication_image.jpg",
+      "eng_word": "communication"
+    },
+    {
+      "word": "ton",
+      "gender": "m",
+      "the_word": "Le ton",
+      "imageLink": "https://example.com/ton_image.jpg",
+      "eng_word": "tone"
+    },
+    {
+      "word": "division",
+      "gender": "f",
+      "the_word": "La division",
+      "imageLink": "https://example.com/division_image.jpg",
+      "eng_word": "division"
+    },
+    {
+      "word": "temps",
+      "gender": "m",
+      "the_word": "Le temps",
+      "imageLink": "https://example.com/temps_image.jpg",
+      "eng_word": "time"
+    },
+    {
+      "word": "perturbation",
+      "gender": "f",
+      "the_word": "La perturbation",
+      "imageLink": "https://example.com/perturbations_image.jpg",
+      "eng_word": "disruption"
+    },
+    {
+      "word": "système",
+      "gender": "m",
+      "the_word": "Le système",
+      "imageLink": "https://example.com/systemes_image.jpg",
+      "eng_word": "system"
+    },
+    {
+      "word": "fiche",
+      "gender": "f",
+      "the_word": "La fiche",
+      "imageLink": "https://example.com/fiches_image.jpg",
+      "eng_word": "card"
+    },
+    {
+      "word": "directrice",
+      "gender": "f",
+      "the_word": "La directrice",
+      "imageLink": "https://example.com/directrice_image.jpg",
+      "eng_word": "director (female)"
+    },
+    {
+      "word": "retard",
+      "gender": "m",
+      "the_word": "Le retard",
+      "imageLink": "https://example.com/retard_image.jpg",
+      "eng_word": "delay"
+    },
+    {
+      "word": "mesure",
+      "gender": "f",
+      "the_word": "La mesure",
+      "imageLink": "https://example.com/mesure_image.jpg",
+      "eng_word": "measure"
+    },
+    {
+      "word": "bureau",
+      "gender": "m",
+      "the_word": "Le bureau",
+      "imageLink": "https://example.com/bureau_image.jpg",
+      "eng_word": "office"
+    },
+    {
+      "word": "enquête",
+      "gender": "f",
+      "the_word": "L'enquête",
+      "imageLink": "https://example.com/enquete_image.jpg",
+      "eng_word": "investigation"
+    },
+    {
+      "word": "intérêt",
+      "gender": "m",
+      "the_word": "L'intérêt",
+      "imageLink": "https://example.com/interet_image.jpg",
+      "eng_word": "interest"
+    },
+    {
+      "word": "semaine",
+      "gender": "f",
+      "the_word": "La semaine",
+      "imageLink": "https://example.com/semaines_image.jpg",
+      "eng_word": "week"
+    },
+    {
+      "word": "activité",
+      "gender": "f",
+      "the_word": "L'activité",
+      "imageLink": "https://example.com/activites_image.jpg",
+      "eng_word": "activity"
+    },
+    {
+      "word": "réponse",
+      "gender": "f",
+      "the_word": "La réponse",
+      "imageLink": "https://example.com/reponses_image.jpg",
+      "eng_word": "answer"
+    },
+    {
+      "word": "catégorie",
+      "gender": "f",
+      "the_word": "La catégorie",
+      "imageLink": "https://example.com/categories_image.jpg",
+      "eng_word": "category"
+    },
+    {
+      "word": "comité",
+      "gender": "m",
+      "the_word": "Le comité",
+      "imageLink": "https://example.com/comites_image.jpg",
+      "eng_word": "committee"
+    },
+    {
+      "word": "responsable",
+      "gender": "m",
+      "the_word": "Le responsable",
+      "imageLink": "https://example.com/responsables_image.jpg",
+      "eng_word": "responsible one"
+    },
+    {
+      "word": "réunion",
+      "gender": "f",
+      "the_word": "La réunion",
+      "imageLink": "https://example.com/reunion_image.jpg",
+      "eng_word": "meeting"
+    },
+    {
+      "word": "date",
+      "gender": "f",
+      "the_word": "La date",
+      "imageLink": "https://example.com/date_image.jpg",
+      "eng_word": "date"
+    },
+    {
+      "word": "état",
+      "gender": "m",
+      "the_word": "L'état",
+      "imageLink": "https://example.com/etat_image.jpg",
+      "eng_word": "state"
+    },
+    {
+      "word": "compilation",
+      "gender": "f",
+      "the_word": "La compilation",
+      "imageLink": "https://example.com/compilation_image.jpg",
+      "eng_word": "compilation"
+    },
+    {
+      "word": "personne",
+      "gender": "f",
+      "the_word": "La personne",
+      "imageLink": "https://example.com/personnes_image.jpg",
+      "eng_word": "person"
+    },
+    {
+      "word": "inscrite",
+      "gender": "f",
+      "the_word": "L'inscrite",
+      "imageLink": "https://example.com/inscrites_image.jpg",
+      "eng_word": "registered (feminine)"
+    },
+    {
+      "word": "réunion",
+      "gender": "f",
+      "the_word": "La réunion",
+      "imageLink": "https://example.com/reunions_image.jpg",
+      "eng_word": "meeting"
+    },
+    {
+      "word": "abandonnée",
+      "gender": "f",
+      "the_word": "L'abandonnée",
+      "imageLink": "https://example.com/abandonnee_image.jpg",
+      "eng_word": "abandoned (feminine)"
+    },
+    {
+      "word": "industrie",
+      "gender": "f",
+      "the_word": "L'industrie",
+      "imageLink": "https://example.com/industrie_image.jpg",
+      "eng_word": "industry"
+    },
+    {
+      "word": "ressource",
+      "gender": "f",
+      "the_word": "La ressource",
+      "imageLink": "https://example.com/ressources_image.jpg",
+      "eng_word": "resource"
+    },
+    {
+      "word": "humaine",
+      "gender": "f",
+      "the_word": "Une humaine",
+      "imageLink": "https://example.com/humaines_image.jpg",
+      "eng_word": "human"
+    },
+    {
+      "word": "forestier",
+      "gender": "m",
+      "the_word": "Le forestier",
+      "imageLink": "https://example.com/forestier_image.jpg",
+      "eng_word": "forester"
     }
   ]
 }
