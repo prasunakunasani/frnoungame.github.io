@@ -5,1946 +5,2494 @@
       "gender": "m",
       "the_word": "Un chat",
       "imageLink": "https://storage.prompt-hunt.workers.dev/clg0w8r2o0033jt08bkynmzy4_1",
-      "eng_word": "cat"
+      "eng_word": "cat",
+      "french_sentence": "Voici un chat.",
+      "eng_sentence": "Here is a cat."
     },
     {
       "word": "voiture",
       "gender": "f",
       "the_word": "Une voiture",
       "imageLink": "https://cdn.pixabay.com/photo/2018/05/17/17/36/auto-3409184_960_720.jpg",
-      "eng_word": "car"
+      "eng_word": "car",
+      "french_sentence": "J'ai une voiture.",
+      "eng_sentence": "I have a car."
     },
     {
       "word": "livre",
       "gender": "m",
       "the_word": "Un livre",
       "imageLink": "https://i.pinimg.com/474x/f3/f9/5b/f3f95bddbe7213b5b3d8d7f0a23ae653.jpg",
-      "eng_word": "book"
+      "eng_word": "book",
+      "french_sentence": "J'aime lire un livre.",
+      "eng_sentence": "I like to read a book."
     },
     {
       "word": "maison",
       "gender": "f",
       "the_word": "Une maison",
       "imageLink": "https://cdn.pixabay.com/photo/2017/07/31/20/51/architecture-2560959_960_720.jpg",
-      "eng_word": "house"
+      "eng_word": "house",
+      "french_sentence": "J'habite dans une maison.",
+      "eng_sentence": "I live in a house."
     },
     {
       "word": "chaise",
       "gender": "f",
       "the_word": "Une chaise",
       "imageLink": "https://cdn.pixabay.com/photo/2014/12/21/23/39/armchair-575788_960_720.png",
-      "eng_word": "chair"
+      "eng_word": "chair",
+      "french_sentence": "Je m'assois sur une chaise.",
+      "eng_sentence": "I sit on a chair."
     },
     {
       "word": "vélo",
       "gender": "m",
       "the_word": "Un vélo",
       "imageLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWArAC492OzuYQmZ-L0uT7vsfKGcI1ngMw1A&usqp=CAU",
-      "eng_word": "bicycle"
+      "eng_word": "bicycle",
+      "french_sentence": "Je vais à l'école en vélo.",
+      "eng_sentence": "I go to school by bicycle."
     },
+
     {
       "word": "arbre",
       "gender": "m",
       "the_word": "L'arbre",
       "imageLink": "https://storage.prompt-hunt.workers.dev/clfezy4d70001js081996uo16_1",
-      "eng_word": "tree"
+      "eng_word": "tree",
+      "french_sentence": "Je me repose à l'ombre d'un arbre.",
+      "eng_sentence": "I rest in the shade of a tree."
     },
     {
       "word": "table",
       "gender": "f",
       "the_word": "Une table",
       "imageLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSq96XpjCl-smfST9U2XUr_pbL-QiaUMotwMg&usqp=CAU",
-      "eng_word": "table"
+      "eng_word": "table",
+      "french_sentence": "Je mange à une table.",
+      "eng_sentence": "I eat at a table."
     },
     {
       "word": "porte",
       "gender": "f",
       "the_word": "Une porte",
       "imageLink": "https://cdn.pixabay.com/photo/2017/04/14/15/12/old-2230483_960_720.jpg",
-      "eng_word": "door"
+      "eng_word": "door",
+      "french_sentence": "Je passe par une porte.",
+      "eng_sentence": "I go through a door."
     },
     {
       "word": "stylo",
       "gender": "m",
       "the_word": "Un stylo",
       "imageLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvGwjPS7mGwsg6dWB8zC2SCUeV2WDAVOzzsg&usqp=CAU",
-      "eng_word": "pen"
+      "eng_word": "pen",
+      "french_sentence": "J'écris avec un stylo.",
+      "eng_sentence": "I write with a pen."
     },
     {
       "word": "chien",
       "gender": "m",
       "the_word": "Un chien",
       "imageLink": "https://storage.prompt-hunt.workers.dev/clg378jyx0017jx08w50zeew5_1",
-      "eng_word": "dog"
+      "eng_word": "dog",
+      "french_sentence": "J'ai un chien adorable.",
+      "eng_sentence": "I have an adorable dog."
     },
     {
       "word": "fille",
       "gender": "f",
       "the_word": "Une fille",
       "imageLink": "https://easydrawingguides.com/wp-content/uploads/2017/02/How-to-draw-a-cartoon-girl-20.png",
-      "eng_word": "girl"
+      "eng_word": "girl",
+      "french_sentence": "La petite fille joue dans le parc.",
+      "eng_sentence": "The little girl is playing in the park."
     },
     {
       "word": "garçon",
       "gender": "m",
-      "the_word": "un garçon",
+      "the_word": "Un garçon",
       "imageLink": "https://img.freepik.com/premium-vector/cartoon-little-boy-yellow-jacket-peace-hand-sign_353337-605.jpg?w=2000",
-      "eng_word": "boy"
+      "eng_word": "boy",
+      "french_sentence": "Le garçon aime jouer au football.",
+      "eng_sentence": "The boy likes to play football."
     },
     {
       "word": "femme",
       "gender": "f",
       "the_word": "Une femme",
       "imageLink": "https://cdn2.vectorstock.com/i/1000x1000/60/56/business-women-character-cartoon-vector-14196056.jpg",
-      "eng_word": "woman"
+      "eng_word": "woman",
+      "french_sentence": "La femme porte une belle robe.",
+      "eng_sentence": "The woman is wearing a beautiful dress."
     },
     {
       "word": "homme",
       "gender": "m",
       "the_word": "Un homme",
       "imageLink": "https://media.istockphoto.com/id/980239992/vector/happy-handsome-man-showing-thumbs-up-concept-illustration-in-cartoon-style.jpg?s=612x612&w=0&k=20&c=1ikVDLkafPxGOLqq4gtIs4HQFBQpdjuiaSchIoqW_M4=",
-      "eng_word": "man"
+      "eng_word": "man",
+      "french_sentence": "L'homme travaille dans un bureau.",
+      "eng_sentence": "The man works in an office."
     },
     {
       "word": "cheval",
       "gender": "m",
       "the_word": "Un cheval",
       "imageLink": "https://cdn1.vectorstock.com/i/1000x1000/18/55/blue-horse-vector-1711855.jpg",
-      "eng_word": "horse"
+      "eng_word": "horse",
+      "french_sentence": "Le cheval galope dans le champ.",
+      "eng_sentence": "The horse is galloping in the field."
     },
     {
       "word": "croissant",
       "gender": "m",
       "the_word": "Un croissant",
       "imageLink": "https://cdn1.vectorstock.com/i/1000x1000/23/35/blue-croissant-on-a-white-background-vector-44312335.jpg",
-      "eng_word": "croissant"
+      "eng_word": "croissant",
+      "french_sentence": "Je prends un croissant pour le petit-déjeuner.",
+      "eng_sentence": "I have a croissant for breakfast."
     },
     {
       "word": "hamburger",
       "gender": "m",
       "the_word": "Un hamburger",
       "imageLink": "https://cdn5.vectorstock.com/i/1000x1000/77/69/burger-simple-sign-sky-blue-icon-vector-17167769.jpg",
-      "eng_word": "hamburger"
+      "eng_word": "hamburger",
+      "french_sentence": "Je vais au restaurant pour manger un hamburger.",
+      "eng_sentence": "I go to the restaurant to eat a hamburger."
     },
     {
       "word": "restaurant",
       "gender": "m",
       "the_word": "Un restaurant",
       "imageLink": "https://cdn2.vectorstock.com/i/1000x1000/64/01/cartoon-businessman-notebook-order-food-restaurant-vector-25076401.jpg",
-      "eng_word": "restaurant"
+      "eng_word": "restaurant",
+      "french_sentence": "Nous allons au restaurant ce soir.",
+      "eng_sentence": "We are going to the restaurant tonight."
     },
     {
       "word": "passeport",
       "gender": "m",
       "the_word": "Un passeport",
       "imageLink": "https://cdn1.vectorstock.com/i/1000x1000/52/50/passport-in-cartoon-style-on-white-vector-29015250.jpg",
-      "eng_word": "passport"
+      "eng_word": "passport",
+      "french_sentence": "N'oublie pas de prendre ton passeport avant de partir.",
+      "eng_sentence": "Don't forget to take your passport before leaving."
     },
     {
       "word": "valise",
       "gender": "f",
       "the_word": "Une valise",
       "imageLink": "https://cdn5.vectorstock.com/i/1000x1000/00/09/line-color-travel-backpack-in-love-kawaii-cartoon-vector-19420009.jpg",
-      "eng_word": "suitcase"
+      "eng_word": "suitcase",
+      "french_sentence": "Je vais faire mes bagages et prendre une valise.",
+      "eng_sentence": "I'm going to pack my things and take a suitcase."
     },
     {
       "word": "gomme",
       "gender": "f",
       "the_word": "Une gomme",
       "imageLink": "https://thumbs.dreamstime.com/b/happy-eraser-illustration-vector-white-background-207016599.jpg",
-      "eng_word": "eraser"
+      "eng_word": "eraser",
+      "french_sentence": "Je cherche une gomme pour effacer mon erreur.",
+      "eng_sentence": "I'm looking for an eraser to erase my mistake."
     },
     {
       "word": "marqueur",
       "gender": "m",
       "the_word": "Un marqueur",
       "imageLink": "https://cdn5.vectorstock.com/i/1000x1000/97/24/freehand-drawn-cartoon-marker-pen-vector-8649724.jpg",
-      "eng_word": "marker"
+      "eng_word": "marker",
+      "french_sentence": "J'utilise un marqueur pour souligner les mots importants.",
+      "eng_sentence": "I use a marker to highlight important words."
     },
     {
       "word": "crayon de couleur",
       "gender": "m",
       "the_word": "Un crayon de couleur",
       "imageLink": "https://cdn4.vectorstock.com/i/1000x1000/27/98/astonished-cartoon-pencil-vector-1502798.jpg",
-      "eng_word": "colored pencil"
+      "eng_word": "colored pencil",
+      "french_sentence": "J'aime dessiner avec des crayons de couleur.",
+      "eng_sentence": "I enjoy drawing with colored pencils."
     },
     {
       "word": "crayon",
       "gender": "m",
       "the_word": "Un crayon",
       "imageLink": "https://cdn2.vectorstock.com/i/1000x1000/66/16/blue-pencil-vector-14086616.jpg",
-      "eng_word": "pencil"
+      "eng_word": "pencil",
+      "french_sentence": "J'ai besoin d'un crayon pour écrire.",
+      "eng_sentence": "I need a pencil to write."
     },
     {
       "word": "cahier",
       "gender": "m",
       "the_word": "Un cahier",
       "imageLink": "https://cdn5.vectorstock.com/i/1000x1000/30/74/cartoon-exercise-book-vector-21573074.jpg",
-      "eng_word": "notebook"
+      "eng_word": "notebook",
+      "french_sentence": "J'ai pris des notes dans mon cahier pendant le cours.",
+      "eng_sentence": "I took notes in my notebook during class."
     },
     {
       "word": "feuille de papier",
       "gender": "f",
       "the_word": "Une feuille de papier",
       "imageLink": "https://cdn1.vectorstock.com/i/1000x1000/47/00/empty-pink-papers-vector-1924700.jpg",
-      "eng_word": "paper sheet"
+      "eng_word": "paper sheet",
+      "french_sentence": "Écris ton nom sur la feuille de papier.",
+      "eng_sentence": "Write your name on thesheet of paper."
     },
     {
       "word": "colle",
       "gender": "f",
       "the_word": "Une colle",
       "imageLink": "https://cdn.vectorstock.com/i/preview-1x/01/10/office-glue-bottle-cartoon-vector-47150110.jpg",
-      "eng_word": "glue"
+      "eng_word": "glue",
+      "french_sentence": "J'ai besoin de colle pour réparer mon projet.",
+      "eng_sentence": "I need glue to fix my project."
     },
     {
       "word": "règle",
       "gender": "f",
       "the_word": "Une règle",
       "imageLink": "https://www.shutterstock.com/image-photo/pink-plastic-ruler-isolated-on-260nw-1772203070.jpg",
-      "eng_word": "ruler"
+      "eng_word": "ruler",
+      "french_sentence": "J'utilise une règle pour tracer des lignes droites.",
+      "eng_sentence": "I use a ruler to draw straight lines."
     },
     {
       "word": "tableau blanc",
       "gender": "m",
       "the_word": "Un tableau blanc",
       "imageLink": "https://cdn5.vectorstock.com/i/1000x1000/66/49/cute-cartoon-price-tag-teacher-with-big-whiteboard-vector-42816649.jpg",
-      "eng_word": "whiteboard"
+      "eng_word": "whiteboard",
+      "french_sentence": "Le professeur écrit des notes sur le tableau blanc.",
+      "eng_sentence": "The teacher is writing notes on the whiteboard."
     },
     {
       "word": "sac à dos",
       "gender": "m",
       "the_word": "Un sac à dos",
       "imageLink": "https://cdn1.vectorstock.com/i/1000x1000/68/40/blue-backpack-icon-flat-style-vector-27066840.jpg",
-      "eng_word": "backpack"
+      "eng_word": "backpack",
+      "french_sentence": "J'emporte mon livre dans mon sac à dos.",
+      "eng_sentence": "I carry my book in my backpack."
     },
     {
       "word": "cartable",
       "gender": "m",
       "the_word": "Un cartable",
       "imageLink": "https://cdn4.vectorstock.com/i/1000x1000/11/38/blue-binder-vector-1501138.jpg",
-      "eng_word": "school bag"
+      "eng_word": "school bag",
+      "french_sentence": "Mon cartable est lourd avec tous mes livres.",
+      "eng_sentence": "My school bag is heavy with all my books."
     },
     {
       "word": "extrait",
       "gender": "m",
       "the_word": "Un extrait",
       "imageLink": "",
-      "eng_word": "excerpt"
+      "eng_word": "excerpt",
+      "french_sentence": "J'ai lu un extrait de ce livre.",
+      "eng_sentence": "I read an excerpt from this book."
     },
     {
       "word": "compte",
       "gender": "m",
       "the_word": "Un compte",
       "imageLink": "https://ichef.bbci.co.uk/images/ic/1920x1080/p099dmrp.png",
-      "eng_word": "account"
+      "eng_word": "account",
+      "french_sentence": "J'ai créé un compte sur ce site.",
+      "eng_sentence": "I created an account on this website."
     },
     {
       "word": "téléphone",
       "gender": "m",
       "the_word": "Un téléphone",
       "imageLink": "https://cdn3.vectorstock.com/i/1000x1000/81/02/cartoon-blue-landline-telephone-vector-2078102.jpg",
-      "eng_word": "telephone"
+      "eng_word": "telephone",
+      "french_sentence": "Je parle au téléphone avec mon ami.",
+      "eng_sentence": "I'm talking on the telephone with my friend."
     },
     {
       "word": "mois",
       "gender": "m",
       "the_word": "Un mois",
       "imageLink": "https://cdn1.vectorstock.com/i/1000x1000/05/30/month-time-management-icon-cartoon-style-vector-36840530.jpg",
-      "eng_word": "month"
+      "eng_word": "month",
+      "french_sentence": "Il y a douze mois dans une année.",
+      "eng_sentence": "There are twelve months in a year."
     },
     {
       "word": "janvier",
       "gender": "m",
       "the_word": "Janvier",
       "imageLink": "https://thumbs.dreamstime.com/z/calendar-design-template-year-blue-tiger-chinese-new-january-vector-stock-flat-illustration-cartoon-months-231209381.jpg",
-      "eng_word": "January"
+      "eng_word": "January",
+      "french_sentence": "Mon anniversaire est en janvier.",
+      "eng_sentence": "My birthday is in January."
     },
     {
       "word": "février",
       "gender": "m",
       "the_word": "Février",
       "imageLink": "https://img.freepik.com/premium-vector/calendar-design-template-year-blue-tiger-chinese-new-year-february-vector-stock-flat-illustr_497982-321.jpg?w=2000",
-      "eng_word": "February"
+      "eng_word": "February",
+      "french_sentence": "En février, il fait froid.",
+      "eng_sentence": "In February, it is cold."
     },
     {
       "word": "mars",
       "gender": "m",
       "the_word": "Mars",
       "imageLink": "https://thumbs.dreamstime.com/z/calendar-design-template-year-blue-tiger-chinese-new-march-vector-stock-flat-illustration-cartoon-months-231209406.jpg",
-      "eng_word": "March"
+      "eng_word": "March",
+      "french_sentence": "Les fleurs commencent à éclore en mars.",
+      "eng_sentence": "The flowers start to bloom in March."
     },
     {
       "word": "avril",
       "gender": "m",
       "the_word": "Avril",
       "imageLink": "https://en.pimg.jp/082/626/335/1/82626335.jpg",
-      "eng_word": "April"
+      "eng_word": "April",
+      "french_sentence": "Il pleut souvent en avril.",
+      "eng_sentence": "It often rains in April."
     },
     {
       "word": "mai",
       "gender": "m",
       "the_word": "Mai",
       "imageLink": "https://thumbs.dreamstime.com/b/calendar-design-template-year-blue-tiger-chinese-new-may-vector-stock-flat-illustration-cartoon-months-231209424.jpg",
-      "eng_word": "May"
+      "eng_word": "May",
+      "french_sentence": "En mai, les jours commencent à devenir plus longs.",
+      "eng_sentence": "In May, the days start to become longer."
     },
     {
       "word": "juin",
       "gender": "m",
       "the_word": "Juin",
       "imageLink": "https://thumbs.dreamstime.com/z/calendar-design-template-year-blue-tiger-chinese-new-june-vector-stock-flat-illustration-cartoon-months-231209432.jpg",
-      "eng_word": "June"
+      "eng_word": "June",
+      "french_sentence": "En juin, nous célébrons la fête des pères.",
+      "eng_sentence": "In June, we celebrate Father's Day."
     },
     {
       "word": "juillet",
       "gender": "m",
       "the_word": "Juillet",
       "imageLink": "https://thumbs.dreamstime.com/b/calendar-design-template-year-blue-tiger-chinese-new-year-july-vector-stock-flat-illustration-cartoon-calendar-design-231280850.jpg",
-      "eng_word": "July"
+      "eng_word": "July",
+      "french_sentence": "En juillet, nous avons des vacances d'été.",
+      "eng_sentence": "In July, we have summer vacation."
     },
     {
       "word": "août",
       "gender": "m",
       "the_word": "Août",
       "imageLink": "https://cdn5.vectorstock.com/i/1000x1000/39/99/calendar-design-template-for-2022-year-of-blue-vector-39663999.jpg",
-      "eng_word": "August"
+      "eng_word": "August",
+      "french_sentence": "En août, il fait chaud et ensoleillé.",
+      "eng_sentence": "In August, it is hot and sunny."
     },
     {
       "word": "septembre",
       "gender": "m",
       "the_word": "Septembre",
       "imageLink": "https://img.freepik.com/premium-vector/calendar-design-template-year-blue-tiger-chinese-new-year-september-vector-stock-flat-illust_497982-331.jpg?w=2000",
-      "eng_word": "September"
+      "eng_word": "September",
+      "french_sentence": "La rentrée scolaire a lieu en septembre.",
+      "eng_sentence": "The school year starts in September."
     },
     {
       "word": "octobre",
       "gender": "m",
       "the_word": "Octobre",
       "imageLink": "https://img.freepik.com/premium-vector/calendar-design-template-year-blue-tiger-chinese-new-year-october-vector-stock-flat-illustra_497982-332.jpg?w=2000",
-      "eng_word": "October"
+      "eng_word": "October",
+      "french_sentence": "Halloween est célébré en octobre.",
+      "eng_sentence": "Halloween is celebrated in October."
     },
     {
       "word": "novembre",
       "gender": "m",
       "the_word": "Novembre",
       "imageLink": "https://img.freepik.com/premium-vector/calendar-design-template-year-blue-tiger-chinese-new-year-november-vector-stock-flat-illustr_497982-333.jpg",
-      "eng_word": "November"
+      "eng_word": "November",
+      "french_sentence": "En novembre, les arbres perdent leurs feuilles.",
+      "eng_sentence": "In November, the trees lose their leaves."
     },
     {
       "word": "décembre",
       "gender": "m",
       "the_word": "Décembre",
       "imageLink": "https://img.freepik.com/premium-vector/calendar-design-template-year-blue-tiger-chinese-new-year-december-vector-stock-flat-illustr_497982-334.jpg?w=2000",
-      "eng_word": "December"
+      "eng_word": "December",
+      "french_sentence": "Noël est célébré en décembre.",
+      "eng_sentence": "Christmas is celebrated in December."
     },
     {
       "word": "père",
       "gender": "m",
       "the_word": "le père",
       "imageLink": "",
-      "eng_word": "the father"
+      "eng_word": "the father",
+      "french_sentence": "Mon père est très gentil.",
+      "eng_sentence": "My father is very kind."
     },
     {
       "word": "frère",
       "gender": "m",
       "the_word": "le frère",
       "imageLink": "",
-      "eng_word": "the brother"
+      "eng_word": "the brother",
+      "french_sentence": "Mon frère aime jouer au football.",
+      "eng_sentence": "My brother likes to play soccer."
     },
     {
       "word": "état",
       "gender": "m",
       "the_word": "Un état",
       "imageLink": "https://example.com/state_image.jpg",
-      "eng_word": "state"
+      "eng_word": "state",
+      "french_sentence": "Le Québec est une province de l'état canadien.",
+      "eng_sentence": "Quebec is a province in the Canadian state."
     },
     {
       "word": "condition",
       "gender": "f",
       "the_word": "Une condition",
       "imageLink": "https://example.com/condition_image.jpg",
-      "eng_word": "condition"
+      "eng_word": "condition",
+      "french_sentence": "La condition pour réussir est de travailler dur.",
+      "eng_sentence": "The condition for success is to work hard."
     },
     {
       "word": "bâtiment",
       "gender": "m",
       "the_word": "Un bâtiment",
       "imageLink": "https://example.com/building_image.jpg",
-      "eng_word": "building"
+      "eng_word": "building",
+      "french_sentence": "Le Louvre est un célèbre bâtiment à Paris.",
+      "eng_sentence": "The Louvre is a famous building in Paris."
     },
     {
       "word": "situation",
       "gender": "f",
       "the_word": "Une situation",
       "imageLink": "https://example.com/situation_image.jpg",
-      "eng_word": "situation"
+      "eng_word": "situation",
+      "french_sentence": "Nous devons évaluer la situation avant de prendre une décision.",
+      "eng_sentence": "We need to assess the situation before making a decision."
     },
     {
       "word": "personne",
       "gender": "f",
       "the_word": "Une personne",
       "imageLink": "https://example.com/person_image.jpg",
-      "eng_word": "person"
+      "eng_word": "person",
+      "french_sentence": "Cette personne est très talentueuse.",
+      "eng_sentence": "This person is very talented."
     },
     {
       "word": "responsable",
       "gender": "m",
       "the_word": "Un responsable",
       "imageLink": "https://example.com/person_in_charge_image.jpg",
-      "eng_word": "person in charge"
+      "eng_word": "person in charge",
+      "french_sentence": "Le directeur est le responsable de l'entreprise.",
+      "eng_sentence": "The director is the person in charge of the company."
     },
     {
       "word": "remboursement",
       "gender": "m",
       "the_word": "Un remboursement",
       "imageLink": "https://example.com/refund_image.jpg",
-      "eng_word": "refund"
+      "eng_word": "refund",
+      "french_sentence": "J'ai demandé un remboursement pour l'article défectueux.",
+      "eng_sentence": "I requested a refund for the defective item."
     },
     {
       "word": "remboursement",
       "gender": "m",
       "the_word": "Un remboursement",
       "imageLink": "https://example.com/reimbursement_image.jpg",
-      "eng_word": "reimbursement"
+      "eng_word": "reimbursement",
+      "french_sentence": "La compagnie a effectué le remboursement des frais de voyage.",
+      "eng_sentence": "The company reimbursed the travel expenses."
     },
     {
       "word": "rapport",
       "gender": "m",
       "the_word": "Un rapport",
       "imageLink": "https://example.com/report_image.jpg",
-      "eng_word": "report"
+      "eng_word": "report",
+      "french_sentence": "Le chercheur a présenté un rapport détaillé sur ses découvertes.",
+      "eng_sentence": "The researcher presented a detailed report on his findings."
     },
     {
       "word": "échéance",
       "gender": "f",
       "the_word": "Une échéance",
       "imageLink": "https://example.com/deadline_image.jpg",
-      "eng_word": "deadline"
+      "eng_word": "deadline",
+      "french_sentence": "La date limite pour soumettre le projet est demain.",
+      "eng_sentence": "The deadline to submit the project is tomorrow."
     },
     {
       "word": "retard",
       "gender": "m",
       "the_word": "Un retard",
       "imageLink": "https://example.com/delay_image.jpg",
-      "eng_word": "delay"
+      "eng_word": "delay",
+      "french_sentence": "Le train a pris du retard à cause d'un problème technique.",
+      "eng_sentence": "The train was delayed due to a technical issue."
     },
     {
       "word": "édifice",
       "gender": "m",
       "the_word": "Un édifice",
       "imageLink": "https://example.com/edifice_image.jpg",
-      "eng_word": "building"
+      "eng_word": "building",
+      "french_sentence": "Le nouvel édifice est impressionnant avec son architecture moderne.",
+      "eng_sentence": "The new building is impressive with its modern architecture."
     },
     {
       "word": "couverture",
       "gender": "f",
       "the_word": "Une couverture",
       "imageLink": "https://example.com/couverture_image.jpg",
-      "eng_word": "cover"
+      "eng_word": "cover",
+      "french_sentence": "J'ai mis une couverture chaude sur le lit.",
+      "eng_sentence": "I put a warm cover on the bed."
     },
     {
       "word": "numéro",
       "gender": "m",
       "the_word": "Un numéro",
       "imageLink": "https://example.com/numero_image.jpg",
-      "eng_word": "number"
+      "eng_word": "number",
+      "french_sentence": "Quel est ton numéro de téléphone?",
+      "eng_sentence": "What is your phone number?"
     },
     {
       "word": "identification",
       "gender": "f",
       "the_word": "Une identification",
       "imageLink": "https://example.com/identification_image.jpg",
-      "eng_word": "identification"
+      "eng_word": "identification",
+      "french_sentence": "Il a besoin d'une pièce d'identification pour entrer dans le bâtiment.",
+      "eng_sentence": "He needs an identification document to enter the building."
     },
     {
       "word": "nom",
       "gender": "m",
       "the_word": "Un nom",
       "imageLink": "https://example.com/nom_image.jpg",
-      "eng_word": "name"
+      "eng_word": "name",
+      "french_sentence": "Quel est ton nom?",
+      "eng_sentence": "What is your name?"
     },
     {
       "word": "reproduction",
       "gender": "f",
       "the_word": "Une reproduction",
       "imageLink": "https://example.com/reproduction_image.jpg",
-      "eng_word": "reproduction"
+      "eng_word": "reproduction",
+      "french_sentence": "Le musée expose une reproduction célèbre d'une peinture de Van Gogh.",
+      "eng_sentence": "The museum displays a famous reproduction of a Van Gogh painting."
     },
     {
       "word": "été",
       "gender": "m",
       "the_word": "L'été",
       "imageLink": "https://example.com/ete_image.jpg",
-      "eng_word": "summer"
+      "eng_word": "summer",
+      "french_sentence": "J'adore aller à la plage pendant l'été.",
+      "eng_sentence": "I love going to the beach during the summer."
     },
     {
       "word": "service",
       "gender": "m",
       "the_word": "Le service",
       "imageLink": "https://example.com/service_image.jpg",
-      "eng_word": "service"
+      "eng_word": "service",
+      "french_sentence": "Je vais appeler le service client pour résoudre mon problème.",
+      "eng_sentence": "I will call customer service to resolve my issue."
     },
     {
       "word": "paye",
       "gender": "f",
       "the_word": "La paye",
       "imageLink": "https://example.com/paye_image.jpg",
-      "eng_word": "payroll"
+      "eng_word": "payroll",
+      "french_sentence": "La paye sera versée vendredi prochain.",
+      "eng_sentence": "The payroll will be paid next Friday."
     },
     {
       "word": "surplus",
       "gender": "m",
       "the_word": "Un surplus",
       "imageLink": "https://example.com/surplus_image.jpg",
-      "eng_word": "surplus"
+      "eng_word": "surplus",
+      "french_sentence": "Il y a un surplus de produits en stock.",
+      "eng_sentence": "There is a surplus of products in stock."
     },
     {
       "word": "travail",
       "gender": "m",
       "the_word": "Le travail",
       "imageLink": "https://example.com/travail_image.jpg",
-      "eng_word": "work"
+      "eng_word": "work",
+      "french_sentence": "Je dois finir mon travail avant la fin de la journée.",
+      "eng_sentence": "I need to finish my work before the end of the day."
     },
     {
       "word": "personnel",
       "gender": "m",
       "the_word": "Le personnel",
       "imageLink": "https://example.com/personnel_image.jpg",
-      "eng_word": "personnel"
+      "eng_word": "personnel",
+      "french_sentence": "Le personnel de l'entreprise est très compétent.",
+      "eng_sentence": "The company's personnel is very competent."
     },
     {
       "word": "normale",
       "gender": "f",
       "the_word": "La normale",
       "imageLink": "https://example.com/normale_image.jpg",
-      "eng_word": "normal"
+      "eng_word": "normal",
+      "french_sentence": "Tout est revenu à la normale après la panne d'électricité.",
+      "eng_sentence": "Everything returned to normal after the power outage."
     },
     {
       "word": "courrier",
       "gender": "m",
       "the_word": "Le courrier",
       "imageLink": "https://example.com/courrier_image.jpg",
-      "eng_word": "mail"
+      "eng_word": "mail",
+      "french_sentence": "Le facteur vient de livrer le courrier.",
+      "eng_sentence": "The mailman just delivered the mail."
     },
     {
       "word": "région",
       "gender": "f",
       "the_word": "La région",
       "imageLink": "https://example.com/regions_image.jpg",
-      "eng_word": "region"
+      "eng_word": "region",
+      "french_sentence": "J'habite dans la région parisienne.",
+      "eng_sentence": "I live in the Paris region."
     },
     {
       "word": "unité",
       "gender": "f",
       "the_word": "L'unité",
       "imageLink": "https://example.com/unites_image.jpg",
-      "eng_word": "unit"
+      "eng_word": "unit",
+      "french_sentence": "La longueur est mesurée en unités de mètre.",
+      "eng_sentence": "Length is measured in units of meters."
     },
     {
       "word": "Direction générale",
       "gender": "f",
       "the_word": "La Direction générale",
       "imageLink": "https://example.com/direction_generale_image.jpg",
-      "eng_word": "General Directorate"
-    },
-    {
-      "word": "service",
-      "gender": "m",
-      "the_word": "Le service",
-      "imageLink": "https://example.com/service_image.jpg",
-      "eng_word": "service"
+      "eng_word": "General Directorate",
+      "french_sentence": "La Direction générale est responsable de la gestion de l'entreprise.",
+      "eng_sentence": "The General Directorate is responsible for the management of the company."
     },
     {
       "word": "Secrétariat",
       "gender": "m",
       "the_word": "Le Secrétariat",
       "imageLink": "https://example.com/secretariat_image.jpg",
-      "eng_word": "Secretariat"
+      "eng_word": "Secretariat",
+      "french_sentence": "Le Secrétariat est chargé de la gestion administrative de l'entreprise.",
+      "eng_sentence": "The Secretariat is responsible for the administrative management of the company."
     },
     {
       "word": "livraison",
       "gender": "f",
       "the_word": "La livraison",
       "imageLink": "https://example.com/livraison_image.jpg",
-      "eng_word": "delivery"
+      "eng_word": "delivery",
+      "french_sentence": "La livraison sera effectuée demain matin.",
+      "eng_sentence": "The delivery will be made tomorrow morning."
     },
     {
       "word": "jour",
       "gender": "m",
       "the_word": "Le jour",
       "imageLink": "https://example.com/jour_image.jpg",
-      "eng_word": "day"
+      "eng_word": "day",
+      "french_sentence": "Je vais à la plage tous les jours.",
+      "eng_sentence": "I go to the beach every day."
     },
     {
       "word": "expédition",
       "gender": "f",
       "the_word": "L'expédition",
       "imageLink": "https://example.com/expedition_image.jpg",
-      "eng_word": "shipment"
+      "eng_word": "shipment",
+      "french_sentence": "L'expédition des marchandises a été retardée en raison d'un problème logistique.",
+      "eng_sentence": "The shipment of goods has been delayed due to a logistical issue."
     },
     {
       "word": "casier",
       "gender": "m",
-      "the_word": "Le casiers",
+      "the_word": "Le casier",
       "imageLink": "https://example.com/casiers_image.jpg",
-      "eng_word": "mailboxes"
-    },
-    {
-      "word": "local",
-      "gender": "m",
-      "the_word": "Le locaux",
-      "imageLink": "https://example.com/locaux_image.jpg",
-      "eng_word": "premises"
-    },
-    {
-      "word": "pièce",
-      "gender": "f",
-      "the_word": "La pièce",
-      "imageLink": "https://example.com/piece_image.jpg",
-      "eng_word": "room"
-    },
-    {
-      "word": "étage",
-      "gender": "m",
-      "the_word": "L'étage",
-      "imageLink": "https://example.com/etage_image.jpg",
-      "eng_word": "floor"
-    },
-    {
-      "word": "mardi",
-      "gender": "m",
-      "the_word": "Mardi",
-      "imageLink": "https://example.com/mardi_image.jpg",
-      "eng_word": "Tuesday"
-    },
-    {
-      "word": "tableau",
-      "gender": "m",
-      "the_word": "Le tableau",
-      "imageLink": "https://example.com/tableau_image.jpg",
-      "eng_word": "Board"
-    },
-    {
-      "word": "section",
-      "gender": "f",
-      "the_word": "La section",
-      "imageLink": "https://example.com/section_image.jpg",
-      "eng_word": "section"
-    },
-    {
-      "word": "document",
-      "gender": "m",
-      "the_word": "Le document",
-      "imageLink": "https://example.com/document_image.jpg",
-      "eng_word": "document"
-    },
-    {
-      "word": "semaine",
-      "gender": "f",
-      "the_word": "La semaine",
-      "imageLink": "https://example.com/semaine_image.jpg",
-      "eng_word": "week"
-    },
-    {
-      "word": "comité",
-      "gender": "m",
-      "the_word": "Le comité",
-      "imageLink": "https://example.com/comite_image.jpg",
-      "eng_word": "committee"
-    },
-    {
-      "word": "télévision",
-      "gender": "f",
-      "the_word": "La télévision",
-      "imageLink": "https://example.com/television_image.jpg",
-      "eng_word": "television"
-    },
-    {
-      "word": "anglais",
-      "gender": "m",
-      "the_word": "L'anglais",
-      "imageLink": "https://example.com/anglais_image.jpg",
-      "eng_word": "English"
-    },
-    {
-      "word": "français",
-      "gender": "m",
-      "the_word": "Le français",
-      "imageLink": "https://example.com/francais_image.jpg",
-      "eng_word": "French"
-    },
-    {
-      "word": "révision",
-      "gender": "f",
-      "the_word": "La révision",
-      "imageLink": "https://example.com/revision_image.jpg",
-      "eng_word": "revision"
-    },
-    {
-      "word": "version",
-      "gender": "f",
-      "the_word": "La version",
-      "imageLink": "https://example.com/version_image.jpg",
-      "eng_word": "version"
-    },
-    {
-      "word": "secrétaire",
-      "gender": "m",
-      "the_word": "Le secrétaire",
-      "imageLink": "https://example.com/secretaire_image.jpg",
-      "eng_word": "secretary"
-    },
-    {
-      "word": "directive",
-      "gender": "f",
-      "the_word": "La directive",
-      "imageLink": "https://example.com/directive_image.jpg",
-      "eng_word": "directive"
-    },
-    {
-      "word": "décentralisation",
-      "gender": "f",
-      "the_word": "La décentralisation",
-      "imageLink": "https://example.com/decentralisation_image.jpg",
-      "eng_word": "decentralization"
-    },
-    {
-      "word": "déménagement",
-      "gender": "m",
-      "the_word": "Le déménagement",
-      "imageLink": "https://example.com/demenagement_image.jpg",
-      "eng_word": "relocation"
-    },
-    {
-      "word": "employé",
-      "gender": "m",
-      "the_word": "L'employé",
-      "imageLink": "https://example.com/employe_image.jpg",
-      "eng_word": "employee"
-    },
-    {
-      "word": "programme de formation",
-      "gender": "m",
-      "the_word": "Le programme de formation",
-      "imageLink": "https://example.com/programme_formation_image.jpg",
-      "eng_word": "training program"
-    },
-    {
-      "word": "réaffectation",
-      "gender": "f",
-      "the_word": "La réaffectation",
-      "imageLink": "https://example.com/reaffectation_image.jpg",
-      "eng_word": "reassignment"
-    },
-    {
-      "word": "Fonction publique",
-      "gender": "f",
-      "the_word": "La Fonction publique",
-      "imageLink": "https://example.com/fonction_publique_image.jpg",
-      "eng_word": "public service"
-    },
-    {
-      "word": "cours de formation",
-      "gender": "m",
-      "the_word": "Le cours de formation",
-      "imageLink": "https://example.com/cours_formation_image.jpg",
-      "eng_word": "training course"
-    },
-    {
-      "word": "durée",
-      "gender": "f",
-      "the_word": "La durée",
-      "imageLink": "https://example.com/duree_image.jpg",
-      "eng_word": "duration"
-    },
-    {
-      "word": "lettre",
-      "gender": "f",
-      "the_word": "La lettre",
-      "imageLink": "https://example.com/lettre_image.jpg",
-      "eng_word": "letter"
-    },
-    {
-      "word": "adresse",
-      "gender": "f",
-      "the_word": "L'adresse",
-      "imageLink": "https://example.com/adresse_image.jpg",
-      "eng_word": "address"
-    },
-    {
-      "word": "domicile",
-      "gender": "m",
-      "the_word": "Le domicile",
-      "imageLink": "https://example.com/domicile_image.jpg",
-      "eng_word": "residence"
-    },
-    {
-      "word": " adresse",
-      "gender": "f",
-      "the_word": "La adresse",
-      "imageLink": "https://example.com/nouvelle_adresse_image.jpg",
-      "eng_word": "address"
-    },
-    {
-      "word": "ancienne adresse",
-      "gender": "f",
-      "the_word": "L'ancienne adresse",
-      "imageLink": "https://example.com/ancienne_adresse_image.jpg",
-      "eng_word": "old address"
-    },
-    {
-      "word": "recherche",
-      "gender": "f",
-      "the_word": "La recherche",
-      "imageLink": "https://example.com/recherche_image.jpg",
-      "eng_word": "research"
-    },
-    {
-      "word": "enquête",
-      "gender": "f",
-      "the_word": "L'enquête",
-      "imageLink": "https://example.com/enquete_image.jpg",
-      "eng_word": "investigation"
-    },
-    {
-      "word": "cause",
-      "gender": "f",
-      "the_word": "La cause",
-      "imageLink": "https://example.com/cause_image.jpg",
-      "eng_word": "cause"
-    },
-    {
-      "word": "accident",
-      "gender": "m",
-      "the_word": "L'accident",
-      "imageLink": "https://example.com/accident_image.jpg",
-      "eng_word": "accident"
-    },
-    {
-      "word": "soirée",
-      "gender": "f",
-      "the_word": "La soirée",
-      "imageLink": "https://example.com/soiree_image.jpg",
-      "eng_word": "evening/party"
-    },
-    {
-      "word": "fête",
-      "gender": "f",
-      "the_word": "La fête",
-      "imageLink": "https://example.com/fete_image.jpg",
-      "eng_word": "celebration/holiday"
-    },
-    {
-      "word": "sondage",
-      "gender": "m",
-      "the_word": "Le sondage",
-      "imageLink": "https://example.com/sondage_image.jpg",
-      "eng_word": "survey"
-    },
-    {
-      "word": "membre du personnel",
-      "gender": "m",
-      "the_word": "Le membre du personnel",
-      "imageLink": "https://example.com/membre_personnel_image.jpg",
-      "eng_word": "staff member"
-    },
-    {
-      "word": "majorité",
-      "gender": "f",
-      "the_word": "La majorité",
-      "imageLink": "https://example.com/majorite_image.jpg",
-      "eng_word": "majority"
-    },
-    {
-      "word": "ministère",
-      "gender": "m",
-      "the_word": "Le ministère",
-      "imageLink": "https://example.com/ministere_image.jpg",
-      "eng_word": "ministry"
-    },
-    {
-      "word": "approche",
-      "gender": "f",
-      "the_word": "Une approche",
-      "imageLink": "https://example.com/approche_image.jpg",
-      "eng_word": "approach"
-    },
-    {
-      "word": "datation",
-      "gender": "f",
-      "the_word": "La datation",
-      "imageLink": "https://example.com/datation_image.jpg",
-      "eng_word": "dating"
-    },
-    {
-      "word": "correspondance",
-      "gender": "f",
-      "the_word": "La correspondance",
-      "imageLink": "https://example.com/correspondance_image.jpg",
-      "eng_word": "correspondence"
-    },
-    {
-      "word": "personnel",
-      "gender": "m",
-      "the_word": "Le personnel",
-      "imageLink": "https://example.com/personnel_image.jpg",
-      "eng_word": "personnel/staff"
-    },
-    {
-      "word": "norme",
-      "gender": "f",
-      "the_word": "La norme",
-      "imageLink": "https://example.com/norme_image.jpg",
-      "eng_word": "standard"
-    },
-    {
-      "word": "norme propre",
-      "gender": "f",
-      "the_word": "La norme propre",
-      "imageLink": "https://example.com/norme_propre_image.jpg",
-      "eng_word": "specific standard"
-    },
-    {
-      "word": "langue",
-      "gender": "f",
-      "the_word": "La langue",
-      "imageLink": "https://example.com/langue_image.jpg",
-      "eng_word": "language"
-    },
-    {
-      "word": "plaisir",
-      "gender": "m",
-      "the_word": "Le plaisir",
-      "imageLink": "https://example.com/plaisir_image.jpg",
-      "eng_word": "pleasure"
-    },
-    {
-      "word": "région",
-      "gender": "f",
-      "the_word": "La région",
-      "imageLink": "https://example.com/region_image.jpg",
-      "eng_word": "region"
-    },
-    {
-      "word": "disposition",
-      "gender": "f",
-      "the_word": "La disposition",
-      "imageLink": "https://example.com/disposition_image.jpg",
-      "eng_word": "availability"
-    },
-    {
-      "word": "matériel",
-      "gender": "m",
-      "the_word": "Le matériel",
-      "imageLink": "https://example.com/materiel_image.jpg",
-      "eng_word": "material"
-    },
-    {
-      "word": "liste",
-      "gender": "f",
-      "the_word": "La liste",
-      "imageLink": "https://example.com/liste_image.jpg",
-      "eng_word": "list"
-    },
-    {
-      "word": "façon",
-      "gender": "f",
-      "the_word": "La façon",
-      "imageLink": "https://example.com/facon_image.jpg",
-      "eng_word": "way"
-    },
-    {
-      "word": "conversation",
-      "gender": "f",
-      "the_word": "La conversation",
-      "imageLink": "https://example.com/conversation_image.jpg",
-      "eng_word": "conversation"
-    },
-    {
-      "word": "local",
-      "gender": "m",
-      "the_word": "Un local",
-      "imageLink": "https://example.com/local_image.jpg",
-      "eng_word": "room"
-    },
-    {
-      "word": "réception",
-      "gender": "f",
-      "the_word": "La réception",
-      "imageLink": "https://example.com/reception_image.jpg",
-      "eng_word": "reception"
-    },
-    {
-      "word": "vérification",
-      "gender": "f",
-      "the_word": "La vérification",
-      "imageLink": "https://example.com/verification_image.jpg",
-      "eng_word": "audit"
-    },
-    {
-      "word": "départ",
-      "gender": "m",
-      "the_word": "Le départ",
-      "imageLink": "https://example.com/depart_image.jpg",
-      "eng_word": "departure"
-    },
-    {
-      "word": "clé",
-      "gender": "f",
-      "the_word": "La clé",
-      "imageLink": "https://example.com/cle_image.jpg",
-      "eng_word": "key"
-    },
-    {
-      "word": "ascenseur",
-      "gender": "m",
-      "the_word": "Un ascenseur",
-      "imageLink": "https://example.com/ascenseur_image.jpg",
-      "eng_word": "elevator"
-    },
-    {
-      "word": "besoin",
-      "gender": "m",
-      "the_word": "Le besoin",
-      "imageLink": "https://example.com/besoin_image.jpg",
-      "eng_word": "need"
-    },
-    {
-      "word": "personne",
-      "gender": "f",
-      "the_word": "La personne",
-      "imageLink": "https://example.com/personne_image.jpg",
-      "eng_word": "person"
-    },
-    {
-      "word": "retour",
-      "gender": "m",
-      "the_word": "Le retour",
-      "imageLink": "https://example.com/retour_image.jpg",
-      "eng_word": "return"
-    },
-    {
-      "word": "recherche",
-      "gender": "f",
-      "the_word": "La recherche",
-      "imageLink": "https://example.com/recherche_image.jpg",
-      "eng_word": "research"
-    },
-    {
-      "word": "travail",
-      "gender": "m",
-      "the_word": "Le travail",
-      "imageLink": "https://example.com/travail_image.jpg",
-      "eng_word": "work"
-    },
-    {
-      "word": "achat",
-      "gender": "m",
-      "the_word": "L'achat",
-      "imageLink": "https://example.com/achat_image.jpg",
-      "eng_word": "purchase"
-    },
-    {
-      "word": "équipe",
-      "gender": "f",
-      "the_word": "L'équipe",
-      "imageLink": "https://example.com/equipe_image.jpg",
-      "eng_word": "team"
-    },
-    {
-      "word": "approbation",
-      "gender": "f",
-      "the_word": "L'approbation",
-      "imageLink": "https://example.com/approbation_image.jpg",
-      "eng_word": "approval"
-    },
-    {
-      "word": "membre",
-      "gender": "m",
-      "the_word": "Le membre",
-      "imageLink": "https://example.com/membre_image.jpg",
-      "eng_word": "member"
-    },
-    {
-      "word": "comité",
-      "gender": "m",
-      "the_word": "Le comité",
-      "imageLink": "https://example.com/comite_image.jpg",
-      "eng_word": "committee"
-    },
-    {
-      "word": "manifestation",
-      "gender": "f",
-      "the_word": "La manifestation",
-      "imageLink": "https://example.com/manifestation_image.jpg",
-      "eng_word": "event"
-    },
-    {
-      "word": "bureau",
-      "gender": "m",
-      "the_word": "Le bureau",
-      "imageLink": "https://example.com/bureau_image.jpg",
-      "eng_word": "office"
-    },
-    {
-      "word": "sécurité",
-      "gender": "f",
-      "the_word": "La sécurité",
-      "imageLink": "https://example.com/securite_image.jpg",
-      "eng_word": "security"
-    },
-    {
-      "word": "carte",
-      "gender": "f",
-      "the_word": "La carte",
-      "imageLink": "https://example.com/carte_image.jpg",
-      "eng_word": "card"
-    },
-    {
-      "word": "passage",
-      "gender": "m",
-      "the_word": "Le passage",
-      "imageLink": "https://example.com/passage_image.jpg",
-      "eng_word": "passage"
-    },
-    {
-      "word": "place",
-      "gender": "f",
-      "the_word": "La place",
-      "imageLink": "https://example.com/place_image.jpg",
-      "eng_word": "place"
-    },
-    {
-      "word": "principe",
-      "gender": "m",
-      "the_word": "Le principe",
-      "imageLink": "https://example.com/principe_image.jpg",
-      "eng_word": "principle"
-    },
-    {
-      "word": "allocution",
-      "gender": "f",
-      "the_word": "L'allocution",
-      "imageLink": "https://example.com/allocution_image.jpg",
-      "eng_word": "speech"
-    },
-    {
-      "word": "fonctionnaire",
-      "gender": "m",
-      "the_word": "Le fonctionnaire",
-      "imageLink": "https://example.com/fonctionnaire_image.jpg",
-      "eng_word": "civil servant"
-    },
-    {
-      "word": "question",
-      "gender": "f",
-      "the_word": "La question",
-      "imageLink": "https://example.com/question_image.jpg",
-      "eng_word": "question"
-    },
-    {
-      "word": "approche",
-      "gender": "f",
-      "the_word": "L'approche",
-      "imageLink": "https://example.com/approche_image.jpg",
-      "eng_word": "approach"
-    },
-    {
-      "word": "programme",
-      "gender": "m",
-      "the_word": "Le programme",
-      "imageLink": "https://example.com/programme_image.jpg",
-      "eng_word": "program"
-    },
-    {
-      "word": "invitation",
-      "gender": "f",
-      "the_word": "L'invitation",
-      "imageLink": "https://example.com/invitation_image.jpg",
-      "eng_word": "invitation"
-    },
-    {
-      "word": "opinion",
-      "gender": "f",
-      "the_word": "L'opinion",
-      "imageLink": "https://example.com/opinion_image.jpg",
-      "eng_word": "opinion"
-    },
-    {
-      "word": "possibilité",
-      "gender": "f",
-      "the_word": "La possibilité",
-      "imageLink": "https://example.com/possibilite_image.jpg",
-      "eng_word": "possibility"
-    },
-    {
-      "word": "pays",
-      "gender": "m",
-      "the_word": "Le pays",
-      "imageLink": "https://example.com/pays_image.jpg",
-      "eng_word": "country"
-    },
-    {
-      "word": "choix",
-      "gender": "m",
-      "the_word": "Le choix",
-      "imageLink": "https://example.com/choix_image.jpg",
-      "eng_word": "choice"
-    },
-    {
-      "word": "allocation",
-      "gender": "f",
-      "the_word": "L'allocation",
-      "imageLink": "https://example.com/allocation_image.jpg",
-      "eng_word": "allowance"
-    },
-    {
-      "word": "dépense",
-      "gender": "f",
-      "the_word": "La dépense",
-      "imageLink": "https://example.com/depense_image.jpg",
-      "eng_word": "expense"
-    },
-    {
-      "word": "adoption",
-      "gender": "f",
-      "the_word": "L'adoption",
-      "imageLink": "https://example.com/adoption_image.jpg",
-      "eng_word": "adoption"
-    },
-    {
-      "word": "moyen",
-      "gender": "m",
-      "the_word": "Le moyen",
-      "imageLink": "https://example.com/moyen_image.jpg",
-      "eng_word": "means"
-    },
-    {
-      "word": "besoin",
-      "gender": "m",
-      "the_word": "Le besoin",
-      "imageLink": "https://example.com/besoin_image.jpg",
-      "eng_word": "need"
-    },
-    {
-      "word": "quelqu'un",
-      "gender": "m",
-      "the_word": "Quelqu'un",
-      "imageLink": "https://example.com/quelquun_image.jpg",
-      "eng_word": "someone"
-    },
-    {
-      "word": "recherche",
-      "gender": "f",
-      "the_word": "La recherche",
-      "imageLink": "https://example.com/recherche_image.jpg",
-      "eng_word": "search"
-    },
-    {
-      "word": "une",
-      "gender": "f",
-      "the_word": "Une",
-      "imageLink": "https://example.com/une_image.jpg",
-      "eng_word": "a/an"
-    },
-    {
-      "word": "pour",
-      "gender": "f",
-      "the_word": "Pour",
-      "imageLink": "https://example.com/pour_image.jpg",
-      "eng_word": "for"
-    },
-    {
-      "word": "années",
-      "gender": "f",
-      "the_word": "L'année",
-      "imageLink": "https://example.com/annees_image.jpg",
-      "eng_word": "year"
-    },
-    {
-      "word": "tous",
-      "gender": "m",
-      "the_word": "Tous",
-      "imageLink": "https://example.com/tous_image.jpg",
-      "eng_word": "all/every"
-    },
-    {
-      "word": "valide",
-      "gender": "m",
-      "the_word": "Le valide",
-      "imageLink": "https://example.com/valides_image.jpg",
-      "eng_word": "valid"
-    },
-    {
-      "word": "gestion",
-      "gender": "f",
-      "the_word": "La gestion",
-      "imageLink": "https://example.com/gestion_image.jpg",
-      "eng_word": "management"
-    },
-    {
-      "word": "selon",
-      "gender": "m",
-      "the_word": "Selon",
-      "imageLink": "https://example.com/selon_image.jpg",
-      "eng_word": "according to"
-    },
-    {
-      "word": "récemment",
-      "gender": "m",
-      "the_word": "Récemment",
-      "imageLink": "https://example.com/recemment_image.jpg",
-      "eng_word": "recently"
-    },
-    {
-      "word": "également",
-      "gender": "f",
-      "the_word": "Également",
-      "imageLink": "https://example.com/egalement_image.jpg",
-      "eng_word": "also"
-    },
-    {
-      "word": "aucun",
-      "gender": "m",
-      "the_word": "Aucun",
-      "imageLink": "https://example.com/aucun_image.jpg",
-      "eng_word": "none"
-    },
-    {
-      "word": "conférence",
-      "gender": "f",
-      "the_word": "La conférence",
-      "imageLink": "https://example.com/conference_image.jpg",
-      "eng_word": "conference"
-    },
-    {
-      "word": "renseignements",
-      "gender": "m",
-      "the_word": "Le renseignement",
-      "imageLink": "https://example.com/renseignements_image.jpg",
-      "eng_word": "information"
-    },
-    {
-      "word": "activités",
-      "gender": "f",
-      "the_word": "L'activité",
-      "imageLink": "https://example.com/activites_image.jpg",
-      "eng_word": "activity"
-    },
-    {
-      "word": "stratégie",
-      "gender": "f",
-      "the_word": "La stratégie",
-      "imageLink": "https://example.com/strategie_image.jpg",
-      "eng_word": "strategy"
-    },
-    {
-      "word": "salubrité",
-      "gender": "f",
-      "the_word": "La salubrité",
-      "imageLink": "https://example.com/salubrite_image.jpg",
-      "eng_word": "sanitation"
-    },
-    {
-      "word": "approvisionnement",
-      "gender": "m",
-      "the_word": "L'approvisionnement",
-      "imageLink": "https://example.com/approvisionnement_image.jpg",
-      "eng_word": "procurement"
-    },
-    {
-      "word": "eau",
-      "gender": "f",
-      "the_word": "L'eau",
-      "imageLink": "https://example.com/eau_image.jpg",
-      "eng_word": "water"
-    },
-    {
-      "word": "potable",
-      "gender": "m",
-      "the_word": "L'eau potable",
-      "imageLink": "https://example.com/potable_image.jpg",
-      "eng_word": "drinking water"
-    },
-    {
-      "word": "canada",
-      "gender": "m",
-      "the_word": "Le Canada",
-      "imageLink": "https://example.com/canada_image.jpg",
-      "eng_word": "Canada"
-    },
-    {
-      "word": "formalités",
-      "gender": "f",
-      "the_word": "La formalité",
-      "imageLink": "https://example.com/formalites_image.jpg",
-      "eng_word": "formality"
-    },
-    {
-      "word": "soumissionnaires",
-      "gender": "m",
-      "the_word": "Le soumissionnaire",
-      "imageLink": "https://example.com/soumissionnaires_image.jpg",
-      "eng_word": "bidder"
-    },
-    {
-      "word": "politique",
-      "gender": "f",
-      "the_word": "La politique",
-      "imageLink": "https://example.com/politique_image.jpg",
-      "eng_word": "policy"
-    },
-    {
-      "word": "ligne",
-      "gender": "f",
-      "the_word": "La ligne",
-      "imageLink": "https://example.com/lignes_image.jpg",
-      "eng_word": "line"
-    },
-    {
-      "word": "directive",
-      "gender": "f",
-      "the_word": "La directive",
-      "imageLink": "https://example.com/directives_image.jpg",
-      "eng_word": "directive"
-    },
-    {
-      "word": "processus",
-      "gender": "m",
-      "the_word": "Le processus",
-      "imageLink": "https://example.com/processus_image.jpg",
-      "eng_word": "process"
-    },
-    {
-      "word": "qualité",
-      "gender": "f",
-      "the_word": "La qualité",
-      "imageLink": "https://example.com/qualite_image.jpg",
-      "eng_word": "quality"
-    },
-    {
-      "word": "prix",
-      "gender": "m",
-      "the_word": "Le prix",
-      "imageLink": "https://example.com/prix_image.jpg",
-      "eng_word": "price"
-    },
-    {
-      "word": "industrie",
-      "gender": "f",
-      "the_word": "L'industrie",
-      "imageLink": "https://example.com/industrie_image.jpg",
-      "eng_word": "industry"
-    },
-    {
-      "word": "division",
-      "gender": "f",
-      "the_word": "La division",
-      "imageLink": "https://example.com/division_image.jpg",
-      "eng_word": "division"
-    },
-    {
-      "word": "étude",
-      "gender": "f",
-      "the_word": "L'étude",
-      "imageLink": "https://example.com/etudes_image.jpg",
-      "eng_word": "study"
-    },
-    {
-      "word": "analyse",
-      "gender": "f",
-      "the_word": "L'analyse",
-      "imageLink": "https://example.com/analyses_image.jpg",
-      "eng_word": "analysis"
-    },
-    {
-      "word": "plan",
-      "gender": "m",
-      "the_word": "Le plan",
-      "imageLink": "https://example.com/plan_image.jpg",
-      "eng_word": "plan"
-    },
-    {
-      "word": "projet",
-      "gender": "m",
-      "the_word": "Le projet",
-      "imageLink": "https://example.com/projets_image.jpg",
-      "eng_word": "project"
-    },
-    {
-      "word": "année",
-      "gender": "f",
-      "the_word": "L'année",
-      "imageLink": "https://example.com/annee_image.jpg",
-      "eng_word": "year"
-    },
-    {
-      "word": "recrutement",
-      "gender": "m",
-      "the_word": "Le recrutement",
-      "imageLink": "https://example.com/recrutement_image.jpg",
-      "eng_word": "recruitment"
-    },
-    {
-      "word": "direction",
-      "gender": "f",
-      "the_word": "La direction",
-      "imageLink": "https://example.com/direction_image.jpg",
-      "eng_word": "direction"
-    },
-    {
-      "word": "durée",
-      "gender": "f",
-      "the_word": "La durée",
-      "imageLink": "https://example.com/duree_image.jpg",
-      "eng_word": "duration"
-    },
-    {
-      "word": "projet",
-      "gender": "m",
-      "the_word": "Le projet",
-      "imageLink": "https://example.com/projet_image.jpg",
-      "eng_word": "project"
-    },
-    {
-      "word": "étude",
-      "gender": "f",
-      "the_word": "L'étude",
-      "imageLink": "https://example.com/etude_image.jpg",
-      "eng_word": "study"
-    },
-    {
-      "word": "situation",
-      "gender": "f",
-      "the_word": "La situation",
-      "imageLink": "https://example.com/situation_image.jpg",
-      "eng_word": "situation"
-    },
-    {
-      "word": "résultat",
-      "gender": "m",
-      "the_word": "Le résultat",
-      "imageLink": "https://example.com/resultat_image.jpg",
-      "eng_word": "result"
-    },
-    {
-      "word": "étape",
-      "gender": "f",
-      "the_word": "L'étape",
-      "imageLink": "https://example.com/etape_image.jpg",
-      "eng_word": "step"
-    },
-    {
-      "word": "stratégie",
-      "gender": "f",
-      "the_word": "La stratégie",
-      "imageLink": "https://example.com/strategie_image.jpg",
-      "eng_word": "strategy"
-    },
-    {
-      "word": "formation",
-      "gender": "f",
-      "the_word": "La formation",
-      "imageLink": "https://example.com/formation_image.jpg",
-      "eng_word": "training"
-    },
-    {
-      "word": "demande",
-      "gender": "f",
-      "the_word": "La demande",
-      "imageLink": "https://example.com/demande_image.jpg",
-      "eng_word": "request"
-    },
-    {
-      "word": "objectif",
-      "gender": "m",
-      "the_word": "L'objectif",
-      "imageLink": "https://example.com/objectif_image.jpg",
-      "eng_word": "objective"
-    },
-    {
-      "word": "conclusion",
-      "gender": "f",
-      "the_word": "La conclusion",
-      "imageLink": "https://example.com/conclusion_image.jpg",
-      "eng_word": "conclusion"
-    },
-    {
-      "word": "recommandation",
-      "gender": "f",
-      "the_word": "La recommandation",
-      "imageLink": "https://example.com/recommandation_image.jpg",
-      "eng_word": "recommendation"
-    },
-    {
-      "word": "aspect",
-      "gender": "m",
-      "the_word": "L'aspect",
-      "imageLink": "https://example.com/aspect_image.jpg",
-      "eng_word": "aspect"
-    },
-    {
-      "word": "avantage",
-      "gender": "m",
-      "the_word": "L'avantage",
-      "imageLink": "https://example.com/avantage_image.jpg",
-      "eng_word": "advantage"
-    },
-    {
-      "word": "inconvénient",
-      "gender": "m",
-      "the_word": "L'inconvénient",
-      "imageLink": "https://example.com/inconvenient_image.jpg",
-      "eng_word": "disadvantage"
-    },
-    {
-      "word": "ministère",
-      "gender": "m",
-      "the_word": "Le ministère",
-      "imageLink": "https://example.com/ministere_image.jpg",
-      "eng_word": "ministry"
-    },
-    {
-      "word": "autorisation",
-      "gender": "f",
-      "the_word": "L'autorisation",
-      "imageLink": "https://example.com/autorisation_image.jpg",
-      "eng_word": "authorization"
-    },
-    {
-      "word": "écrite",
-      "gender": "f",
-      "the_word": "L'écrite",
-      "imageLink": "https://example.com/ecrite_image.jpg",
-      "eng_word": "written"
-    },
-    {
-      "word": "directeur",
-      "gender": "m",
-      "the_word": "Le directeur",
-      "imageLink": "https://example.com/directeur_image.jpg",
-      "eng_word": "director"
-    },
-    {
-      "word": "représentant",
-      "gender": "m",
-      "the_word": "Le représentant",
-      "imageLink": "https://example.com/representant_image.jpg",
-      "eng_word": "representative"
-    },
-    {
-      "word": "agent",
-      "gender": "m",
-      "the_word": "L'agent",
-      "imageLink": "https://example.com/agent_image.jpg",
-      "eng_word": "agent"
-    },
-    {
-      "word": "sécurité",
-      "gender": "f",
-      "the_word": "La sécurité",
-      "imageLink": "https://example.com/securite_image.jpg",
-      "eng_word": "security"
-    },
-    {
-      "word": "permission",
-      "gender": "f",
-      "the_word": "La permission",
-      "imageLink": "https://example.com/permission_image.jpg",
-      "eng_word": "permission"
-    },
-    {
-      "word": "matériel",
-      "gender": "m",
-      "the_word": "Le matériel",
-      "imageLink": "https://example.com/materiel_image.jpg",
-      "eng_word": "equipment"
-    },
-    {
-      "word": "inspecteur",
-      "gender": "m",
-      "the_word": "L'inspecteur",
-      "imageLink": "https://example.com/inspecteurs_image.jpg",
-      "eng_word": "inspector"
-    },
-    {
-      "word": "douane",
-      "gender": "f",
-      "the_word": "La douane",
-      "imageLink": "https://example.com/douanes_image.jpg",
-      "eng_word": "customs"
-    },
-    {
-      "word": "opération",
-      "gender": "f",
-      "the_word": "L'opération",
-      "imageLink": "https://example.com/operations_image.jpg",
-      "eng_word": "operation"
+      "eng_word": "mailboxes",
+      "french_sentence": "Les courriers sont rangés dans les casiers individuels.",
+      "eng_sentence": "The mails are stored in individual mailboxes."
     },
     {
       "word": "local",
       "gender": "m",
       "the_word": "Le local",
       "imageLink": "https://example.com/locaux_image.jpg",
-      "eng_word": "premises"
+      "eng_word": "premises",
+      "french_sentence": "Le local est utilisé comme espace de stockage.",
+      "eng_sentence": "The premises are used as a storage space."
     },
     {
-      "word": "réprimande",
+      "word": "pièce",
       "gender": "f",
-      "the_word": "La réprimande",
-      "imageLink": "https://example.com/reprimandes_image.jpg",
-      "eng_word": "reprimand"
+      "the_word": "La pièce",
+      "imageLink": "https://example.com/piece_image.jpg",
+      "eng_word": "room",
+      "french_sentence": "La pièce est décorée avec goût.",
+      "eng_sentence": "The room is tastefully decorated."
     },
     {
-      "word": "cas",
+      "word": "étage",
       "gender": "m",
-      "the_word": "Le cas",
-      "imageLink": "https://example.com/cas_image.jpg",
-      "eng_word": "case"
+      "the_word": "L'étage",
+      "imageLink": "https://example.com/etage_image.jpg",
+      "eng_word": "floor",
+      "french_sentence": "Le bureau se trouve au cinquième étage de l'immeuble.",
+      "eng_sentence": "The office is located on the fifth floor of the building."
     },
     {
-      "word": "absence",
-      "gender": "f",
-      "the_word": "L'absence",
-      "imageLink": "https://example.com/absence_image.jpg",
-      "eng_word": "absence"
-    },
-    {
-      "word": "avertissement",
+      "word": "mardi",
       "gender": "m",
-      "the_word": "L'avertissement",
-      "imageLink": "https://example.com/avertissement_image.jpg",
-      "eng_word": "warning"
-    },
-    {
-      "word": "message",
-      "gender": "m",
-      "the_word": "Le message",
-      "imageLink": "https://example.com/message_image.jpg",
-      "eng_word": "message"
+      "the_word": "Mardi",
+      "imageLink": "https://example.com/mardi_image.jpg",
+      "eng_word": "Tuesday",
+      "french_sentence": "Nous avons une réunion prévue pour mardi prochain.",
+      "eng_sentence": "We have a meeting scheduled for next Tuesday."
     },
     {
       "word": "tableau",
       "gender": "m",
       "the_word": "Le tableau",
       "imageLink": "https://example.com/tableau_image.jpg",
-      "eng_word": "table"
+      "eng_word": "board",
+      "french_sentence": "Le professeur écrit des notes au tableau.",
+      "eng_sentence": "The teacher writes notes on the board."
     },
     {
-      "word": "communication",
+      "word": "section",
       "gender": "f",
-      "the_word": "La communication",
-      "imageLink": "https://example.com/communication_image.jpg",
-      "eng_word": "communication"
+      "the_word": "La section",
+      "imageLink": "https://example.com/section_image.jpg",
+      "eng_word": "section",
+      "french_sentence": "La section des ressources humaines s'occupe du recrutement.",
+      "eng_sentence": "The human resources section is in charge of recruitment."
     },
     {
-      "word": "ton",
+      "word": "document",
       "gender": "m",
-      "the_word": "Le ton",
-      "imageLink": "https://example.com/ton_image.jpg",
-      "eng_word": "tone"
+      "the_word": "Le document",
+      "imageLink": "https://example.com/document_image.jpg",
+      "eng_word": "document",
+      "french_sentence": "Pouvez-vous m'envoyer le document par e-mail, s'il vous plaît ?",
+      "eng_sentence": "Can you please send me the document by email?"
     },
     {
-      "word": "division",
+      "word": "semaine",
       "gender": "f",
-      "the_word": "La division",
-      "imageLink": "https://example.com/division_image.jpg",
-      "eng_word": "division"
+      "the_word": "La semaine",
+      "imageLink": "https://example.com/semaine_image.jpg",
+      "eng_word": "week",
+      "french_sentence": "Je vais partir en vacances la semaine prochaine.",
+      "eng_sentence": "I'm going on vacation next week."
     },
     {
-      "word": "temps",
+      "word": "comité",
       "gender": "m",
-      "the_word": "Le temps",
-      "imageLink": "https://example.com/temps_image.jpg",
-      "eng_word": "time"
+      "the_word": "Le comité",
+      "imageLink": "https://example.com/comite_image.jpg",
+      "eng_word": "committee",
+      "french_sentence": "Le comité se réunit une fois par mois pour discuter des projets en cours.",
+      "eng_sentence": "The committee meets once a month to discuss ongoing projects."
     },
     {
-      "word": "perturbation",
+      "word": "télévision",
       "gender": "f",
-      "the_word": "La perturbation",
-      "imageLink": "https://example.com/perturbations_image.jpg",
-      "eng_word": "disruption"
+      "the_word": "La télévision",
+      "imageLink": "https://example.com/television_image.jpg",
+      "eng_word": "television",
+      "french_sentence": "J'aime regarder des émissions de télévision le soir.",
+      "eng_sentence": "I enjoy watching television shows in the evening."
     },
     {
-      "word": "système",
+      "word": "anglais",
       "gender": "m",
-      "the_word": "Le système",
-      "imageLink": "https://example.com/systemes_image.jpg",
-      "eng_word": "system"
+      "the_word": "L'anglais",
+      "imageLink": "https://example.com/anglais_image.jpg",
+      "eng_word": "English",
+      "french_sentence": "Je suis en train d'apprendre l'anglais.",
+      "eng_sentence": "I am learning English."
     },
     {
-      "word": "fiche",
-      "gender": "f",
-      "the_word": "La fiche",
-      "imageLink": "https://example.com/fiches_image.jpg",
-      "eng_word": "card"
-    },
-    {
-      "word": "directrice",
-      "gender": "f",
-      "the_word": "La directrice",
-      "imageLink": "https://example.com/directrice_image.jpg",
-      "eng_word": "director (female)"
-    },
-    {
-      "word": "retard",
+      "word": "français",
       "gender": "m",
-      "the_word": "Le retard",
-      "imageLink": "https://example.com/retard_image.jpg",
-      "eng_word": "delay"
+      "the_word": "Le français",
+      "imageLink": "https://example.com/francais_image.jpg",
+      "eng_word": "French",
+      "french_sentence": "Le français est ma langue maternelle.",
+      "eng_sentence": "French is my native language."
     },
     {
-      "word": "mesure",
+      "word": "révision",
       "gender": "f",
-      "the_word": "La mesure",
-      "imageLink": "https://example.com/mesure_image.jpg",
-      "eng_word": "measure"
+      "the_word": "La révision",
+      "imageLink": "https://example.com/revision_image.jpg",
+      "eng_word": "revision",
+      "french_sentence": "Je dois faire une révision de mon travail avant de le soumettre.",
+      "eng_sentence": "I need to do a revision of my work before submitting it."
     },
     {
-      "word": "bureau",
+      "word": "version",
+      "gender": "f",
+      "the_word": "La version",
+      "imageLink": "https://example.com/version_image.jpg",
+      "eng_word": "version",
+      "french_sentence": "La dernière version du logiciel inclut de nouvelles fonctionnalités.",
+      "eng_sentence": "The latest version of the software includes new features."
+    },
+    {
+      "word": "secrétaire",
       "gender": "m",
-      "the_word": "Le bureau",
-      "imageLink": "https://example.com/bureau_image.jpg",
-      "eng_word": "office"
+      "the_word": "Le secrétaire",
+      "imageLink": "https://example.com/secretaire_image.jpg",
+      "eng_word": "secretary",
+      "french_sentence": "Le secrétaire m'a donné toutes les informations dont j'avais besoin.",
+      "eng_sentence": "The secretary provided me with all the information I needed."
+    },
+    {
+      "word": "directive",
+      "gender": "f",
+      "the_word": "La directive",
+      "imageLink": "https://example.com/directive_image.jpg",
+      "eng_word": "directive",
+      "french_sentence": "La directive a été émise par la direction pour guider les employés.",
+      "eng_sentence": "The directive was issued by management to guide the employees."
+    },
+    {
+      "word": "décentralisation",
+      "gender": "f",
+      "the_word": "La décentralisation",
+      "imageLink": "https://example.com/decentralisation_image.jpg",
+      "eng_word": "decentralization",
+      "french_sentence": "La décentralisation des décisions permet une plus grande autonomie des équipes.",
+      "eng_sentence": "The decentralization of decision-making allows for greater team autonomy."
+    },
+    {
+      "word": "déménagement",
+      "gender": "m",
+      "the_word": "Le déménagement",
+      "imageLink": "https://example.com/demenagement_image.jpg",
+      "eng_word": "relocation",
+      "french_sentence": "Nous sommes en train de planifier notre déménagement dans une nouvelle ville.",
+      "eng_sentence": "We are currently planning our relocation to a new city."
+    },
+    {
+      "word": "employé",
+      "gender": "m",
+      "the_word": "L'employé",
+      "imageLink": "https://example.com/employe_image.jpg",
+      "eng_word": "employee",
+      "french_sentence": "L'employé travaille dans cette entreprise depuis cinq ans.",
+      "eng_sentence": "The employee has been working in this company for five years."
+    },
+    {
+      "word": "programme de formation",
+      "gender": "m",
+      "the_word": "Le programme de formation",
+      "imageLink": "https://example.com/programme_formation_image.jpg",
+      "eng_word": "training program",
+      "french_sentence": "Le programme de formation vise à développer les compétences des employés.",
+      "eng_sentence": "The training program aims to develop the skills of the employees."
+    },
+    {
+      "word": "réaffectation",
+      "gender": "f",
+      "the_word": "La réaffectation",
+      "imageLink": "https://example.com/reaffectation_image.jpg",
+      "eng_word": "reassignment",
+      "french_sentence": "La réaffectation du personnel a été nécessaire pour répondre aux besoins du projet.",
+      "eng_sentence": "The reassignment of personnel was necessary to meet the needs of the project."
+    },
+    {
+      "word": "Fonction publique",
+      "gender": "f",
+      "the_word": "La Fonction publique",
+      "imageLink": "https://example.com/fonction_publique_image.jpg",
+      "eng_word": "public service",
+      "french_sentence": "La Fonction publique offre des services essentiels à la population.",
+      "eng_sentence": "The public service provides essential services to the population."
+    },
+    {
+      "word": "cours de formation",
+      "gender": "m",
+      "the_word": "Le cours de formation",
+      "imageLink": "https://example.com/cours_formation_image.jpg",
+      "eng_word": "training course",
+      "french_sentence": "Le cours de formation abordera différents sujets liés à la gestion de projet.",
+      "eng_sentence": "The training course will cover various topics related to project management."
+    },
+    {
+      "word": "durée",
+      "gender": "f",
+      "the_word": "La durée",
+      "imageLink": "https://example.com/duree_image.jpg",
+      "eng_word": "duration",
+      "french_sentence": "La durée du projet est estimée à six mois.",
+      "eng_sentence": "The duration of the project is estimated to be six months."
+    },
+    {
+      "word": "lettre",
+      "gender": "f",
+      "the_word": "La lettre",
+      "imageLink": "https://example.com/lettre_image.jpg",
+      "eng_word": "letter",
+      "french_sentence": "J'ai reçu une lettre importante aujourd'hui.",
+      "eng_sentence": "I received an important letter today."
+    },
+    {
+      "word": "adresse",
+      "gender": "f",
+      "the_word": "L'adresse",
+      "imageLink": "https://example.com/adresse_image.jpg",
+      "eng_word": "address",
+      "french_sentence": "Veuillez me fournir votre adresse complète.",
+      "eng_sentence": "Please provide me with your full address."
+    },
+    {
+      "word": "domicile",
+      "gender": "m",
+      "the_word": "Le domicile",
+      "imageLink": "https://example.com/domicile_image.jpg",
+      "eng_word": "residence",
+      "french_sentence": "Je suis actuellement à mon domicile.",
+      "eng_sentence": "I am currently at my residence."
+    },
+    {
+      "word": "adresse",
+      "gender": "f",
+      "the_word": "La adresse",
+      "imageLink": "https://example.com/nouvelle_adresse_image.jpg",
+      "eng_word": "address",
+      "french_sentence": "Veuillez mettre à jour votre adresse dans notre système.",
+      "eng_sentence": "Please update your address in our system."
+    },
+    {
+      "word": "ancienne adresse",
+      "gender": "f",
+      "the_word": "L'ancienne adresse",
+      "imageLink": "https://example.com/ancienne_adresse_image.jpg",
+      "eng_word": "old address",
+      "french_sentence": "Merci de nous fournir votre ancienne adresse pour nos dossiers.",
+      "eng_sentence": "Please provide us with your old address for our records."
+    },
+    {
+      "word": "recherche",
+      "gender": "f",
+      "the_word": "La recherche",
+      "imageLink": "https://example.com/recherche_image.jpg",
+      "eng_word": "research",
+      "french_sentence": "Je suis en train de faire des recherches sur ce sujet.",
+      "eng_sentence": "I am doing research on this topic."
     },
     {
       "word": "enquête",
       "gender": "f",
       "the_word": "L'enquête",
       "imageLink": "https://example.com/enquete_image.jpg",
-      "eng_word": "investigation"
+      "eng_word": "investigation",
+      "french_sentence": "La police mène actuellement une enquête sur l'incident.",
+      "eng_sentence": "The police are currently conducting an investigation into the incident."
     },
     {
-      "word": "intérêt",
+      "word": "cause",
+      "gender": "f",
+      "the_word": "La cause",
+      "imageLink": "https://example.com/cause_image.jpg",
+      "eng_word": "cause",
+      "french_sentence": "Nous devons trouver la cause de ce problème.",
+      "eng_sentence": "We need to find the cause of this problem."
+    },
+    {
+      "word": "accident",
       "gender": "m",
-      "the_word": "L'intérêt",
-      "imageLink": "https://example.com/interet_image.jpg",
-      "eng_word": "interest"
+      "the_word": "L'accident",
+      "imageLink": "https://example.com/accident_image.jpg",
+      "eng_word": "accident",
+      "french_sentence": "Il y a eu un accident de voiture sur l'autoroute.",
+      "eng_sentence": "There was a car accident on the highway."
     },
     {
-      "word": "semaine",
+      "word": "soirée",
       "gender": "f",
-      "the_word": "La semaine",
-      "imageLink": "https://example.com/semaines_image.jpg",
-      "eng_word": "week"
+      "the_word": "La soirée",
+      "imageLink": "https://example.com/soiree_image.jpg",
+      "eng_word": "evening/party",
+      "french_sentence": "Nous avons passé une excellente soirée hier.",
+      "eng_sentence": "We had a great evening last night."
     },
     {
-      "word": "activité",
+      "word": "fête",
       "gender": "f",
-      "the_word": "L'activité",
-      "imageLink": "https://example.com/activites_image.jpg",
-      "eng_word": "activity"
+      "the_word": "La fête",
+      "imageLink": "https://example.com/fete_image.jpg",
+      "eng_word": "celebration/holiday",
+      "french_sentence": "Nous organisons une fête pour célébrer notre anniversaire.",
+      "eng_sentence": "We are hosting a celebration to commemorate our anniversary."
     },
     {
-      "word": "réponse",
-      "gender": "f",
-      "the_word": "La réponse",
-      "imageLink": "https://example.com/reponses_image.jpg",
-      "eng_word": "answer"
-    },
-    {
-      "word": "catégorie",
-      "gender": "f",
-      "the_word": "La catégorie",
-      "imageLink": "https://example.com/categories_image.jpg",
-      "eng_word": "category"
-    },
-    {
-      "word": "comité",
+      "word": "sondage",
       "gender": "m",
-      "the_word": "Le comité",
-      "imageLink": "https://example.com/comites_image.jpg",
-      "eng_word": "committee"
+      "the_word": "Le sondage",
+      "imageLink": "https://example.com/sondage_image.jpg",
+      "eng_word": "survey",
+      "french_sentence": "Nous avons réalisé un sondage pour recueillir des opinions.",
+      "eng_sentence": "We conducted a survey to gather opinions."
     },
     {
-      "word": "responsable",
+      "word": "membre du personnel",
       "gender": "m",
-      "the_word": "Le responsable",
-      "imageLink": "https://example.com/responsables_image.jpg",
-      "eng_word": "responsible one"
+      "the_word": "Le membre du personnel",
+      "imageLink": "https://example.com/membre_personnel_image.jpg",
+      "eng_word": "staff member",
+      "french_sentence": "Chaque membre du personnel est important pour notre équipe.",
+      "eng_sentence": "Every staff member is important to our team."
     },
     {
-      "word": "réunion",
+      "word": "majorité",
       "gender": "f",
-      "the_word": "La réunion",
-      "imageLink": "https://example.com/reunion_image.jpg",
-      "eng_word": "meeting"
+      "the_word": "La majorité",
+      "imageLink": "https://example.com/majorite_image.jpg",
+      "eng_word": "majority",
+      "french_sentence": "La majorité des étudiants ont voté pour le changement.",
+      "eng_sentence": "The majority of students voted for the change."
     },
     {
-      "word": "date",
-      "gender": "f",
-      "the_word": "La date",
-      "imageLink": "https://example.com/date_image.jpg",
-      "eng_word": "date"
-    },
-    {
-      "word": "état",
+      "word": "ministère",
       "gender": "m",
-      "the_word": "L'état",
-      "imageLink": "https://example.com/etat_image.jpg",
-      "eng_word": "state"
+      "the_word": "Le ministère",
+      "imageLink": "https://example.com/ministere_image.jpg",
+      "eng_word": "ministry",
+      "french_sentence": "Le ministère de l'Éducation s'occupe du système scolaire.",
+      "eng_sentence": "The Ministry of Education is responsible for the education system."
     },
     {
-      "word": "compilation",
+      "word": "approche",
       "gender": "f",
-      "the_word": "La compilation",
-      "imageLink": "https://example.com/compilation_image.jpg",
-      "eng_word": "compilation"
+      "the_word": "Une approche",
+      "imageLink": "https://example.com/approche_image.jpg",
+      "eng_word": "approach",
+      "french_sentence": "Nous devons adopter une approche différente pour résoudre ce problème.",
+      "eng_sentence": "We need to take a different approach to solve this problem."
+    },
+    {
+      "word": "datation",
+      "gender": "f",
+      "the_word": "La datation",
+      "imageLink": "https://example.com/datation_image.jpg",
+      "eng_word": "dating",
+      "french_sentence": "La datation au carbone permet de déterminer l'âge des objets archéologiques.",
+      "eng_sentence": "Carbon dating is used to determine the age of archaeological objects."
+    },
+    {
+      "word": "correspondance",
+      "gender": "f",
+      "the_word": "La correspondance",
+      "imageLink": "https://example.com/correspondance_image.jpg",
+      "eng_word": "correspondence",
+      "french_sentence": "J'ai envoyé une correspondance par courrier électronique.",
+      "eng_sentence": "I sent a correspondence via email."
+    },
+    {
+      "word": "personnel",
+      "gender": "m",
+      "the_word": "Le personnel",
+      "imageLink": "https://example.com/personnel_image.jpg",
+      "eng_word": "personnel/staff",
+      "french_sentence": "Le personnel de l'hôtel était très serviable.",
+      "eng_sentence": "The hotel staff was very helpful."
+    },
+    {
+      "word": "norme",
+      "gender": "f",
+      "the_word": "La norme",
+      "imageLink": "https://example.com/norme_image.jpg",
+      "eng_word": "standard",
+      "french_sentence": "Ce produit répond aux normes de sécurité.",
+      "eng_sentence": "This product meets the safety standards."
+    },
+    {
+      "word": "norme propre",
+      "gender": "f",
+      "the_word": "La norme propre",
+      "imageLink": "https://example.com/norme_propre_image.jpg",
+      "eng_word": "specific standard",
+      "french_sentence": "Nous devons respecter la norme propre à notre industrie.",
+      "eng_sentence": "We need to adhere to the specific standard of our industry."
+    },
+    {
+      "word": "langue",
+      "gender": "f",
+      "the_word": "La langue",
+      "imageLink": "https://example.com/langue_image.jpg",
+      "eng_word": "language",
+      "french_sentence": "J'apprends une nouvelle langue.",
+      "eng_sentence": "I am learning a new language."
+    },
+    {
+      "word": "plaisir",
+      "gender": "m",
+      "the_word": "Le plaisir",
+      "imageLink": "https://example.com/plaisir_image.jpg",
+      "eng_word": "pleasure",
+      "french_sentence": "C'est un plaisir de vous rencontrer.",
+      "eng_sentence": "It's a pleasure to meet you."
+    },
+    {
+      "word": "région",
+      "gender": "f",
+      "the_word": "La région",
+      "imageLink": "https://example.com/region_image.jpg",
+      "eng_word": "region",
+      "french_sentence": "J'habite dans la région parisienne.",
+      "eng_sentence": "I live in the Paris region."
+    },
+    {
+      "word": "disposition",
+      "gender": "f",
+      "the_word": "La disposition",
+      "imageLink": "https://example.com/disposition_image.jpg",
+      "eng_word": "availability",
+      "french_sentence": "Le matériel est à votre disposition.",
+      "eng_sentence": "The equipment is available to you."
+    },
+    {
+      "word": "matériel",
+      "gender": "m",
+      "the_word": "Le matériel",
+      "imageLink": "https://example.com/materiel_image.jpg",
+      "eng_word": "material",
+      "french_sentence": "J'ai besoin de nouveau matériel de bureau.",
+      "eng_sentence": "I need new office material."
+    },
+    {
+      "word": "liste",
+      "gender": "f",
+      "the_word": "La liste",
+      "imageLink": "https://example.com/liste_image.jpg",
+      "eng_word": "list",
+      "french_sentence": "N'oublie pas de faire la liste des courses.",
+      "eng_sentence": "Don't forget to make the grocery list."
+    },
+    {
+      "word": "façon",
+      "gender": "f",
+      "the_word": "La façon",
+      "imageLink": "https://example.com/facon_image.jpg",
+      "eng_word": "way",
+      "french_sentence": "Il y a plusieurs façons de résoudre ce problème.",
+      "eng_sentence": "There are multiple ways to solve this problem."
+    },
+    {
+      "word": "conversation",
+      "gender": "f",
+      "the_word": "La conversation",
+      "imageLink": "https://example.com/conversation_image.jpg",
+      "eng_word": "conversation",
+      "french_sentence": "Nous avons eu une bonne conversation hier soir.",
+      "eng_sentence": "We had a good conversation last night."
+    },
+    {
+      "word": "local",
+      "gender": "m",
+      "the_word": "Un local",
+      "imageLink": "https://example.com/local_image.jpg",
+      "eng_word": "room",
+      "french_sentence": "Je vais réserver un local pour la réunion.",
+      "eng_sentence": "I will book a room for the meeting."
+    },
+    {
+      "word": "réception",
+      "gender": "f",
+      "the_word": "La réception",
+      "imageLink": "https://example.com/reception_image.jpg",
+      "eng_word": "reception",
+      "french_sentence": "La réception est ouverte de 9h à 17h.",
+      "eng_sentence": "The reception is open from 9 am to 5 pm."
+    },
+    {
+      "word": "vérification",
+      "gender": "f",
+      "the_word": "La vérification",
+      "imageLink": "https://example.com/verification_image.jpg",
+      "eng_word": "audit",
+      "french_sentence": "Nous devons effectuer une vérification des comptes.",
+      "eng_sentence": "We need to conduct an audit of the accounts."
+    },
+    {
+      "word": "départ",
+      "gender": "m",
+      "the_word": "Le départ",
+      "imageLink": "https://example.com/depart_image.jpg",
+      "eng_word": "departure",
+      "french_sentence": "Le départ du train est prévu à 15h.",
+      "eng_sentence": "The departure of the train is scheduled for 3 pm."
+    },
+    {
+      "word": "clé",
+      "gender": "f",
+      "the_word": "La clé",
+      "imageLink": "https://example.com/cle_image.jpg",
+      "eng_word": "key",
+      "french_sentence": "J'ai perdu la clé de ma voiture.",
+      "eng_sentence": "I lost the key to my car."
+    },
+    {
+      "word": "ascenseur",
+      "gender": "m",
+      "the_word": "Un ascenseur",
+      "imageLink": "https://example.com/ascenseur_image.jpg",
+      "eng_word": "elevator",
+      "french_sentence": "Prenez l'ascenseur jusqu'au cinquième étage.",
+      "eng_sentence": "Take the elevator to the fifth floor."
+    },
+    {
+      "word": "besoin",
+      "gender": "m",
+      "the_word": "Le besoin",
+      "imageLink": "https://example.com/besoin_image.jpg",
+      "eng_word": "need",
+      "french_sentence": "J'ai un besoin urgent d'aide.",
+      "eng_sentence": "I have an urgent need for help."
     },
     {
       "word": "personne",
       "gender": "f",
       "the_word": "La personne",
-      "imageLink": "https://example.com/personnes_image.jpg",
-      "eng_word": "person"
+      "imageLink": "https://example.com/personne_image.jpg",
+      "eng_word": "person",
+      "french_sentence": "Cette personne est très sympathique.",
+      "eng_sentence": "This person is very friendly."
     },
     {
-      "word": "inscrite",
-      "gender": "f",
-      "the_word": "L'inscrite",
-      "imageLink": "https://example.com/inscrites_image.jpg",
-      "eng_word": "registered (feminine)"
+      "word": "retour",
+      "gender": "m",
+      "the_word": "Le retour",
+      "imageLink": "https://example.com/retour_image.jpg",
+      "eng_word": "return",
+      "french_sentence": "Je serai de retour demain matin.",
+      "eng_sentence": "I will be back tomorrow morning."
     },
     {
-      "word": "réunion",
+      "word": "recherche",
       "gender": "f",
-      "the_word": "La réunion",
-      "imageLink": "https://example.com/reunions_image.jpg",
-      "eng_word": "meeting"
+      "the_word": "La recherche",
+      "imageLink": "https://example.com/recherche_image.jpg",
+      "eng_word": "research",
+      "french_sentence": "Je suis en train de faire des recherches pour mon projet.",
+      "eng_sentence": "I am doing research for my project."
     },
     {
-      "word": "abandonnée",
+      "word": "travail",
+      "gender": "m",
+      "the_word": "Le travail",
+      "imageLink": "https://example.com/travail_image.jpg",
+      "eng_word": "work",
+      "french_sentence": "Je dois terminer mon travail avant la fin de la journée.",
+      "eng_sentence": "I need to finish my work by the end of the day."
+    },
+    {
+      "word": "achat",
+      "gender": "m",
+      "the_word": "L'achat",
+      "imageLink": "https://example.com/achat_image.jpg",
+      "eng_word": "purchase",
+      "french_sentence": "J'ai fait un nouvel achat en ligne.",
+      "eng_sentence": "I made a new purchase online."
+    },
+    {
+      "word": "équipe",
       "gender": "f",
-      "the_word": "L'abandonnée",
-      "imageLink": "https://example.com/abandonnee_image.jpg",
-      "eng_word": "abandoned (feminine)"
+      "the_word": "L'équipe",
+      "imageLink": "https://example.com/equipe_image.jpg",
+      "eng_word": "team",
+      "french_sentence": "Notre équipe a remporté le championnat.",
+      "eng_sentence": "Our team won the championship."
+    },
+    {
+      "word": "approbation",
+      "gender": "f",
+      "the_word": "L'approbation",
+      "imageLink": "https://example.com/approbation_image.jpg",
+      "eng_word": "approval",
+      "french_sentence": "J'ai besoin de votre approbation pour poursuivre.",
+      "eng_sentence": "I need your approval to proceed."
+    },
+    {
+      "word": "membre",
+      "gender": "m",
+      "the_word": "Le membre",
+      "imageLink": "https://example.com/membre_image.jpg",
+      "eng_word": "member",
+      "french_sentence": "Il est un membre actif de notre équipe.",
+      "eng_sentence": "He is an active member of our team."
+    },
+    {
+      "word": "comité",
+      "gender": "m",
+      "the_word": "Le comité",
+      "imageLink": "https://example.com/comite_image.jpg",
+      "eng_word": "committee",
+      "french_sentence": "Le comité se réunit chaque semaine pour discuter des projets.",
+      "eng_sentence": "The committee meets every week to discuss the projects."
+    },
+    {
+      "word": "manifestation",
+      "gender": "f",
+      "the_word": "La manifestation",
+      "imageLink": "https://example.com/manifestation_image.jpg",
+      "eng_word": "event",
+      "french_sentence": "La manifestation culturelle attire de nombreux visiteurs.",
+      "eng_sentence": "The cultural event attracts many visitors."
+    },
+    {
+      "word": "bureau",
+      "gender": "m",
+      "the_word": "Le bureau",
+      "imageLink": "https://example.com/bureau_image.jpg",
+      "eng_word": "office",
+      "french_sentence": "Je travaille dans un bureau moderne.",
+      "eng_sentence": "I work in a modern office."
+    },
+    {
+      "word": "sécurité",
+      "gender": "f",
+      "the_word": "La sécurité",
+      "imageLink": "https://example.com/securite_image.jpg",
+      "eng_word": "security",
+      "french_sentence": "La sécurité est une priorité dans notre entreprise.",
+      "eng_sentence": "Security is a priority in our company."
+    },
+    {
+      "word": "carte",
+      "gender": "f",
+      "the_word": "La carte",
+      "imageLink": "https://example.com/carte_image.jpg",
+      "eng_word": "card",
+      "french_sentence": "J'ai besoin de ma carte d'identité pour voyager.",
+      "eng_sentence": "I need my ID card to travel."
+    },
+    {
+      "word": "passage",
+      "gender": "m",
+      "the_word": "Le passage",
+      "imageLink": "https://example.com/passage_image.jpg",
+      "eng_word": "passage",
+      "french_sentence": "Le passage à niveau est fermé pour réparation.",
+      "eng_sentence": "The level crossing is closed for repairs."
+    },
+    {
+      "word": "place",
+      "gender": "f",
+      "the_word": "La place",
+      "imageLink": "https://example.com/place_image.jpg",
+      "eng_word": "place",
+      "french_sentence": "Je vais réserver une place au restaurant ce soir.",
+      "eng_sentence": "I will book a place at the restaurant tonight."
+    },
+    {
+      "word": "principe",
+      "gender": "m",
+      "the_word": "Le principe",
+      "imageLink": "https://example.com/principe_image.jpg",
+      "eng_word": "principle",
+      "french_sentence": "Je suis attaché à mes principes.",
+      "eng_sentence": "I am committed to my principles."
+    },
+    {
+      "word": "allocution",
+      "gender": "f",
+      "the_word": "L'allocution",
+      "imageLink": "https://example.com/allocution_image.jpg",
+      "eng_word": "speech",
+      "french_sentence": "Le président a prononcé une allocution lors de l'événement.",
+      "eng_sentence": "The president delivered a speech at the event."
+    },
+    {
+      "word": "fonctionnaire",
+      "gender": "m",
+      "the_word": "Le fonctionnaire",
+      "imageLink": "https://example.com/fonctionnaire_image.jpg",
+      "eng_word": "civil servant",
+      "french_sentence": "Le fonctionnaire travaille pour l'administration publique.",
+      "eng_sentence": "The civil servant works for the public administration."
+    },
+    {
+      "word": "question",
+      "gender": "f",
+      "the_word": "La question",
+      "imageLink": "https://example.com/question_image.jpg",
+      "eng_word": "question",
+      "french_sentence": "Posez-moi une question, et je vous répondrai.",
+      "eng_sentence": "Ask me a question, and I will answer you."
+    },
+    {
+      "word": "approche",
+      "gender": "f",
+      "the_word": "L'approche",
+      "imageLink": "https://example.com/approche_image.jpg",
+      "eng_word": "approach",
+      "french_sentence": "Nous devons adopter une approche différente pour résoudre ce problème.",
+      "eng_sentence": "We need to take a different approach to solve this problem."
+    },
+    {
+      "word": "programme",
+      "gender": "m",
+      "the_word": "Le programme",
+      "imageLink": "https://example.com/programme_image.jpg",
+      "eng_word": "program",
+      "french_sentence": "Le programme de la soirée est très varié.",
+      "eng_sentence": "The program of the evening is very diverse."
+    },
+    {
+      "word": "invitation",
+      "gender": "f",
+      "the_word": "L'invitation",
+      "imageLink": "https://example.com/invitation_image.jpg",
+      "eng_word": "invitation",
+      "french_sentence": "J'ai reçu une invitation pour assister à la cérémonie.",
+      "eng_sentence": "I received an invitation to attend the ceremony."
+    },
+    {
+      "word": "opinion",
+      "gender": "f",
+      "the_word": "L'opinion",
+      "imageLink": "https://example.com/opinion_image.jpg",
+      "eng_word": "opinion",
+      "french_sentence": "Chacun a le droit d'exprimer son opinion.",
+      "eng_sentence": "Everyone has the right to express their opinion."
+    },
+    {
+      "word": "possibilité",
+      "gender": "f",
+      "the_word": "La possibilité",
+      "imageLink": "https://example.com/possibilite_image.jpg",
+      "eng_word": "possibility",
+      "french_sentence": "Il y a une possibilité que nous réussissions.",
+      "eng_sentence": "There is a possibility that we will succeed."
+    },
+    {
+      "word": "pays",
+      "gender": "m",
+      "the_word": "Le pays",
+      "imageLink": "https://example.com/pays_image.jpg",
+      "eng_word": "country",
+      "french_sentence": "Je vais visiter un nouveau pays cet été.",
+      "eng_sentence": "I am going to visit a new country this summer."
+    },
+    {
+      "word": "choix",
+      "gender": "m",
+      "the_word": "Le choix",
+      "imageLink": "https://example.com/choix_image.jpg",
+      "eng_word": "choice",
+      "french_sentence": "J'ai du mal à faire un choix entre ces deux options.",
+      "eng_sentence": "I struggle to make a choice between these two options."
+    },
+    {
+      "word": "allocation",
+      "gender": "f",
+      "the_word": "L'allocation",
+      "imageLink": "https://example.com/allocation_image.jpg",
+      "eng_word": "allowance",
+      "french_sentence": "Les parents donnent une allocation à leurs enfants chaque semaine.",
+      "eng_sentence": "Parents give an allowance to their children every week."
+    },
+    {
+      "word": "dépense",
+      "gender": "f",
+      "the_word": "La dépense",
+      "imageLink": "https://example.com/depense_image.jpg",
+      "eng_word": "expense",
+      "french_sentence": "J'ai beaucoup de dépenses ce mois-ci.",
+      "eng_sentence": "I have a lot of expenses this month."
+    },
+    {
+      "word": "adoption",
+      "gender": "f",
+      "the_word": "L'adoption",
+      "imageLink": "https://example.com/adoption_image.jpg",
+      "eng_word": "adoption",
+      "french_sentence": "L'adoption d'un enfant peut changer une vie.",
+      "eng_sentence": "The adoption of a child can change a life."
+    },
+    {
+      "word": "moyen",
+      "gender": "m",
+      "the_word": "Le moyen",
+      "imageLink": "https://example.com/moyen_image.jpg",
+      "eng_word": "means",
+      "french_sentence": "Je n'ai pas les moyens d'acheter une nouvelle voiture pour le moment.",
+      "eng_sentence": "I don't have the means to buy a new car at the moment."
+    },
+    {
+      "word": "besoin",
+      "gender": "m",
+      "the_word": "Le besoin",
+      "imageLink": "https://example.com/besoin_image.jpg",
+      "eng_word": "need",
+      "french_sentence": "J'ai un besoin urgent de repos.",
+      "eng_sentence": "I have an urgent need for rest."
+    },
+    {
+      "word": "quelqu'un",
+      "gender": "m",
+      "the_word": "Quelqu'un",
+      "imageLink": "https://example.com/quelquun_image.jpg",
+      "eng_word": "someone",
+      "french_sentence": "Quelqu'un m'a appelé pendant que j'étais au téléphone.",
+      "eng_sentence": "Someone called me while I was on the phone."
+    },
+    {
+      "word": "recherche",
+      "gender": "f",
+      "the_word": "La recherche",
+      "imageLink": "https://example.com/recherche_image.jpg",
+      "eng_word": "search",
+      "french_sentence": "Je dois faire une recherche approfondie avant de prendre une décision.",
+      "eng_sentence": "I need to do thorough research before making a decision."
+    },
+    {
+      "word": "une",
+      "gender": "f",
+      "the_word": "Une",
+      "imageLink": "https://example.com/une_image.jpg",
+      "eng_word": "a/an",
+      "french_sentence": "J'ai acheté une nouvelle voiture.",
+      "eng_sentence": "I bought a new car."
+    },
+    {
+      "word": "pour",
+      "gender": "f",
+      "the_word": "Pour",
+      "imageLink": "https://example.com/pour_image.jpg",
+      "eng_word": "for",
+      "french_sentence": "J'ai acheté un cadeau pour mon ami.",
+      "eng_sentence": "I bought a gift for my friend."
+    },
+    {
+      "word": "années",
+      "gender": "f",
+      "the_word": "L'année",
+      "imageLink": "https://example.com/annees_image.jpg",
+      "eng_word": "year",
+      "french_sentence": "Nous avons vécu dans cette maison pendant de nombreuses années.",
+      "eng_sentence": "We have lived in this house for many years."
+    },
+    {
+      "word": "tous",
+      "gender": "m",
+      "the_word": "Tous",
+      "imageLink": "https://example.com/tous_image.jpg",
+      "eng_word": "all/every",
+      "french_sentence": "Tous les étudiants doivent assister à la réunion.",
+      "eng_sentence": "All students must attend the meeting."
+    },
+    {
+      "word": "valide",
+      "gender": "m",
+      "the_word": "Le valide",
+      "imageLink": "https://example.com/valides_image.jpg",
+      "eng_word": "valid",
+      "french_sentence": "Ce billet de train est valide jusqu'à demain.",
+      "eng_sentence": "This train ticket is valid until tomorrow."
+    },
+    {
+      "word": "gestion",
+      "gender": "f",
+      "the_word": "La gestion",
+      "imageLink": "https://example.com/gestion_image.jpg",
+      "eng_word": "management",
+      "french_sentence": "La gestion de projet est essentielle pour le succès d'une entreprise.",
+      "eng_sentence": "Project management is essential for the success of a company."
+    },
+    {
+      "word": "selon",
+      "gender": "m",
+      "the_word": "Selon",
+      "imageLink": "https://example.com/selon_image.jpg",
+      "eng_word": "according to",
+      "french_sentence": "Selon les statistiques, le taux de chômage a diminué ce mois-ci.",
+      "eng_sentence": "According to the statistics, the unemployment rate has decreased this month."
+    },
+    {
+      "word": "récemment",
+      "gender": "m",
+      "the_word": "Récemment",
+      "imageLink": "https://example.com/recemment_image.jpg",
+      "eng_word": "recently",
+      "french_sentence": "J'ai récemment visité Paris et j'ai adoré.",
+      "eng_sentence": "I recently visited Paris and I loved it."
+    },
+    {
+      "word": "également",
+      "gender": "f",
+      "the_word": "Également",
+      "imageLink": "https://example.com/egalement_image.jpg",
+      "eng_word": "also",
+      "french_sentence": "Je suis également intéressé par l'art et la musique.",
+      "eng_sentence": "I am also interested in art and music."
+    },
+    {
+      "word": "aucun",
+      "gender": "m",
+      "the_word": "Aucun",
+      "imageLink": "https://example.com/aucun_image.jpg",
+      "eng_word": "none",
+      "french_sentence": "Aucun des invités n'est arrivé à la fête.",
+      "eng_sentence": "None of the guests arrived at the party."
+    },
+    {
+      "word": "conférence",
+      "gender": "f",
+      "the_word": "La conférence",
+      "imageLink": "https://example.com/conference_image.jpg",
+      "eng_word": "conference",
+      "french_sentence": "J'assisterai à une conférence sur l'intelligence artificielle demain.",
+      "eng_sentence": "I will attend a conference on artificial intelligence tomorrow."
+    },
+    {
+      "word": "renseignements",
+      "gender": "m",
+      "the_word": "Le renseignement",
+      "imageLink": "https://example.com/renseignements_image.jpg",
+      "eng_word": "information",
+      "french_sentence": "Je cherche des renseignements sur les voyages en Asie.",
+      "eng_sentence": "I am looking for information about traveling in Asia."
+    },
+    {
+      "word": "activités",
+      "gender": "f",
+      "the_word": "L'activité",
+      "imageLink": "https://example.com/activites_image.jpg",
+      "eng_word": "activity",
+      "french_sentence": "Il y a de nombreuses activités à faire pendant les vacances.",
+      "eng_sentence": "There are many activities to do during the holidays."
+    },
+    {
+      "word": "stratégie",
+      "gender": "f",
+      "the_word": "La stratégie",
+      "imageLink": "https://example.com/strategie_image.jpg",
+      "eng_word": "strategy",
+      "french_sentence": "Nous devons élaborer une stratégie pour atteindre nos objectifs.",
+      "eng_sentence": "We need to develop a strategy to achieve our goals."
+    },
+    {
+      "word": "salubrité",
+      "gender": "f",
+      "the_word": "La salubrité",
+      "imageLink": "https://example.com/salubrite_image.jpg",
+      "eng_word": "sanitation",
+      "french_sentence": "La salubrité des aliments est essentielle pour éviter les maladies.",
+      "eng_sentence": "Food sanitation is essential to prevent illnesses."
+    },
+    {
+      "word": "approvisionnement",
+      "gender": "m",
+      "the_word": "L'approvisionnement",
+      "imageLink": "https://example.com/approvisionnement_image.jpg",
+      "eng_word": "procurement",
+      "french_sentence": "L'approvisionnement en matériaux de construction est essentiel pour le projet.",
+      "eng_sentence": "Procurement of construction materials is essential for the project."
+    },
+    {
+      "word": "eau",
+      "gender": "f",
+      "the_word": "L'eau",
+      "imageLink": "https://example.com/eau_image.jpg",
+      "eng_word": "water",
+      "french_sentence": "Il est important de boire suffisamment d'eau chaque jour.",
+      "eng_sentence": "It is important to drink an adequate amount of water every day."
+    },
+    {
+      "word": "potable",
+      "gender": "m",
+      "the_word": "L'eau potable",
+      "imageLink": "https://example.com/potable_image.jpg",
+      "eng_word": "drinking water",
+      "french_sentence": "Il est essentiel d'avoir accès à une source d'eau potable propre.",
+      "eng_sentence": "Having access to a clean source of drinking water is essential."
+    },
+    {
+      "word": "canada",
+      "gender": "m",
+      "the_word": "Le Canada",
+      "imageLink": "https://example.com/canada_image.jpg",
+      "eng_word": "Canada",
+      "french_sentence": "Le Canada est connu pour sa beauté naturelle et sa diversité culturelle.",
+      "eng_sentence": "Canada is known for its natural beauty and cultural diversity."
+    },
+    {
+      "word": "formalités",
+      "gender": "f",
+      "the_word": "La formalité",
+      "imageLink": "https://example.com/formalites_image.jpg",
+      "eng_word": "formality",
+      "french_sentence": "Il faut remplir toutes les formalités administratives avant de commencer le travail.",
+      "eng_sentence": "All the administrative formalities need to be completed before starting the work."
+    },
+    {
+      "word": "soumissionnaires",
+      "gender": "m",
+      "the_word": "Le soumissionnaire",
+      "imageLink": "https://example.com/soumissionnaires_image.jpg",
+      "eng_word": "bidder",
+      "french_sentence": "Plusieurs soumissionnaires ont participé à l'appel d'offres.",
+      "eng_sentence": "Several bidders participated in the tender process."
+    },
+    {
+      "word": "politique",
+      "gender": "f",
+      "the_word": "La politique",
+      "imageLink": "https://example.com/politique_image.jpg",
+      "eng_word": "policy",
+      "french_sentence": "La politique du gouvernement vise à promouvoir l'égalité des chances.",
+      "eng_sentence": "The government's policy aims to promote equal opportunities."
+    },
+    {
+      "word": "ligne",
+      "gender": "f",
+      "the_word": "La ligne",
+      "imageLink": "https://example.com/lignes_image.jpg",
+      "eng_word": "line",
+      "french_sentence": "Suivez la ligne tracée pour atteindre votre destination.",
+      "eng_sentence": "Follow the line drawn to reach your destination."
+    },
+    {
+      "word": "directive",
+      "gender": "f",
+      "the_word": "La directive",
+      "imageLink": "https://example.com/directives_image.jpg",
+      "eng_word": "directive",
+      "french_sentence": "La directive énonce les règles et les objectifs à suivre.",
+      "eng_sentence": "The directive sets out the rules and objectives to follow."
+    },
+    {
+      "word": "processus",
+      "gender": "m",
+      "the_word": "Le processus",
+      "imageLink": "https://example.com/processus_image.jpg",
+      "eng_word": "process",
+      "french_sentence": "Le processus de fabrication doit respecter les normes de qualité.",
+      "eng_sentence": "The manufacturing process must adhere to quality standards."
+    },
+    {
+      "word": "qualité",
+      "gender": "f",
+      "the_word": "La qualité",
+      "imageLink": "https://example.com/qualite_image.jpg",
+      "eng_word": "quality",
+      "french_sentence": "La qualité des produits est une priorité pour notre entreprise.",
+      "eng_sentence": "Product quality is a priority for our company."
+    },
+    {
+      "word": "prix",
+      "gender": "m",
+      "the_word": "Le prix",
+      "imageLink": "https://example.com/prix_image.jpg",
+      "eng_word": "price",
+      "french_sentence": "Le prix des marchandises a augmenté en raison de la demande croissante.",
+      "eng_sentence": "The price of goods has increased due to the growing demand."
     },
     {
       "word": "industrie",
       "gender": "f",
       "the_word": "L'industrie",
       "imageLink": "https://example.com/industrie_image.jpg",
-      "eng_word": "industry"
+      "eng_word": "industry",
+      "french_sentence": "L'industrie manufacturière est un secteur clé de l'économie.",
+      "eng_sentence": "The manufacturing industry is a key sector of the economy."
+    },
+    {
+      "word": "division",
+      "gender": "f",
+      "the_word": "La division",
+      "imageLink": "https://example.com/division_image.jpg",
+      "eng_word": "division",
+      "french_sentence": "La division du travail permet d'optimiser les processus.",
+      "eng_sentence": "Division of labor helps optimize processes."
+    },
+    {
+      "word": "étude",
+      "gender": "f",
+      "the_word": "L'étude",
+      "imageLink": "https://example.com/etudes_image.jpg",
+      "eng_word": "study",
+      "french_sentence": "Une étude approfondie est nécessaire pour comprendre le phénomène.",
+      "eng_sentence": "A thorough study is required to understand the phenomenon."
+    },
+    {
+      "word": "analyse",
+      "gender": "f",
+      "the_word": "L'analyse",
+      "imageLink": "https://example.com/analyses_image.jpg",
+      "eng_word": "analysis",
+      "french_sentence": "L'analyse des données révèle des tendances significatives.",
+      "eng_sentence": "Data analysis reveals significant trends."
+    },
+    {
+      "word": "plan",
+      "gender": "m",
+      "the_word": "Le plan",
+      "imageLink": "https://example.com/plan_image.jpg",
+      "eng_word": "plan",
+      "french_sentence": "Nous devons élaborer un plan d'action pour résoudre ce problème.",
+      "eng_sentence": "We need to develop an action plan to solve this problem."
+    },
+    {
+      "word": "projet",
+      "gender": "m",
+      "the_word": "Le projet",
+      "imageLink": "https://example.com/projets_image.jpg",
+      "eng_word": "project",
+      "french_sentence": "Le projet de construction débutera l'année prochaine.",
+      "eng_sentence": "The construction project will start next year."
+    },
+    {
+      "word": "année",
+      "gender": "f",
+      "the_word": "L'année",
+      "imageLink": "https://example.com/annee_image.jpg",
+      "eng_word": "year",
+      "french_sentence": "Chaque année, nous célébrons le nouvel an avec nos proches.",
+      "eng_sentence": "Every year, we celebrate New Year with our loved ones."
+    },
+    {
+      "word": "recrutement",
+      "gender": "m",
+      "the_word": "Le recrutement",
+      "imageLink": "https://example.com/recrutement_image.jpg",
+      "eng_word": "recruitment",
+      "french_sentence": "Le recrutement de nouveaux employés est essentiel pour la croissance de l'entreprise.",
+      "eng_sentence": "Recruitment of new employees is essential for the company's growth."
+    },
+    {
+      "word": "direction",
+      "gender": "f",
+      "the_word": "La direction",
+      "imageLink": "https://example.com/direction_image.jpg",
+      "eng_word": "direction",
+      "french_sentence": "La direction de l'entreprise définit la vision et les objectifs.",
+      "eng_sentence": "The direction of the company defines the vision and goals."
+    },
+    {
+      "word": "durée",
+      "gender": "f",
+      "the_word": "La durée",
+      "imageLink": "https://example.com/duree_image.jpg",
+      "eng_word": "duration",
+      "french_sentence": "La durée du film est de deux heures.",
+      "eng_sentence": "The duration of the movie is two hours."
+    },
+    {
+      "word": "projet",
+      "gender": "m",
+      "the_word": "Le projet",
+      "imageLink": "https://example.com/projet_image.jpg",
+      "eng_word": "project",
+      "french_sentence": "Le projet de construction sera achevé d'ici la fin de l'année.",
+      "eng_sentence": "The construction project will be completed by the end of the year."
+    },
+    {
+      "word": "étude",
+      "gender": "f",
+      "the_word": "L'étude",
+      "imageLink": "https://example.com/etude_image.jpg",
+      "eng_word": "study",
+      "french_sentence": "Nous devons mener une étude approfondie avant de prendre une décision.",
+      "eng_sentence": "We need to conduct a thorough study before making a decision."
+    },
+    {
+      "word": "situation",
+      "gender": "f",
+      "the_word": "La situation",
+      "imageLink": "https://example.com/situation_image.jpg",
+      "eng_word": "situation",
+      "french_sentence": "La situation actuelle nécessite une attention immédiate.",
+      "eng_sentence": "The current situation requires immediate attention."
+    },
+    {
+      "word": "résultat",
+      "gender": "m",
+      "the_word": "Le résultat",
+      "imageLink": "https://example.com/resultat_image.jpg",
+      "eng_word": "result",
+      "french_sentence": "Le résultat de l'examen sera annoncé demain.",
+      "eng_sentence": "The result of the exam will be announced tomorrow."
+    },
+    {
+      "word": "étape",
+      "gender": "f",
+      "the_word": "L'étape",
+      "imageLink": "https://example.com/etape_image.jpg",
+      "eng_word": "step",
+      "french_sentence": "Nous devons franchir chaque étape avec soin.",
+      "eng_sentence": "We must go through each step carefully."
+    },
+    {
+      "word": "stratégie",
+      "gender": "f",
+      "the_word": "La stratégie",
+      "imageLink": "https://example.com/strategie_image.jpg",
+      "eng_word": "strategy",
+      "french_sentence": "Nous devons élaborer une stratégie efficace pour atteindre nos objectifs.",
+      "eng_sentence": "We need to develop an effective strategy to achieve our goals."
+    },
+    {
+      "word": "formation",
+      "gender": "f",
+      "the_word": "La formation",
+      "imageLink": "https://example.com/formation_image.jpg",
+      "eng_word": "training",
+      "french_sentence": "La formation continue est importante pour le développement professionnel.",
+      "eng_sentence": "Continuous training is important for professional development."
+    },
+    {
+      "word": "demande",
+      "gender": "f",
+      "the_word": "La demande",
+      "imageLink": "https://example.com/demande_image.jpg",
+      "eng_word": "request",
+      "french_sentence": "Nous avons reçu une demande de renseignements de la part d'un client.",
+      "eng_sentence": "We received a request for information from a client."
+    },
+    {
+      "word": "objectif",
+      "gender": "m",
+      "the_word": "L'objectif",
+      "imageLink": "https://example.com/objectif_image.jpg",
+      "eng_word": "objective",
+      "french_sentence": "Notre objectif principal est d'améliorer la satisfaction des clients.",
+      "eng_sentence": "Our main objective is to improve customer satisfaction."
+    },
+    {
+      "word": "conclusion",
+      "gender": "f",
+      "the_word": "La conclusion",
+      "imageLink": "https://example.com/conclusion_image.jpg",
+      "eng_word": "conclusion",
+      "french_sentence": "En conclusion, je pense que cette solution est la meilleure pour le problème.",
+      "eng_sentence": "In conclusion, I believe this solution is the best for the problem."
+    },
+    {
+      "word": "recommandation",
+      "gender": "f",
+      "the_word": "La recommandation",
+      "imageLink": "https://example.com/recommandation_image.jpg",
+      "eng_word": "recommendation",
+      "french_sentence": "Je vous fais la recommandation de lire ce livre.",
+      "eng_sentence": "I recommend you to read this book."
+    },
+    {
+      "word": "aspect",
+      "gender": "m",
+      "the_word": "L'aspect",
+      "imageLink": "https://example.com/aspect_image.jpg",
+      "eng_word": "aspect",
+      "french_sentence": "Il y a plusieurs aspects à prendre en compte lors de la prise de décision.",
+      "eng_sentence": "There are several aspects to consider when making a decision."
+    },
+    {
+      "word": "avantage",
+      "gender": "m",
+      "the_word": "L'avantage",
+      "imageLink": "https://example.com/avantage_image.jpg",
+      "eng_word": "advantage",
+      "french_sentence": "L'un des principaux avantages de ce produit est sa durabilité.",
+      "eng_sentence": "One of the main advantages of this product is its durability."
+    },
+    {
+      "word": "inconvénient",
+      "gender": "m",
+      "the_word": "L'inconvénient",
+      "imageLink": "https://example.com/inconvenient_image.jpg",
+      "eng_word": "disadvantage",
+      "french_sentence": "L'inconvénient de ce système est sa complexité.",
+      "eng_sentence": "The disadvantage of this system is its complexity."
+    },
+    {
+      "word": "ministère",
+      "gender": "m",
+      "the_word": "Le ministère",
+      "imageLink": "https://example.com/ministere_image.jpg",
+      "eng_word": "ministry",
+      "french_sentence": "Le ministère de l'Éducation s'occupe de la politique éducative.",
+      "eng_sentence": "The Ministry of Education is responsible for education policy."
+    },
+    {
+      "word": "autorisation",
+      "gender": "f",
+      "the_word": "L'autorisation",
+      "imageLink": "https://example.com/autorisation_image.jpg",
+      "eng_word": "authorization",
+      "french_sentence": "Vous devez obtenir une autorisation pour accéder à cette zone.",
+      "eng_sentence": "You need to obtain authorization to access this area."
+    },
+    {
+      "word": "écrite",
+      "gender": "f",
+      "the_word": "L'écrite",
+      "imageLink": "https://example.com/ecrite_image.jpg",
+      "eng_word": "written",
+      "french_sentence": "Veuillez fournir une confirmation écrite de votre réservation.",
+      "eng_sentence": "Please provide a written confirmation of your reservation."
+    },
+    {
+      "word": "directeur",
+      "gender": "m",
+      "the_word": "Le directeur",
+      "imageLink": "https://example.com/directeur_image.jpg",
+      "eng_word": "director",
+      "french_sentence": "Le directeur de l'entreprise a pris une décision importante aujourd'hui.",
+      "eng_sentence": "The director of the company made an important decision today."
+    },
+    {
+      "word": "représentant",
+      "gender": "m",
+      "the_word": "Le représentant",
+      "imageLink": "https://example.com/representant_image.jpg",
+      "eng_word": "representative",
+      "french_sentence": "Le représentant des ventes présentera nos produits lors de la réunion.",
+      "eng_sentence": "The sales representative will present our products at the meeting."
+    },
+    {
+      "word": "agent",
+      "gender": "m",
+      "the_word": "L'agent",
+      "imageLink": "https://example.com/agent_image.jpg",
+      "eng_word": "agent",
+      "french_sentence": "L'agent de voyage nous a aidés à réserver nos billets d'avion.",
+      "eng_sentence": "The travel agent helped us book our flight tickets."
+    },
+    {
+      "word": "sécurité",
+      "gender": "f",
+      "the_word": "La sécurité",
+      "imageLink": "https://example.com/securite_image.jpg",
+      "eng_word": "security",
+      "french_sentence": "La sécurité des employés est une priorité pour l'entreprise.",
+      "eng_sentence": "Employee security is a priority for the company."
+    },
+    {
+      "word": "permission",
+      "gender": "f",
+      "the_word": "La permission",
+      "imageLink": "https://example.com/permission_image.jpg",
+      "eng_word": "permission",
+      "french_sentence": "Vous avez besoin d'une permission spéciale pour accéder à cette zone.",
+      "eng_sentence": "You need a special permission to access this area."
+    },
+    {
+      "word": "matériel",
+      "gender": "m",
+      "the_word": "Le matériel",
+      "imageLink": "https://example.com/materiel_image.jpg",
+      "eng_word": "equipment",
+      "french_sentence": "Nous devons acheter du nouveau matériel pour notre laboratoire.",
+      "eng_sentence": "We need to buy new equipment for our laboratory."
+    },
+    {
+      "word": "inspecteur",
+      "gender": "m",
+      "the_word": "L'inspecteur",
+      "imageLink": "https://example.com/inspecteurs_image.jpg",
+      "eng_word": "inspector",
+      "french_sentence": "L'inspecteur de police est venu enquêter sur le vol.",
+      "eng_sentence": "The police inspector came to investigate the theft."
+    },
+    {
+      "word": "douane",
+      "gender": "f",
+      "the_word": "La douane",
+      "imageLink": "https://example.com/douanes_image.jpg",
+      "eng_word": "customs",
+      "french_sentence": "Les marchandises doivent passer par la douane avant d'entrer dans le pays.",
+      "eng_sentence": "Goods need to go through customs before entering the country."
+    },
+    {
+      "word": "opération",
+      "gender": "f",
+      "the_word": "L'opération",
+      "imageLink": "https://example.com/operations_image.jpg",
+      "eng_word": "operation",
+      "french_sentence": "Le médecin a réalisé une opération chirurgicale complexe.",
+      "eng_sentence": "The doctor performed a complex surgical operation."
+    },
+    {
+      "word": "local",
+      "gender": "m",
+      "the_word": "Le local",
+      "imageLink": "https://example.com/locaux_image.jpg",
+      "eng_word": "premises",
+      "french_sentence": "Les employés doivent quitter les locaux avant la fermeture.",
+      "eng_sentence": "Employees must leave the premises before closing."
+    },
+    {
+      "word": "réprimande",
+      "gender": "f",
+      "the_word": "La réprimande",
+      "imageLink": "https://example.com/reprimandes_image.jpg",
+      "eng_word": "reprimand",
+      "french_sentence": "Le professeur a donné une réprimande à l'élève pour son comportement en classe.",
+      "eng_sentence": "The teacher gave a reprimand to the student for their behavior in class."
+    },
+    {
+      "word": "cas",
+      "gender": "m",
+      "the_word": "Le cas",
+      "imageLink": "https://example.com/cas_image.jpg",
+      "eng_word": "case",
+      "french_sentence": "Dans ce cas, il est préférable de demander l'avis d'un avocat.",
+      "eng_sentence": "In this case, it is best to seek the advice of a lawyer."
+    },
+    {
+      "word": "absence",
+      "gender": "f",
+      "the_word": "L'absence",
+      "imageLink": "https://example.com/absence_image.jpg",
+      "eng_word": "absence",
+      "french_sentence": "Son absence à la réunion a été remarquée.",
+      "eng_sentence": "His absence from the meeting was noticed."
+    },
+    {
+      "word": "avertissement",
+      "gender": "m",
+      "the_word": "L'avertissement",
+      "imageLink": "https://example.com/avertissement_image.jpg",
+      "eng_word": "warning",
+      "french_sentence": "Le chef a donné un avertissement aux employés concernant les retards répétés.",
+      "eng_sentence": "The manager gave a warning to the employees regarding the repeated delays."
+    },
+    {
+      "word": "message",
+      "gender": "m",
+      "the_word": "Le message",
+      "imageLink": "https://example.com/message_image.jpg",
+      "eng_word": "message",
+      "french_sentence": "J'ai reçu un message important de mon collègue.",
+      "eng_sentence": "I received an important message from my colleague."
+    },
+    {
+      "word": "tableau",
+      "gender": "m",
+      "the_word": "Le tableau",
+      "imageLink": "https://example.com/tableau_image.jpg",
+      "eng_word": "table",
+      "french_sentence": "Le professeur a écrit des notes au tableau.",
+      "eng_sentence": "The teacher wrote notes on the board."
+    },
+    {
+      "word": "communication",
+      "gender": "f",
+      "the_word": "La communication",
+      "imageLink": "https://example.com/communication_image.jpg",
+      "eng_word": "communication",
+      "french_sentence": "La communication est essentielle dans les relations professionnelles.",
+      "eng_sentence": "Communication is essential in professional relationships."
+    },
+    {
+      "word": "ton",
+      "gender": "m",
+      "the_word": "Le ton",
+      "imageLink": "https://example.com/ton_image.jpg",
+      "eng_word": "tone",
+      "french_sentence": "Il est important de choisir le bon ton lors d'une conversation formelle.",
+      "eng_sentence": "It is important to choose the right tone in a formal conversation."
+    },
+    {
+      "word": "division",
+      "gender": "f",
+      "the_word": "La division",
+      "imageLink": "https://example.com/division_image.jpg",
+      "eng_word": "division",
+      "french_sentence": "La division du travail permet d'optimiser l'efficacité de l'équipe.",
+      "eng_sentence": "Division of labor helps optimize the efficiency of the team."
+    },
+    {
+      "word": "temps",
+      "gender": "m",
+      "the_word": "Le temps",
+      "imageLink": "https://example.com/temps_image.jpg",
+      "eng_word": "time",
+      "french_sentence": "Le temps est précieux, il faut le gérer avec soin.",
+      "eng_sentence": "Time is precious, it should be managed carefully."
+    },
+    {
+      "word": "perturbation",
+      "gender": "f",
+      "the_word": "La perturbation",
+      "imageLink": "https://example.com/perturbations_image.jpg",
+      "eng_word": "disruption",
+      "french_sentence": "La grève a causé des perturbations dans les transports en commun.",
+      "eng_sentence": "The strike caused disruptions in public transportation."
+    },
+    {
+      "word": "système",
+      "gender": "m",
+      "the_word": "Le système",
+      "imageLink": "https://example.com/systemes_image.jpg",
+      "eng_word": "system",
+      "french_sentence": "Le système informatique a été mis à jour pour améliorer la sécurité des données.",
+      "eng_sentence": "The computer system has been updated to enhance data security."
+    },
+    {
+      "word": "fiche",
+      "gender": "f",
+      "the_word": "La fiche",
+      "imageLink": "https://example.com/fiches_image.jpg",
+      "eng_word": "card",
+      "french_sentence": "N'oubliez pas de remplir la fiche d'inscription.",
+      "eng_sentence": "Don't forget to fill out the registration card."
+    },
+    {
+      "word": "directrice",
+      "gender": "f",
+      "the_word": "La directrice",
+      "imageLink": "https://example.com/directrice_image.jpg",
+      "eng_word": "director (female)",
+      "french_sentence": "La directrice de l'entreprise a pris une décision importante.",
+      "eng_sentence": "The female director of the company made an important decision."
+    },
+    {
+      "word": "retard",
+      "gender": "m",
+      "the_word": "Le retard",
+      "imageLink": "https://example.com/retard_image.jpg",
+      "eng_word": "delay",
+      "french_sentence": "Le train est en retard de 30 minutes.",
+      "eng_sentence": "The train is delayed by 30 minutes."
+    },
+    {
+      "word": "mesure",
+      "gender": "f",
+      "the_word": "La mesure",
+      "imageLink": "https://example.com/mesure_image.jpg",
+      "eng_word": "measure",
+      "french_sentence": "Des mesures strictes ont été mises en place pour assurer la sécurité.",
+      "eng_sentence": "Strict measures have been implemented to ensure safety."
+    },
+    {
+      "word": "bureau",
+      "gender": "m",
+      "the_word": "Le bureau",
+      "imageLink": "https://example.com/bureau_image.jpg",
+      "eng_word": "office",
+      "french_sentence": "Je travaille dans un bureau moderne et bien équipé.",
+      "eng_sentence": "I work in a modern and well-equipped office."
+    },
+    {
+      "word": "enquête",
+      "gender": "f",
+      "the_word": "L'enquête",
+      "imageLink": "https://example.com/enquete_image.jpg",
+      "eng_word": "investigation",
+      "french_sentence": "La police mène une enquête sur l'incident.",
+      "eng_sentence": "The police are conducting an investigation into the incident."
+    },
+    {
+      "word": "intérêt",
+      "gender": "m",
+      "the_word": "L'intérêt",
+      "imageLink": "https://example.com/interet_image.jpg",
+      "eng_word": "interest",
+      "french_sentence": "L'intérêt de cette activité est d'apprendre de nouvelles compétences.",
+      "eng_sentence": "The interest of this activity is to learn new skills."
+    },
+    {
+      "word": "semaine",
+      "gender": "f",
+      "the_word": "La semaine",
+      "imageLink": "https://example.com/semaines_image.jpg",
+      "eng_word": "week",
+      "french_sentence": "La semaine prochaine, nous aurons des vacances.",
+      "eng_sentence": "Next week, we will have holidays."
+    },
+    {
+      "word": "activité",
+      "gender": "f",
+      "the_word": "L'activité",
+      "imageLink": "https://example.com/activites_image.jpg",
+      "eng_word": "activity",
+      "french_sentence": "L'activité physique est importante pour maintenir une bonne santé.",
+      "eng_sentence": "Physical activity is important to maintain good health."
+    },
+    {
+      "word": "réponse",
+      "gender": "f",
+      "the_word": "La réponse",
+      "imageLink": "https://example.com/reponses_image.jpg",
+      "eng_word": "answer",
+      "french_sentence": "La réponse à cette question est oui.",
+      "eng_sentence": "The answer to this question is yes."
+    },
+    {
+      "word": "catégorie",
+      "gender": "f",
+      "the_word": "La catégorie",
+      "imageLink": "https://example.com/categories_image.jpg",
+      "eng_word": "category",
+      "french_sentence": "Ce produit appartient à la catégorie des appareils électroniques.",
+      "eng_sentence": "This product belongs to the category of electronic devices."
+    },
+    {
+      "word": "comité",
+      "gender": "m",
+      "the_word": "Le comité",
+      "imageLink": "https://example.com/comites_image.jpg",
+      "eng_word": "committee",
+      "french_sentence": "Le comité se réunit chaque mois pour discuter des projets.",
+      "eng_sentence": "The committee meets every month to discuss projects."
+    },
+    {
+      "word": "responsable",
+      "gender": "m",
+      "the_word": "Le responsable",
+      "imageLink": "https://example.com/responsables_image.jpg",
+      "eng_word": "responsible one",
+      "french_sentence": "Le responsable gère l'équipe avec compétence.",
+      "eng_sentence": "The responsible one manages the team skillfully."
+    },
+    {
+      "word": "réunion",
+      "gender": "f",
+      "the_word": "La réunion",
+      "imageLink": "https://example.com/reunion_image.jpg",
+      "eng_word": "meeting",
+      "french_sentence": "La réunion est prévue pour demain matin.",
+      "eng_sentence": "The meeting is scheduled for tomorrow morning."
+    },
+    {
+      "word": "date",
+      "gender": "f",
+      "the_word": "La date",
+      "imageLink": "https://example.com/date_image.jpg",
+      "eng_word": "date",
+      "french_sentence": "La date limite est le 30 septembre.",
+      "eng_sentence": "The deadline is September 30th."
+    },
+    {
+      "word": "état",
+      "gender": "m",
+      "the_word": "L'état",
+      "imageLink": "https://example.com/etat_image.jpg",
+      "eng_word": "state",
+      "french_sentence": "L'état de santé de la personne s'est amélioré.",
+      "eng_sentence": "The person's health condition has improved."
+    },
+    {
+      "word": "compilation",
+      "gender": "f",
+      "the_word": "La compilation",
+      "imageLink": "https://example.com/compilation_image.jpg",
+      "eng_word": "compilation",
+      "french_sentence": "La compilation des données est en cours.",
+      "eng_sentence": "The compilation of data is in progress."
+    },
+    {
+      "word": "personne",
+      "gender": "f",
+      "the_word": "La personne",
+      "imageLink": "https://example.com/personnes_image.jpg",
+      "eng_word": "person",
+      "french_sentence": "La personne est en train de lire un livre.",
+      "eng_sentence": "The person is reading a book."
+    },
+    {
+      "word": "inscrite",
+      "gender": "f",
+      "the_word": "L'inscrite",
+      "imageLink": "https://example.com/inscrites_image.jpg",
+      "eng_word": "registered (feminine)",
+      "french_sentence": "L'inscrite assiste à la conférence.",
+      "eng_sentence": "The registered woman is attending the conference."
+    },
+    {
+      "word": "réunion",
+      "gender": "f",
+      "the_word": "La réunion",
+      "imageLink": "https://example.com/reunions_image.jpg",
+      "eng_word": "meeting",
+      "french_sentence": "La réunion commence à 10 heures.",
+      "eng_sentence": "The meeting starts at 10 o'clock."
+    },
+    {
+      "word": "abandonnée",
+      "gender": "f",
+      "the_word": "L'abandonnée",
+      "imageLink": "https://example.com/abandonnee_image.jpg",
+      "eng_word": "abandoned (feminine)",
+      "french_sentence": "L'abandonnée se sent seule dans la maison vide.",
+      "eng_sentence": "The abandoned woman feels lonely in the empty house."
+    },
+    {
+      "word": "industrie",
+      "gender": "f",
+      "the_word": "L'industrie",
+      "imageLink": "https://example.com/industrie_image.jpg",
+      "eng_word": "industry",
+      "french_sentence": "L'industrie manufacturière crée de nombreux emplois.",
+      "eng_sentence": "The manufacturing industry creates many jobs."
     },
     {
       "word": "ressource",
       "gender": "f",
       "the_word": "La ressource",
       "imageLink": "https://example.com/ressources_image.jpg",
-      "eng_word": "resource"
+      "eng_word": "resource",
+      "french_sentence": "La ressource est précieuse pour le projet.",
+      "eng_sentence": "The resource is valuable for the project."
     },
     {
       "word": "humaine",
       "gender": "f",
       "the_word": "Une humaine",
       "imageLink": "https://example.com/humaines_image.jpg",
-      "eng_word": "human"
+      "eng_word": "human",
+      "french_sentence": "Une humaine marche dans la rue.",
+      "eng_sentence": "A human walks on the street."
     },
     {
       "word": "forestier",
       "gender": "m",
       "the_word": "Le forestier",
       "imageLink": "https://example.com/forestier_image.jpg",
-      "eng_word": "forester"
+      "eng_word": "forester",
+      "french_sentence": "Le forestier prend soin des arbres.",
+      "eng_sentence": "The forester takes care of the trees."
     }
   ]
 }

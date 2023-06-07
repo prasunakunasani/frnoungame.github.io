@@ -13,6 +13,8 @@ fetch("frenchGender.json")
         const feminineButton = document.getElementById("feminine"); // Get the feminine button element
         const frenchWordElement = document.getElementById("fr_word"); // Get the word element
         const engWordElement = document.getElementById("eng_word"); // Get the word element
+        const frSentenceElement = document.getElementById("fr_sentence"); // Get the word element
+        const engSentenceElement = document.getElementById("eng_sentence"); // Get the word element
         const imageElement = document.getElementById("image"); // Get the image element
         const hintButton = document.getElementById("hint"); // Get the hint button element
         const resultsTable = document.getElementById("scoreboard-body"); // Get the results table element
@@ -21,6 +23,8 @@ fetch("frenchGender.json")
         // Append the word, image, and hint button elements to the card body
         cardBody.appendChild(frenchWordElement);
         cardBody.appendChild(engWordElement);
+        cardBody.appendChild(frSentenceElement);
+        cardBody.appendChild(engSentenceElement);
         cardBody.appendChild(imageElement);
         cardBody.appendChild(hintButton);
 
@@ -46,6 +50,8 @@ fetch("frenchGender.json")
             imageElement.src = nouns[currentNounIndex].imageLink;
             frenchWordElement.textContent = nouns[currentNounIndex].the_word;
             engWordElement.textContent = "Eng: "+nouns[currentNounIndex].eng_word;
+            frSentenceElement.textContent = "Eng: "+nouns[currentNounIndex].french_sentence;
+            engSentenceElement.textContent = "Eng: "+nouns[currentNounIndex].eng_sentence;
 
         });
 
@@ -68,6 +74,9 @@ fetch("frenchGender.json")
                 questionElement.textContent = " " + noun.word + "?"; // Display the question
                 frenchWordElement.textContent = ""; // Clear the word element
                 engWordElement.textContent = ""; // Clear the word element
+                frSentenceElement.textContent = ""; // Clear the word element
+                engSentenceElement.textContent = ""; // Clear the word element
+
                 imageElement.src = ""; // Clear the image element
                 messageElement.textContent = ""; // Clear the message element
 
