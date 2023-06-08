@@ -452,15 +452,6 @@
       "eng_sentence": "My brother likes to play soccer."
     },
     {
-      "word": "état",
-      "gender": "m",
-      "the_word": "Un état",
-      "imageLink": "https://example.com/state_image.jpg",
-      "eng_word": "state",
-      "french_sentence": "Le Québec est une province de l'état canadien.",
-      "eng_sentence": "Quebec is a province in the Canadian state."
-    },
-    {
       "word": "condition",
       "gender": "f",
       "the_word": "Une condition",
@@ -468,15 +459,6 @@
       "eng_word": "condition",
       "french_sentence": "La condition pour réussir est de travailler dur.",
       "eng_sentence": "The condition for success is to work hard."
-    },
-    {
-      "word": "situation",
-      "gender": "f",
-      "the_word": "Une situation",
-      "imageLink": "https://example.com/situation_image.jpg",
-      "eng_word": "situation",
-      "french_sentence": "Nous devons évaluer la situation avant de prendre une décision.",
-      "eng_sentence": "We need to assess the situation before making a decision."
     },
     {
       "word": "personne",
@@ -581,7 +563,7 @@
       "word": "identification",
       "gender": "f",
       "the_word": "Une identification",
-      "imageLink": "https://example.com/identification_image.jpg",
+      "imageLink": "https://thumbs.dreamstime.com/b/sticker-cartoon-id-badge-creative-illustrated-149283914.jpg",
       "eng_word": "identification",
       "french_sentence": "Il a besoin d'une pièce d'identification pour entrer dans le bâtiment.",
       "eng_sentence": "He needs an identification document to enter the building."
@@ -608,7 +590,7 @@
       "word": "été",
       "gender": "m",
       "the_word": "L'été",
-      "imageLink": "https://example.com/ete_image.jpg",
+      "imageLink": "https://dm0qx8t0i9gc9.cloudfront.net/watermarks/image/rDtN98Qoishumwih/cartoon-summer-background-vector-illustration_MyJfhmLd_SB_PM.jpg",
       "eng_word": "summer",
       "french_sentence": "J'adore aller à la plage pendant l'été.",
       "eng_sentence": "I love going to the beach during the summer."
@@ -639,24 +621,6 @@
       "eng_word": "surplus",
       "french_sentence": "Il y a un surplus de produits en stock.",
       "eng_sentence": "There is a surplus of products in stock."
-    },
-    {
-      "word": "travail",
-      "gender": "m",
-      "the_word": "Le travail",
-      "imageLink": "https://example.com/travail_image.jpg",
-      "eng_word": "work",
-      "french_sentence": "Je dois finir mon travail avant la fin de la journée.",
-      "eng_sentence": "I need to finish my work before the end of the day."
-    },
-    {
-      "word": "personnel",
-      "gender": "m",
-      "the_word": "Le personnel",
-      "imageLink": "https://example.com/personnel_image.jpg",
-      "eng_word": "personnel",
-      "french_sentence": "Le personnel de l'entreprise est très compétent.",
-      "eng_sentence": "The company's personnel is very competent."
     },
     {
       "word": "normale",
@@ -752,8 +716,8 @@
       "word": "local",
       "gender": "m",
       "the_word": "Le local",
-      "imageLink": "https://example.com/locaux_image.jpg",
-      "eng_word": "premises",
+      "imageLink": "https://thumbs.dreamstime.com/b/flat-design-blue-bedroom-interior-vector-illustration-flat-design-blue-bedroom-office-interior-vector-illustration-159084200.jpg",
+      "eng_word": "premises/room",
       "french_sentence": "Le local est utilisé comme espace de stockage.",
       "eng_sentence": "The premises are used as a storage space."
     },
@@ -810,15 +774,6 @@
       "eng_word": "document",
       "french_sentence": "Pouvez-vous m'envoyer le document par e-mail, s'il vous plaît ?",
       "eng_sentence": "Can you please send me the document by email?"
-    },
-    {
-      "word": "comité",
-      "gender": "m",
-      "the_word": "Le comité",
-      "imageLink": "https://example.com/comite_image.jpg",
-      "eng_word": "committee",
-      "french_sentence": "Le comité se réunit une fois par mois pour discuter des projets en cours.",
-      "eng_sentence": "The committee meets once a month to discuss ongoing projects."
     },
     {
       "word": "télévision",
@@ -947,24 +902,6 @@
       "eng_sentence": "The training course will cover various topics related to project management."
     },
     {
-      "word": "durée",
-      "gender": "f",
-      "the_word": "La durée",
-      "imageLink": "https://example.com/duree_image.jpg",
-      "eng_word": "duration",
-      "french_sentence": "La durée du projet est estimée à six mois.",
-      "eng_sentence": "The duration of the project is estimated to be six months."
-    },
-    {
-      "word": "lettre",
-      "gender": "f",
-      "the_word": "La lettre",
-      "imageLink": "https://example.com/lettre_image.jpg",
-      "eng_word": "letter",
-      "french_sentence": "J'ai reçu une lettre importante aujourd'hui.",
-      "eng_sentence": "I received an important letter today."
-    },
-    {
       "word": "adresse",
       "gender": "f",
       "the_word": "L'adresse",
@@ -983,15 +920,6 @@
       "eng_sentence": "I am currently at my residence."
     },
     {
-      "word": "adresse",
-      "gender": "f",
-      "the_word": "La adresse",
-      "imageLink": "https://example.com/nouvelle_adresse_image.jpg",
-      "eng_word": "address",
-      "french_sentence": "Veuillez mettre à jour votre adresse dans notre système.",
-      "eng_sentence": "Please update your address in our system."
-    },
-    {
       "word": "ancienne adresse",
       "gender": "f",
       "the_word": "L'ancienne adresse",
@@ -1008,15 +936,6 @@
       "eng_word": "research",
       "french_sentence": "Je suis en train de faire des recherches sur ce sujet.",
       "eng_sentence": "I am doing research on this topic."
-    },
-    {
-      "word": "enquête",
-      "gender": "f",
-      "the_word": "L'enquête",
-      "imageLink": "https://example.com/enquete_image.jpg",
-      "eng_word": "investigation",
-      "french_sentence": "La police mène actuellement une enquête sur l'incident.",
-      "eng_sentence": "The police are currently conducting an investigation into the incident."
     },
     {
       "word": "cause",
@@ -1163,15 +1082,6 @@
       "eng_sentence": "It's a pleasure to meet you."
     },
     {
-      "word": "région",
-      "gender": "f",
-      "the_word": "La région",
-      "imageLink": "https://example.com/region_image.jpg",
-      "eng_word": "region",
-      "french_sentence": "J'habite dans la région parisienne.",
-      "eng_sentence": "I live in the Paris region."
-    },
-    {
       "word": "disposition",
       "gender": "f",
       "the_word": "La disposition",
@@ -1215,15 +1125,6 @@
       "eng_word": "conversation",
       "french_sentence": "Nous avons eu une bonne conversation hier soir.",
       "eng_sentence": "We had a good conversation last night."
-    },
-    {
-      "word": "local",
-      "gender": "m",
-      "the_word": "Un local",
-      "imageLink": "https://example.com/local_image.jpg",
-      "eng_word": "room",
-      "french_sentence": "Je vais réserver un local pour la réunion.",
-      "eng_sentence": "I will book a room for the meeting."
     },
     {
       "word": "réception",
@@ -1296,15 +1197,6 @@
       "eng_word": "return",
       "french_sentence": "Je serai de retour demain matin.",
       "eng_sentence": "I will be back tomorrow morning."
-    },
-    {
-      "word": "recherche",
-      "gender": "f",
-      "the_word": "La recherche",
-      "imageLink": "https://example.com/recherche_image.jpg",
-      "eng_word": "research",
-      "french_sentence": "Je suis en train de faire des recherches pour mon projet.",
-      "eng_sentence": "I am doing research for my project."
     },
     {
       "word": "travail",
@@ -1451,15 +1343,6 @@
       "eng_sentence": "Ask me a question, and I will answer you."
     },
     {
-      "word": "approche",
-      "gender": "f",
-      "the_word": "L'approche",
-      "imageLink": "https://example.com/approche_image.jpg",
-      "eng_word": "approach",
-      "french_sentence": "Nous devons adopter une approche différente pour résoudre ce problème.",
-      "eng_sentence": "We need to take a different approach to solve this problem."
-    },
-    {
       "word": "programme",
       "gender": "m",
       "the_word": "Le programme",
@@ -1548,15 +1431,6 @@
       "eng_word": "means",
       "french_sentence": "Je n'ai pas les moyens d'acheter une nouvelle voiture pour le moment.",
       "eng_sentence": "I don't have the means to buy a new car at the moment."
-    },
-    {
-      "word": "besoin",
-      "gender": "m",
-      "the_word": "Le besoin",
-      "imageLink": "https://example.com/besoin_image.jpg",
-      "eng_word": "need",
-      "french_sentence": "J'ai un besoin urgent de repos.",
-      "eng_sentence": "I have an urgent need for rest."
     },
     {
       "word": "quelqu'un",
@@ -1685,15 +1559,6 @@
       "eng_sentence": "I am looking for information about traveling in Asia."
     },
     {
-      "word": "activités",
-      "gender": "f",
-      "the_word": "L'activité",
-      "imageLink": "https://example.com/activites_image.jpg",
-      "eng_word": "activity",
-      "french_sentence": "Il y a de nombreuses activités à faire pendant les vacances.",
-      "eng_sentence": "There are many activities to do during the holidays."
-    },
-    {
       "word": "stratégie",
       "gender": "f",
       "the_word": "La stratégie",
@@ -1719,15 +1584,6 @@
       "eng_word": "procurement",
       "french_sentence": "L'approvisionnement en matériaux de construction est essentiel pour le projet.",
       "eng_sentence": "Procurement of construction materials is essential for the project."
-    },
-    {
-      "word": "eau",
-      "gender": "f",
-      "the_word": "L'eau",
-      "imageLink": "https://example.com/eau_image.jpg",
-      "eng_word": "water",
-      "french_sentence": "Il est important de boire suffisamment d'eau chaque jour.",
-      "eng_sentence": "It is important to drink an adequate amount of water every day."
     },
     {
       "word": "potable",
@@ -1782,15 +1638,6 @@
       "eng_word": "line",
       "french_sentence": "Suivez la ligne tracée pour atteindre votre destination.",
       "eng_sentence": "Follow the line drawn to reach your destination."
-    },
-    {
-      "word": "directive",
-      "gender": "f",
-      "the_word": "La directive",
-      "imageLink": "https://example.com/directives_image.jpg",
-      "eng_word": "directive",
-      "french_sentence": "La directive énonce les règles et les objectifs à suivre.",
-      "eng_sentence": "The directive sets out the rules and objectives to follow."
     },
     {
       "word": "processus",
@@ -1865,15 +1712,6 @@
       "eng_sentence": "The construction project will start next year."
     },
     {
-      "word": "année",
-      "gender": "f",
-      "the_word": "L'année",
-      "imageLink": "https://example.com/annee_image.jpg",
-      "eng_word": "year",
-      "french_sentence": "Chaque année, nous célébrons le nouvel an avec nos proches.",
-      "eng_sentence": "Every year, we celebrate New Year with our loved ones."
-    },
-    {
       "word": "recrutement",
       "gender": "m",
       "the_word": "Le recrutement",
@@ -1901,24 +1739,6 @@
       "eng_sentence": "The duration of the movie is two hours."
     },
     {
-      "word": "projet",
-      "gender": "m",
-      "the_word": "Le projet",
-      "imageLink": "https://example.com/projet_image.jpg",
-      "eng_word": "project",
-      "french_sentence": "Le projet de construction sera achevé d'ici la fin de l'année.",
-      "eng_sentence": "The construction project will be completed by the end of the year."
-    },
-    {
-      "word": "étude",
-      "gender": "f",
-      "the_word": "L'étude",
-      "imageLink": "https://example.com/etude_image.jpg",
-      "eng_word": "study",
-      "french_sentence": "Nous devons mener une étude approfondie avant de prendre une décision.",
-      "eng_sentence": "We need to conduct a thorough study before making a decision."
-    },
-    {
       "word": "situation",
       "gender": "f",
       "the_word": "La situation",
@@ -1944,15 +1764,6 @@
       "eng_word": "step",
       "french_sentence": "Nous devons franchir chaque étape avec soin.",
       "eng_sentence": "We must go through each step carefully."
-    },
-    {
-      "word": "stratégie",
-      "gender": "f",
-      "the_word": "La stratégie",
-      "imageLink": "https://example.com/strategie_image.jpg",
-      "eng_word": "strategy",
-      "french_sentence": "Nous devons élaborer une stratégie efficace pour atteindre nos objectifs.",
-      "eng_sentence": "We need to develop an effective strategy to achieve our goals."
     },
     {
       "word": "formation",
@@ -2027,15 +1838,6 @@
       "eng_sentence": "The disadvantage of this system is its complexity."
     },
     {
-      "word": "ministère",
-      "gender": "m",
-      "the_word": "Le ministère",
-      "imageLink": "https://example.com/ministere_image.jpg",
-      "eng_word": "ministry",
-      "french_sentence": "Le ministère de l'Éducation s'occupe de la politique éducative.",
-      "eng_sentence": "The Ministry of Education is responsible for education policy."
-    },
-    {
       "word": "autorisation",
       "gender": "f",
       "the_word": "L'autorisation",
@@ -2081,15 +1883,6 @@
       "eng_sentence": "The travel agent helped us book our flight tickets."
     },
     {
-      "word": "sécurité",
-      "gender": "f",
-      "the_word": "La sécurité",
-      "imageLink": "https://example.com/securite_image.jpg",
-      "eng_word": "security",
-      "french_sentence": "La sécurité des employés est une priorité pour l'entreprise.",
-      "eng_sentence": "Employee security is a priority for the company."
-    },
-    {
       "word": "permission",
       "gender": "f",
       "the_word": "La permission",
@@ -2129,19 +1922,10 @@
       "word": "opération",
       "gender": "f",
       "the_word": "L'opération",
-      "imageLink": "https://example.com/operations_image.jpg",
+      "imageLink": "https://tinsign.com/wp-content/uploads/2020/08/tin-sign-c327-operation-classic-retro-game-board-gameroom-sign-tinworld-tinsign_com.jpg",
       "eng_word": "operation",
       "french_sentence": "Le médecin a réalisé une opération chirurgicale complexe.",
       "eng_sentence": "The doctor performed a complex surgical operation."
-    },
-    {
-      "word": "local",
-      "gender": "m",
-      "the_word": "Le local",
-      "imageLink": "https://example.com/locaux_image.jpg",
-      "eng_word": "premises",
-      "french_sentence": "Les employés doivent quitter les locaux avant la fermeture.",
-      "eng_sentence": "Employees must leave the premises before closing."
     },
     {
       "word": "réprimande",
@@ -2193,7 +1977,7 @@
       "gender": "m",
       "the_word": "Le tableau",
       "imageLink": "https://example.com/tableau_image.jpg",
-      "eng_word": "table",
+      "eng_word": "board",
       "french_sentence": "Le professeur a écrit des notes au tableau.",
       "eng_sentence": "The teacher wrote notes on the board."
     },
@@ -2214,15 +1998,6 @@
       "eng_word": "tone",
       "french_sentence": "Il est important de choisir le bon ton lors d'une conversation formelle.",
       "eng_sentence": "It is important to choose the right tone in a formal conversation."
-    },
-    {
-      "word": "division",
-      "gender": "f",
-      "the_word": "La division",
-      "imageLink": "https://example.com/division_image.jpg",
-      "eng_word": "division",
-      "french_sentence": "La division du travail permet d'optimiser l'efficacité de l'équipe.",
-      "eng_sentence": "Division of labor helps optimize the efficiency of the team."
     },
     {
       "word": "temps",
@@ -2270,15 +2045,6 @@
       "eng_sentence": "The female director of the company made an important decision."
     },
     {
-      "word": "retard",
-      "gender": "m",
-      "the_word": "Le retard",
-      "imageLink": "https://example.com/retard_image.jpg",
-      "eng_word": "delay",
-      "french_sentence": "Le train est en retard de 30 minutes.",
-      "eng_sentence": "The train is delayed by 30 minutes."
-    },
-    {
       "word": "mesure",
       "gender": "f",
       "the_word": "La mesure",
@@ -2286,15 +2052,6 @@
       "eng_word": "measure",
       "french_sentence": "Des mesures strictes ont été mises en place pour assurer la sécurité.",
       "eng_sentence": "Strict measures have been implemented to ensure safety."
-    },
-    {
-      "word": "bureau",
-      "gender": "m",
-      "the_word": "Le bureau",
-      "imageLink": "https://example.com/bureau_image.jpg",
-      "eng_word": "office",
-      "french_sentence": "Je travaille dans un bureau moderne et bien équipé.",
-      "eng_sentence": "I work in a modern and well-equipped office."
     },
     {
       "word": "enquête",
@@ -2351,15 +2108,6 @@
       "eng_sentence": "This product belongs to the category of electronic devices."
     },
     {
-      "word": "responsable",
-      "gender": "m",
-      "the_word": "Le responsable",
-      "imageLink": "https://example.com/responsables_image.jpg",
-      "eng_word": "responsible one",
-      "french_sentence": "Le responsable gère l'équipe avec compétence.",
-      "eng_sentence": "The responsible one manages the team skillfully."
-    },
-    {
       "word": "réunion",
       "gender": "f",
       "the_word": "La réunion",
@@ -2394,15 +2142,6 @@
       "eng_word": "compilation",
       "french_sentence": "La compilation des données est en cours.",
       "eng_sentence": "The compilation of data is in progress."
-    },
-    {
-      "word": "personne",
-      "gender": "f",
-      "the_word": "La personne",
-      "imageLink": "https://www.clker.com/cliparts/m/H/f/s/D/Q/light-pink-female-symbol.svg",
-      "eng_word": "person",
-      "french_sentence": "La personne est en train de lire un livre.",
-      "eng_sentence": "The person is reading a book."
     },
     {
       "word": "inscrite",
@@ -2480,7 +2219,7 @@
       "word": "orange",
       "gender": "f",
       "the_word": "L'orange",
-      "imageLink": "https://example.com/orange_image.jpg",
+      "imageLink": "https://w7.pngwing.com/pngs/106/832/png-transparent-orange-cartoon-cartoon-orange-face-orange-smiley.png",
       "eng_word": "orange",
       "french_sentence": "L'orange est juteuse.",
       "eng_sentence": "The orange is juicy."
@@ -2493,15 +2232,6 @@
       "eng_word": "dress",
       "french_sentence": "La robe est belle.",
       "eng_sentence": "The dress is beautiful."
-    },
-    {
-      "word": "livre",
-      "gender": "m",
-      "the_word": "Le livre",
-      "imageLink": "https://example.com/livre_image.jpg",
-      "eng_word": "book",
-      "french_sentence": "Le livre est intéressant.",
-      "eng_sentence": "The book is interesting."
     },
     {
       "word": "lettre",
@@ -2633,7 +2363,7 @@
       "word": "riz",
       "gender": "m",
       "the_word": "Le riz",
-      "imageLink": "https://example.com/riz_image.jpg",
+      "imageLink": "https://www.shutterstock.com/shutterstock/photos/1608980095/display_1500/stock-vector-rice-in-a-bowl-with-chopsticks-isolated-on-blue-background-vector-illustration-cute-cartoon-food-1608980095.jpg",
       "eng_word": "rice",
       "french_sentence": "Le riz accompagne de nombreux plats.",
       "eng_sentence": "Rice accompanies many dishes."
@@ -2673,6 +2403,34 @@
       "eng_word": "kitchen, cuisine",
       "french_sentence": "La cuisine est l'endroit où l'on prépare les repas.",
       "eng_sentence": "The kitchen is the place where meals are prepared."
+    },
+    {
+      "word": "raton laveur",
+      "gender": "m",
+      "the_word": "Le raton laveur",
+      "imageLink": "https://static.wikia.nocookie.net/great-characters/images/f/f7/Rocket_Raccoon.png/revision/latest/scale-to-width-down/2658?cb=20180618040733",
+      "eng_word": "raccoon",
+      "french_sentence": "Le raton laveur porte un masque comme un petit voleur sympathique.",
+      "eng_sentence": "The raccoon wears a mask like a cute little thief."
+    },
+    {
+      "word": "araignée",
+      "gender": "f",
+      "the_word": "L'araignée",
+      "imageLink": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9f/Spider-Woman_%28Jessica_Drew%29_by_Javier_Rodriguez.jpg/220px-Spider-Woman_%28Jessica_Drew%29_by_Javier_Rodriguez.jpg",
+      "eng_word": "spider",
+      "french_sentence": "L'araignée tisse une toile pour attraper ses proies.",
+      "eng_sentence": "The spider weaves a web to catch its prey."
+    },
+    {
+      "word": "magicien",
+      "gender": "m",
+      "the_word": "Le magicien",
+      "imageLink": "https://upload.wikimedia.org/wikipedia/en/f/fe/Dumbledore_and_Elder_Wand.JPG",
+      "eng_word": "wizard",
+      "french_sentence": "Le magicien fait des tours de magie étonnants avec sa baguette.",
+      "eng_sentence": "The wizard performs amazing magic tricks with his wand."
     }
+
   ]
 }
