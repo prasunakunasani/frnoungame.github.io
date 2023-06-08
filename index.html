@@ -2,6 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Learn French Gender</title>
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
@@ -52,31 +53,42 @@
         #hint {
             margin-top: 20px;
         }
+
+        @media (max-width: 576px) {
+            .table-responsive-sm {
+                display: block;
+                width: 100%;
+                overflow-x: auto;
+                -webkit-overflow-scrolling: touch;
+                -ms-overflow-style: -ms-autohiding-scrollbar;
+            }
+        }
     </style>
-    <script src="https://code.responsivevoice.org/responsivevoice.js"></script>
-<!--    <script>-->
-<!--        function speak() {-->
-<!--            responsiveVoice.speak(document.getElementById("question").textContent, "French Female"); // Replace "French Female" with the desired voice/language-->
-<!--        }-->
-<!--    </script>-->
 </head>
 <body>
 <div class="container">
     <div class="row justify-content-center">
-        <div class="col-lg-6 col-md-8 col-sm-10">
+        <div class="col-lg-8 col-md-10">
             <h1 class="text-center mb-4">French gender</h1>
             <div class="card">
                 <div class="card-body">
-                    <div class="d-flex justify-content-center align-items-center">
-                        <h2 id="question" class="mb-4 mr-2" onclick="speak('question')"></h2>
-                        <button onclick="speak('question')" type="button" class="btn ">
-                            <i class="bi bi-volume-up"></i>
-                        </button>
-
+                    <div class="row justify-content-center align-items-center mb-4">
+                        <div class="col-auto">
+                            <h2 id="question" onclick="speak('question')"></h2>
+                        </div>
+                        <div class="col-auto">
+                            <button onclick="speak('question')" type="button" class="btn btn-secondary">
+                                <i class="bi bi-volume-up"></i>
+                            </button>
+                        </div>
                     </div>
-                    <div class="d-flex justify-content-center">
-                        <button id="masculine" class="btn btn-primary mr-2">Masculin</button>
-                        <button id="feminine" class="btn btn-primary">Féminin</button>
+                    <div class="row justify-content-center">
+                        <div class="col-auto">
+                            <button id="masculine" class="btn btn-primary">Masculin</button>
+                        </div>
+                        <div class="col-auto">
+                            <button id="feminine" class="btn btn-primary">Féminin</button>
+                        </div>
                     </div>
                     <div class="message" id="message"></div>
                     <div class="score" id="score">
@@ -86,34 +98,35 @@
                         <button id="restart-button" class="btn btn-danger mt-3">Restart</button>
                     </div>
                 </div>
-
             </div>
 
-            <div id="word-container" class="mb-4">
+            <div id="word-container" class="mt-4">
                 <h3 id="fr_word" class="text-center" onclick="speak('fr_word')"></h3>
                 <img id="image" class="mx-auto hidden" src="" alt="Image">
                 <h3 id="eng_word" class="text-center"></h3>
                 <h4 id="fr_sentence" class="text-center" onclick="speak('fr_sentence')"></h4>
                 <h4 id="eng_sentence" class="text-center"></h4>
-                <div class="d-flex justify-content-center">
-                    <button id="hint" class="btn btn-secondary mt-3">Hint</button>
+                <div class="d-flex justify-content-center mt-3">
+                    <button id="hint" class="btn btn-secondary">Hint</button>
                 </div>
             </div>
 
-            <div id="scoreboard-container">
-                <table class="table">
-                    <thead>
-                    <tr>
-                        <th>#</th>
-                        <th>Word</th>
-                        <th>Your Answer</th>
-                        <th>Correct Answer</th>
-                        <th>Result</th>
-                    </tr>
-                    </thead>
-                    <tbody id="scoreboard-body">
-                    </tbody>
-                </table>
+            <div id="scoreboard-container" class="mt-4">
+                <div class="table-responsive-sm">
+                    <table class="table">
+                        <thead>
+                        <tr>
+                            <th>#</th>
+                            <th>Word</th>
+                            <th>Your Answer</th>
+                            <th>Correct Answer</th>
+                            <th>Result</th>
+                        </tr>
+                        </thead>
+                        <tbody id="scoreboard-body">
+                        </tbody>
+                    </table>
+                </div>
             </div>
         </div>
     </div>
@@ -125,7 +138,8 @@
         crossorigin="anonymous"></script>
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.5.2/dist/js/bootstrap.min.js"
         crossorigin="anonymous"></script>
-
+<!--French pronounciation using google translate js-->
+<script src="https://code.responsivevoice.org/responsivevoice.js"></script>
 
 <!-- Load the script from a separate file -->
 <script src="genderSwipe.js"></script>

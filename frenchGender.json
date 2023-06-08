@@ -812,15 +812,6 @@
       "eng_sentence": "Can you please send me the document by email?"
     },
     {
-      "word": "semaine",
-      "gender": "f",
-      "the_word": "La semaine",
-      "imageLink": "https://example.com/semaine_image.jpg",
-      "eng_word": "week",
-      "french_sentence": "Je vais partir en vacances la semaine prochaine.",
-      "eng_sentence": "I'm going on vacation next week."
-    },
-    {
       "word": "comité",
       "gender": "m",
       "the_word": "Le comité",
@@ -1382,7 +1373,7 @@
       "word": "bureau",
       "gender": "m",
       "the_word": "Le bureau",
-      "imageLink": "https://example.com/bureau_image.jpg",
+      "imageLink": "https://img.freepik.com/free-vector/office-background-video-conferencing_23-2148641674.jpg?w=360",
       "eng_word": "office",
       "french_sentence": "Je travaille dans un bureau moderne.",
       "eng_sentence": "I work in a modern office."
@@ -1829,15 +1820,6 @@
       "eng_sentence": "The price of goods has increased due to the growing demand."
     },
     {
-      "word": "industrie",
-      "gender": "f",
-      "the_word": "L'industrie",
-      "imageLink": "https://example.com/industrie_image.jpg",
-      "eng_word": "industry",
-      "french_sentence": "L'industrie manufacturière est un secteur clé de l'économie.",
-      "eng_sentence": "The manufacturing industry is a key sector of the economy."
-    },
-    {
       "word": "division",
       "gender": "f",
       "the_word": "La division",
@@ -1850,7 +1832,7 @@
       "word": "étude",
       "gender": "f",
       "the_word": "L'étude",
-      "imageLink": "https://example.com/etudes_image.jpg",
+      "imageLink": "https://media.springernature.com/w580h326/nature-cms/uploads/collections/GettyImages-961012574-9f5420b2185825ce373957fcdb72ba2a.jpg",
       "eng_word": "study",
       "french_sentence": "Une étude approfondie est nécessaire pour comprendre le phénomène.",
       "eng_sentence": "A thorough study is required to understand the phenomenon."
@@ -2336,7 +2318,7 @@
       "word": "semaine",
       "gender": "f",
       "the_word": "La semaine",
-      "imageLink": "https://example.com/semaines_image.jpg",
+      "imageLink": "https://cdn.create.vista.com/downloads/5ae1334a-c4b0-4e9b-a5a9-040e5d7d136b_1024.jpeg",
       "eng_word": "week",
       "french_sentence": "La semaine prochaine, nous aurons des vacances.",
       "eng_sentence": "Next week, we will have holidays."
@@ -2354,7 +2336,7 @@
       "word": "réponse",
       "gender": "f",
       "the_word": "La réponse",
-      "imageLink": "https://example.com/reponses_image.jpg",
+      "imageLink": "https://as1.ftcdn.net/v2/jpg/01/81/47/32/1000_F_181473293_BS49RmBTJBI9i44gKiIiDNlw22DYdpSf.jpg",
       "eng_word": "answer",
       "french_sentence": "La réponse à cette question est oui.",
       "eng_sentence": "The answer to this question is yes."
@@ -2369,15 +2351,6 @@
       "eng_sentence": "This product belongs to the category of electronic devices."
     },
     {
-      "word": "comité",
-      "gender": "m",
-      "the_word": "Le comité",
-      "imageLink": "https://example.com/comites_image.jpg",
-      "eng_word": "committee",
-      "french_sentence": "Le comité se réunit chaque mois pour discuter des projets.",
-      "eng_sentence": "The committee meets every month to discuss projects."
-    },
-    {
       "word": "responsable",
       "gender": "m",
       "the_word": "Le responsable",
@@ -2390,7 +2363,7 @@
       "word": "réunion",
       "gender": "f",
       "the_word": "La réunion",
-      "imageLink": "https://example.com/reunion_image.jpg",
+      "imageLink": "https://www.telegraph.co.uk/content/dam/business/spark/NatWest-women-in-business/women-business-high-rise-meeting.jpg",
       "eng_word": "meeting",
       "french_sentence": "La réunion est prévue pour demain matin.",
       "eng_sentence": "The meeting is scheduled for tomorrow morning."
@@ -2399,7 +2372,7 @@
       "word": "date",
       "gender": "f",
       "the_word": "La date",
-      "imageLink": "https://example.com/date_image.jpg",
+      "imageLink": "https://w7.pngwing.com/pngs/503/343/png-transparent-computer-icons-calendar-date-wedding-ceremony-miscellaneous-calendar-rectangle.png",
       "eng_word": "date",
       "french_sentence": "La date limite est le 30 septembre.",
       "eng_sentence": "The deadline is September 30th."
@@ -2426,7 +2399,7 @@
       "word": "personne",
       "gender": "f",
       "the_word": "La personne",
-      "imageLink": "https://example.com/personnes_image.jpg",
+      "imageLink": "https://www.clker.com/cliparts/m/H/f/s/D/Q/light-pink-female-symbol.svg",
       "eng_word": "person",
       "french_sentence": "La personne est en train de lire un livre.",
       "eng_sentence": "The person is reading a book."
@@ -2441,15 +2414,6 @@
       "eng_sentence": "The registered woman is attending the conference."
     },
     {
-      "word": "réunion",
-      "gender": "f",
-      "the_word": "La réunion",
-      "imageLink": "https://example.com/reunions_image.jpg",
-      "eng_word": "meeting",
-      "french_sentence": "La réunion commence à 10 heures.",
-      "eng_sentence": "The meeting starts at 10 o'clock."
-    },
-    {
       "word": "abandonnée",
       "gender": "f",
       "the_word": "L'abandonnée",
@@ -2462,7 +2426,7 @@
       "word": "industrie",
       "gender": "f",
       "the_word": "L'industrie",
-      "imageLink": "https://example.com/industrie_image.jpg",
+      "imageLink": "https://thumbs.dreamstime.com/z/cartoon-factory-manufacturing-industrial-plant-scenery-background-futuristic-pink-manufacture-design-silhouette-backdrop-abstract-179881310.jpg",
       "eng_word": "industry",
       "french_sentence": "L'industrie manufacturière crée de nombreux emplois.",
       "eng_sentence": "The manufacturing industry creates many jobs."
@@ -2480,7 +2444,7 @@
       "word": "humaine",
       "gender": "f",
       "the_word": "Une humaine",
-      "imageLink": "https://example.com/humaines_image.jpg",
+      "imageLink": "https://img.freepik.com/premium-vector/woman-cartoon-icon-avatar-people-person-human-theme-isolated-design-vector-illustration_25030-10955.jpg",
       "eng_word": "human",
       "french_sentence": "Une humaine marche dans la rue.",
       "eng_sentence": "A human walks on the street."
@@ -2493,6 +2457,222 @@
       "eng_word": "forester",
       "french_sentence": "Le forestier prend soin des arbres.",
       "eng_sentence": "The forester takes care of the trees."
+    },
+    {
+      "word": "pomme",
+      "gender": "f",
+      "the_word": "La pomme",
+      "imageLink": "https://example.com/pomme_image.jpg",
+      "eng_word": "apple",
+      "french_sentence": "La pomme est rouge.",
+      "eng_sentence": "The apple is red."
+    },
+    {
+      "word": "enfant",
+      "gender": "m/f",
+      "the_word": "L'enfant",
+      "imageLink": "https://example.com/enfant_image.jpg",
+      "eng_word": "child",
+      "french_sentence": "L'enfant joue dans le parc.",
+      "eng_sentence": "The child plays in the park."
+    },
+    {
+      "word": "orange",
+      "gender": "f",
+      "the_word": "L'orange",
+      "imageLink": "https://example.com/orange_image.jpg",
+      "eng_word": "orange",
+      "french_sentence": "L'orange est juteuse.",
+      "eng_sentence": "The orange is juicy."
+    },
+    {
+      "word": "robe",
+      "gender": "f",
+      "the_word": "La robe",
+      "imageLink": "https://example.com/robe_image.jpg",
+      "eng_word": "dress",
+      "french_sentence": "La robe est belle.",
+      "eng_sentence": "The dress is beautiful."
+    },
+    {
+      "word": "livre",
+      "gender": "m",
+      "the_word": "Le livre",
+      "imageLink": "https://example.com/livre_image.jpg",
+      "eng_word": "book",
+      "french_sentence": "Le livre est intéressant.",
+      "eng_sentence": "The book is interesting."
+    },
+    {
+      "word": "lettre",
+      "gender": "f",
+      "the_word": "La lettre",
+      "imageLink": "https://example.com/lettre_image.jpg",
+      "eng_word": "letter",
+      "french_sentence": "La lettre est écrite à la main.",
+      "eng_sentence": "The letter is handwritten."
+    },
+    {
+      "word": "journal",
+      "gender": "m",
+      "the_word": "Le journal",
+      "imageLink": "https://example.com/journal_image.jpg",
+      "eng_word": "newspaper",
+      "french_sentence": "Le journal est plein d'informations.",
+      "eng_sentence": "The newspaper is full of information."
+    },
+    {
+      "word": "menu",
+      "gender": "m",
+      "the_word": "Le menu",
+      "imageLink": "https://example.com/menu_image.jpg",
+      "eng_word": "menu",
+      "french_sentence": "Le menu propose plusieurs plats.",
+      "eng_sentence": "The menu offers several dishes."
+    },
+    {
+      "word": "nuit",
+      "gender": "f",
+      "the_word": "La nuit",
+      "imageLink": "https://example.com/nuit_image.jpg",
+      "eng_word": "night",
+      "french_sentence": "La nuit est étoilée.",
+      "eng_sentence": "The night is starry."
+    },
+    {
+      "word": "viande",
+      "gender": "f",
+      "the_word": "La viande",
+      "imageLink": "https://example.com/viande_image.jpg",
+      "eng_word": "meat",
+      "french_sentence": "La viande est cuite à la perfection.",
+      "eng_sentence": "The meat is cooked to perfection."
+    },
+    {
+      "word": "tomate",
+      "gender": "f",
+      "the_word": "La tomate",
+      "imageLink": "https://example.com/tomate_image.jpg",
+      "eng_word": "tomato",
+      "french_sentence": "La tomate est rouge et juteuse.",
+      "eng_sentence": "The tomato is red and juicy."
+    },
+    {
+      "word": "sandwich",
+      "gender": "m",
+      "the_word": "Le sandwich",
+      "imageLink": "https://example.com/sandwich_image.jpg",
+      "eng_word": "sandwich",
+      "french_sentence": "Le sandwich est délicieux.",
+      "eng_sentence": "The sandwich is delicious."
+    },
+    {
+      "word": "baguette",
+      "gender": "f",
+      "the_word": "La baguette",
+      "imageLink": "https://example.com/baguette_image.jpg",
+      "eng_word": "baguette",
+      "french_sentence": "La baguette est un pain français traditionnel.",
+      "eng_sentence": "The baguette is a traditional French bread."
+    },
+    {
+      "word": "soupe",
+      "gender": "f",
+      "the_word": "La soupe",
+      "imageLink": "https://example.com/soupe_image.jpg",
+      "eng_word": "soup",
+      "french_sentence": "La soupe est chaude et réconfortante.",
+      "eng_sentence": "The soup is hot and comforting."
+    },
+    {
+      "word": "eau",
+      "gender": "f",
+      "the_word": "L'eau",
+      "imageLink": "https://example.com/eau_image.jpg",
+      "eng_word": "water",
+      "french_sentence": "L'eau est essentielle à la vie.",
+      "eng_sentence": "Water is essential for life."
+    },
+    {
+      "word": "alcool",
+      "gender": "m",
+      "the_word": "L'alcool",
+      "imageLink": "https://example.com/alcool_image.jpg",
+      "eng_word": "alcohol",
+      "french_sentence": "L'alcool est interdit aux mineurs.",
+      "eng_sentence": "Alcohol is prohibited for minors."
+    },
+    {
+      "word": "oeuf",
+      "gender": "m",
+      "the_word": "L'oeuf",
+      "imageLink": "https://example.com/oeuf_image.jpg",
+      "eng_word": "egg",
+      "french_sentence": "L'oeuf est utilisé dans de nombreuses recettes.",
+      "eng_sentence": "Egg is used in many recipes."
+    },
+    {
+      "word": "oignon",
+      "gender": "m",
+      "the_word": "L'oignon",
+      "imageLink": "https://example.com/oignon_image.jpg",
+      "eng_word": "onion",
+      "french_sentence": "L'oignon ajoute de la saveur aux plats.",
+      "eng_sentence": "Onion adds flavor to dishes."
+    },
+    {
+      "word": "salade",
+      "gender": "f",
+      "the_word": "La salade",
+      "imageLink": "https://example.com/salade_image.jpg",
+      "eng_word": "salad",
+      "french_sentence": "La salade est fraîche et croquante.",
+      "eng_sentence": "The salad is fresh and crunchy."
+    },
+    {
+      "word": "riz",
+      "gender": "m",
+      "the_word": "Le riz",
+      "imageLink": "https://example.com/riz_image.jpg",
+      "eng_word": "rice",
+      "french_sentence": "Le riz accompagne de nombreux plats.",
+      "eng_sentence": "Rice accompanies many dishes."
+    },
+    {
+      "word": "pain",
+      "gender": "m",
+      "the_word": "Le pain",
+      "imageLink": "https://example.com/pain_image.jpg",
+      "eng_word": "bread",
+      "french_sentence": "Le pain est croustillant à l'extérieur et moelleux à l'intérieur.",
+      "eng_sentence": "The bread is crispy on the outside and soft on the inside."
+    },
+    {
+      "word": "vin",
+      "gender": "m",
+      "the_word": "Le vin",
+      "imageLink": "https://example.com/vin_image.jpg",
+      "eng_word": "wine",
+      "french_sentence": "Le vin est apprécié lors des repas.",
+      "eng_sentence": "Wine is enjoyed during meals."
+    },
+    {
+      "word": "bière",
+      "gender": "f",
+      "the_word": "La bière",
+      "imageLink": "https://example.com/biere_image.jpg",
+      "eng_word": "beer, ale, lager",
+      "french_sentence": "La bière est une boisson rafraîchissante.",
+      "eng_sentence": "Beer is a refreshing beverage."
+    },
+    {
+      "word": "cuisine",
+      "gender": "f",
+      "the_word": "La cuisine",
+      "imageLink": "https://example.com/cuisine_image.jpg",
+      "eng_word": "kitchen, cuisine",
+      "french_sentence": "La cuisine est l'endroit où l'on prépare les repas.",
+      "eng_sentence": "The kitchen is the place where meals are prepared."
     }
   ]
 }
