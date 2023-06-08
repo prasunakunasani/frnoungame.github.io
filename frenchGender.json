@@ -470,15 +470,6 @@
       "eng_sentence": "The condition for success is to work hard."
     },
     {
-      "word": "bâtiment",
-      "gender": "m",
-      "the_word": "Un bâtiment",
-      "imageLink": "https://example.com/building_image.jpg",
-      "eng_word": "building",
-      "french_sentence": "Le Louvre est un célèbre bâtiment à Paris.",
-      "eng_sentence": "The Louvre is a famous building in Paris."
-    },
-    {
       "word": "situation",
       "gender": "f",
       "the_word": "Une situation",
@@ -558,6 +549,15 @@
       "eng_word": "building",
       "french_sentence": "Le nouvel édifice est impressionnant avec son architecture moderne.",
       "eng_sentence": "The new building is impressive with its modern architecture."
+    },
+    {
+      "word": "bâtiment",
+      "gender": "m",
+      "the_word": "Un bâtiment",
+      "imageLink": "https://example.com/building_image.jpg",
+      "eng_word": "building",
+      "french_sentence": "Le Louvre est un célèbre bâtiment à Paris.",
+      "eng_sentence": "The Louvre is a famous building in Paris."
     },
     {
       "word": "couverture",

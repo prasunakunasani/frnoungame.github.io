@@ -1,3 +1,9 @@
+// Update the speak function to accept an element ID as an argument
+function speak(elementId) {
+    responsiveVoice.speak(document.getElementById(elementId).textContent, "French Female");
+}
+
+
 // Load the nouns data from a JSON file
 fetch("frenchGender.json")
     .then((response) => response.json())
@@ -50,7 +56,7 @@ fetch("frenchGender.json")
             imageElement.src = nouns[currentNounIndex].imageLink;
             frenchWordElement.textContent = nouns[currentNounIndex].the_word;
             engWordElement.textContent = "Eng: "+nouns[currentNounIndex].eng_word;
-            frSentenceElement.textContent = "Eng: "+nouns[currentNounIndex].french_sentence;
+            frSentenceElement.textContent = nouns[currentNounIndex].french_sentence;
             engSentenceElement.textContent = "Eng: "+nouns[currentNounIndex].eng_sentence;
 
         });
