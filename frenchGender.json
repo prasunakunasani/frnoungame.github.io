@@ -2198,15 +2198,6 @@
       "eng_sentence": "The sandwich is delicious."
     },
     {
-      "word": "baguette",
-      "gender": "f",
-      "the_word": "La baguette",
-      "imageLink": "https://example.com/baguette_image.jpg",
-      "eng_word": "baguette",
-      "french_sentence": "La baguette est un pain français traditionnel.",
-      "eng_sentence": "The baguette is a traditional French bread."
-    },
-    {
       "word": "soupe",
       "gender": "f",
       "the_word": "La soupe",
@@ -2311,8 +2302,8 @@
       "the_word": "L'araignée",
       "imageLink": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9f/Spider-Woman_%28Jessica_Drew%29_by_Javier_Rodriguez.jpg/220px-Spider-Woman_%28Jessica_Drew%29_by_Javier_Rodriguez.jpg",
       "eng_word": "spider",
-      "french_sentence": "L'araignée tisse une toile pour attraper ses proies.",
-      "eng_sentence": "The spider weaves a web to catch its prey."
+      "french_sentence": "L'araignée tisse une toile.",
+      "eng_sentence": "The spider spins a web."
     },
     {
       "word": "magicien",
@@ -2349,15 +2340,6 @@
       "eng_word": "result",
       "french_sentence": "Le résultat montre le succès ou l'échec d'une action.",
       "eng_sentence": "The result shows the success or failure of an action."
-    },
-    {
-      "word": "chimie",
-      "gender": "f",
-      "the_word": "La chimie",
-      "imageLink": "https://example.com/chimie_image.jpg",
-      "eng_word": "chemistry",
-      "french_sentence": "La chimie étudie les propriétés et les transformations de la matière.",
-      "eng_sentence": "Chemistry studies the properties and transformations of matter."
     },
     {
       "word": "boisson",
@@ -2529,15 +2511,6 @@
       "eng_word": "bread",
       "french_sentence": "Le pain est délicieux.",
       "eng_sentence": "The bread is delicious."
-    },
-    {
-      "word": "chocolat",
-      "gender": "m",
-      "the_word": "Le chocolat",
-      "imageLink": "https://example.com/chocolat_image.jpg",
-      "eng_word": "chocolate",
-      "french_sentence": "Le chocolat est sucré et savoureux.",
-      "eng_sentence": "The chocolate is sweet and tasty."
     },
     {
       "word": "pâtisserie",
@@ -2808,6 +2781,582 @@
       "eng_word": "test",
       "french_sentence": "Le test évalue tes connaissances.",
       "eng_sentence": "The test evaluates your knowledge."
+    },
+    {
+      "word": "changement",
+      "gender": "m",
+      "the_word": "Le changement",
+      "imageLink": "https://example.com/changement_image.jpg",
+      "eng_word": "change",
+      "french_sentence": "Le changement est inévitable.",
+      "eng_sentence": "Change is inevitable."
+    },
+    {
+      "word": "température",
+      "gender": "f",
+      "the_word": "La température",
+      "imageLink": "https://example.com/temperature_image.jpg",
+      "eng_word": "temperature",
+      "french_sentence": "La température est élevée aujourd'hui.",
+      "eng_sentence": "The temperature is high today."
+    },
+    {
+      "word": "chimie",
+      "gender": "f",
+      "the_word": "La chimie",
+      "imageLink": "https://example.com/chimie_image.jpg",
+      "eng_word": "chemistry",
+      "french_sentence": "La chimie est une science fascinante.",
+      "eng_sentence": "Chemistry is a fascinating science."
+    },
+    {
+      "word": "poisson",
+      "gender": "m",
+      "the_word": "Le poisson",
+      "imageLink": "https://example.com/poisson_image.jpg",
+      "eng_word": "fish",
+      "french_sentence": "Le poisson nage dans l'eau.",
+      "eng_sentence": "The fish swims in the water."
+    },
+    {
+      "word": "carotte",
+      "gender": "f",
+      "the_word": "La carotte",
+      "imageLink": "https://example.com/carotte_image.jpg",
+      "eng_word": "carrot",
+      "french_sentence": "La carotte est un légume orange.",
+      "eng_sentence": "The carrot is an orange vegetable."
+    },
+    {
+      "word": "sel",
+      "gender": "m",
+      "the_word": "Le sel",
+      "imageLink": "https://example.com/sel_image.jpg",
+      "eng_word": "salt",
+      "french_sentence": "Le sel donne de la saveur aux plats.",
+      "eng_sentence": "Salt adds flavor to dishes."
+    },
+    {
+      "word": "sucre",
+      "gender": "m",
+      "the_word": "Le sucre",
+      "imageLink": "https://example.com/sucre_image.jpg",
+      "eng_word": "sugar",
+      "french_sentence": "Le sucre est utilisé pour sucrer les boissons.",
+      "eng_sentence": "Sugar is used to sweeten beverages."
+    },
+    {
+      "word": "poivre",
+      "gender": "m",
+      "the_word": "Le poivre",
+      "imageLink": "https://example.com/poivre_image.jpg",
+      "eng_word": "pepper",
+      "french_sentence": "Le poivre ajoute de la saveur aux plats.",
+      "eng_sentence": "Pepper adds flavor to dishes."
+    },
+    {
+      "word": "poulet",
+      "gender": "m",
+      "the_word": "Le poulet",
+      "imageLink": "https://example.com/poulet_image.jpg",
+      "eng_word": "chicken",
+      "french_sentence": "Le poulet est une viande populaire.",
+      "eng_sentence": "Chicken is a popular meat."
+    },
+    {
+      "word": "porc",
+      "gender": "m",
+      "the_word": "Le porc",
+      "imageLink": "https://example.com/porc_image.jpg",
+      "eng_word": "pork",
+      "french_sentence": "Le porc est utilisé dans de nombreux plats.",
+      "eng_sentence": "Pork is used in many dishes."
+    },
+    {
+      "word": "huile",
+      "gender": "f",
+      "the_word": "L'huile",
+      "imageLink": "https://example.com/huile_image.jpg",
+      "eng_word": "oil",
+      "french_sentence": "L'huile est utilisée pour cuisiner.",
+      "eng_sentence": "Oil is used for cooking."
+    },
+    {
+      "word": "citron",
+      "gender": "m",
+      "the_word": "Le citron",
+      "imageLink": "https://example.com/citron_image.jpg",
+      "eng_word": "lemon",
+      "french_sentence": "Le citron est acide.",
+      "eng_sentence": "The lemon is sour."
+    },
+    {
+      "word": "chocolat",
+      "gender": "m",
+      "the_word": "Le chocolat",
+      "imageLink": "https://example.com/chocolat_image.jpg",
+      "eng_word": "chocolate",
+      "french_sentence": "Le chocolat est délicieux.",
+      "eng_sentence": "Chocolate is delicious."
+    },
+    {
+      "word": "bœuf",
+      "gender": "m",
+      "the_word": "Le bœuf",
+      "imageLink": "https://example.com/boeuf_image.jpg",
+      "eng_word": "beef",
+      "french_sentence": "Le bœuf est une viande rouge.",
+      "eng_sentence": "Beef is red meat."
+    },
+    {
+      "word": "raisin",
+      "gender": "m",
+      "the_word": "Le raisin",
+      "imageLink": "https://example.com/raisin_image.jpg",
+      "eng_word": "grape",
+      "french_sentence": "Le raisin est utilisé pour faire du vin.",
+      "eng_sentence": "Grapes are used to make wine."
+    },
+    {
+      "word": "jus",
+      "gender": "m",
+      "the_word": "Le jus",
+      "imageLink": "https://example.com/jus_image.jpg",
+      "eng_word": "juice",
+      "french_sentence": "Le jus d'orange est rafraîchissant.",
+      "eng_sentence": "Orange juice is refreshing."
+    },
+    {
+      "word": "confiture",
+      "gender": "f",
+      "the_word": "La confiture",
+      "imageLink": "https://example.com/confiture_image.jpg",
+      "eng_word": "jam",
+      "french_sentence": "La confiture est sucrée.",
+      "eng_sentence": "Jam is sweet."
+    },
+    {
+      "word": "animal",
+      "gender": "m",
+      "the_word": "L'animal",
+      "imageLink": "https://example.com/animal_image.jpg",
+      "eng_word": "animal",
+      "french_sentence": "L'animal est une créature vivante.",
+      "eng_sentence": "An animal is a living creature."
+    },
+    {
+      "word": "oiseau",
+      "gender": "m",
+      "the_word": "L'oiseau",
+      "imageLink": "https://example.com/oiseau_image.jpg",
+      "eng_word": "bird",
+      "french_sentence": "L'oiseau vole dans le ciel.",
+      "eng_sentence": "The bird flies in the sky."
+    },
+    {
+      "word": "éléphant",
+      "gender": "m",
+      "the_word": "L'éléphant",
+      "imageLink": "https://example.com/elephant_image.jpg",
+      "eng_word": "elephant",
+      "french_sentence": "L'éléphant est un animal très grand.",
+      "eng_sentence": "The elephant is a very large animal."
+    },
+    {
+      "word": "ours",
+      "gender": "m",
+      "the_word": "L'ours",
+      "imageLink": "https://example.com/ours_image.jpg",
+      "eng_word": "bear",
+      "french_sentence": "L'ours hiberne en hiver.",
+      "eng_sentence": "The bear hibernates in winter."
+    },
+    {
+      "word": "tortue",
+      "gender": "f",
+      "the_word": "La tortue",
+      "imageLink": "https://example.com/tortue_image.jpg",
+      "eng_word": "turtle",
+      "french_sentence": "La tortue se déplace lentement.",
+      "eng_sentence": "The turtle moves slowly."
+    },
+    {
+      "word": "lion",
+      "gender": "m",
+      "the_word": "Le lion",
+      "imageLink": "https://example.com/lion_image.jpg",
+      "eng_word": "lion",
+      "french_sentence": "Le lion est le roi de la jungle.",
+      "eng_sentence": "The lion is the king of the jungle."
+    },
+    {
+      "word": "vache",
+      "gender": "f",
+      "the_word": "La vache",
+      "imageLink": "https://example.com/vache_image.jpg",
+      "eng_word": "cow",
+      "french_sentence": "La vache produit du lait.",
+      "eng_sentence": "The cow produces milk."
+    },
+    {
+      "word": "cochon",
+      "gender": "m",
+      "the_word": "Le cochon",
+      "imageLink": "https://example.com/cochon_image.jpg",
+      "eng_word": "pig",
+      "french_sentence": "Le cochon aime se rouler dans la boue.",
+      "eng_sentence": "The pig likes to roll in the mud."
+    },
+    {
+      "word": "mouche",
+      "gender": "f",
+      "the_word": "La mouche",
+      "imageLink": "https://example.com/mouche_image.jpg",
+      "eng_word": "fly",
+      "french_sentence": "La mouche vole autour de la nourriture.",
+      "eng_sentence": "The fly flies around the food."
+    },
+    {
+      "word": "singe",
+      "gender": "m",
+      "the_word": "Le singe",
+      "imageLink": "https://example.com/singe_image.jpg",
+      "eng_word": "monkey",
+      "french_sentence": "Le singe aime grimper aux arbres.",
+      "eng_sentence": "The monkey likes to climb trees."
+    },
+    {
+      "word": "requin",
+      "gender": "m",
+      "the_word": "Le requin",
+      "imageLink": "https://example.com/requin_image.jpg",
+      "eng_word": "shark",
+      "french_sentence": "Le requin vit dans l'océan.",
+      "eng_sentence": "The shark lives in the ocean."
+    },
+    {
+      "word": "abeille",
+      "gender": "f",
+      "the_word": "L'abeille",
+      "imageLink": "https://example.com/abeille_image.jpg",
+      "eng_word": "bee",
+      "french_sentence": "L'abeille produit du miel.",
+      "eng_sentence": "The bee produces honey."
+    },
+    {
+      "word": "tigre",
+      "gender": "m",
+      "the_word": "Le tigre",
+      "imageLink": "https://example.com/tigre_image.jpg",
+      "eng_word": "tiger",
+      "french_sentence": "Le tigre a des rayures sur son pelage.",
+      "eng_sentence": "The tiger has stripes on its fur."
+    },
+    {
+      "word": "dauphin",
+      "gender": "m",
+      "the_word": "Le dauphin",
+      "imageLink": "https://example.com/dauphin_image.jpg",
+      "eng_word": "dolphin",
+      "french_sentence": "Le dauphin est un mammifère marin intelligent.",
+      "eng_sentence": "The dolphin is an intelligent marine mammal."
+    },
+    {
+      "word": "serpent",
+      "gender": "m",
+      "the_word": "Le serpent",
+      "imageLink": "https://example.com/serpent_image.jpg",
+      "eng_word": "snake",
+      "french_sentence": "Le serpent rampe sur le sol.",
+      "eng_sentence": "The snake slithers on the ground."
+    },
+    {
+      "word": "souris",
+      "gender": "f",
+      "the_word": "La souris",
+      "imageLink": "https://example.com/souris_image.jpg",
+      "eng_word": "mouse",
+      "french_sentence": "La souris est un petit rongeur.",
+      "eng_sentence": "The mouse is a small rodent."
+    },
+    {
+      "word": "papillon",
+      "gender": "m",
+      "the_word": "Le papillon",
+      "imageLink": "https://example.com/papillon_image.jpg",
+      "eng_word": "butterfly",
+      "french_sentence": "Le papillon a de belles couleurs.",
+      "eng_sentence": "The butterfly has beautiful colors."
+    },
+    {
+      "word": "insecte",
+      "gender": "m",
+      "the_word": "L'insecte",
+      "imageLink": "https://example.com/insecte_image.jpg",
+      "eng_word": "insect",
+      "french_sentence": "L'insecte a six pattes.",
+      "eng_sentence": "The insect has six legs."
+    },
+    {
+      "word": "fourmi",
+      "gender": "f",
+      "the_word": "La fourmi",
+      "imageLink": "https://example.com/fourmi_image.jpg",
+      "eng_word": "ant",
+      "french_sentence": "La fourmi travaille en groupe.",
+      "eng_sentence": "The ant works in a group."
+    },
+    {
+      "word": "baleine",
+      "gender": "f",
+      "the_word": "La baleine",
+      "imageLink": "https://example.com/baleine_image.jpg",
+      "eng_word": "whale",
+      "french_sentence": "La baleine est un mammifère marin géant.",
+      "eng_sentence": "The whale is a giant marine mammal."
+    },
+    {
+      "word": "loup",
+      "gender": "m",
+      "the_word": "Le loup",
+      "imageLink": "https://example.com/loup_image.jpg",
+      "eng_word": "wolf",
+      "french_sentence": "Le loup hurle à la lune.",
+      "eng_sentence": "The wolf howls at the moon."
+    },
+    {
+      "word": "lapin",
+      "gender": "m",
+      "the_word": "Le lapin",
+      "imageLink": "https://example.com/lapin_image.jpg",
+      "eng_word": "rabbit",
+      "french_sentence": "Le lapin aime manger des carottes.",
+      "eng_sentence": "The rabbit likes to eat carrots."
+    },
+    {
+      "word": "poule",
+      "gender": "f",
+      "the_word": "La poule",
+      "imageLink": "https://example.com/poule_image.jpg",
+      "eng_word": "chicken",
+      "french_sentence": "La poule pond des œufs.",
+      "eng_sentence": "The chicken lays eggs."
+    },
+    {
+      "word": "canard",
+      "gender": "m",
+      "the_word": "Le canard",
+      "imageLink": "https://example.com/canard_image.jpg",
+      "eng_word": "duck",
+      "french_sentence": "Le canard nage dans l'étang.",
+      "eng_sentence": "The duck swims in the pond."
+    },
+    {
+      "word": "fruit",
+      "gender": "m",
+      "the_word": "Le fruit",
+      "imageLink": "https://example.com/fruit_image.jpg",
+      "eng_word": "fruit",
+      "french_sentence": "Le fruit est une collation saine.",
+      "eng_sentence": "The fruit is a healthy snack."
+    },
+    {
+      "word": "fraise",
+      "gender": "f",
+      "the_word": "La fraise",
+      "imageLink": "https://example.com/fraise_image.jpg",
+      "eng_word": "strawberry",
+      "french_sentence": "La fraise est sucrée et juteuse.",
+      "eng_sentence": "The strawberry is sweet and juicy."
+    },
+    {
+      "word": "baguette",
+      "gender": "f",
+      "the_word": "La baguette",
+      "imageLink": "https://example.com/baguette_image.jpg",
+      "eng_word": "baguette",
+      "french_sentence": "La baguette est un pain français traditionnel.",
+      "eng_sentence": "The baguette is a traditional French bread."
+    },
+    {
+      "word": "pâte",
+      "gender": "f",
+      "the_word": "La pâte",
+      "imageLink": "https://example.com/pate_image.jpg",
+      "eng_word": "pasta",
+      "french_sentence": "La pâte est utilisée pour faire des plats de pâtes.",
+      "eng_sentence": "The pasta is used to make pasta dishes."
+    },
+    {
+      "word": "frite",
+      "gender": "f",
+      "the_word": "La frite",
+      "imageLink": "https://example.com/frite_image.jpg",
+      "eng_word": "French fry",
+      "french_sentence": "La frite accompagne souvent les hamburgers.",
+      "eng_sentence": "French fries often accompany hamburgers."
+    },
+    {
+      "word": "légume",
+      "gender": "m",
+      "the_word": "Le légume",
+      "imageLink": "https://example.com/legume_image.jpg",
+      "eng_word": "vegetable",
+      "french_sentence": "Le légume est bon pour la santé.",
+      "eng_sentence": "The vegetable is good for health."
+    },
+    {
+      "word": "haricot",
+      "gender": "m",
+      "the_word": "Le haricot",
+      "imageLink": "https://example.com/haricot_image.jpg",
+      "eng_word": "bean",
+      "french_sentence": "Le haricot est une source de protéines végétales.",
+      "eng_sentence": "The bean is a source of plant protein."
+    },
+    {
+      "word": "sac",
+      "gender": "m",
+      "the_word": "Le sac",
+      "imageLink": "https://example.com/sac_image.jpg",
+      "eng_word": "bag",
+      "french_sentence": "Le sac est utilisé pour transporter des objets.",
+      "eng_sentence": "The bag is used to carry objects."
+    },
+    {
+      "word": "poche",
+      "gender": "f",
+      "the_word": "La poche",
+      "imageLink": "https://example.com/poche_image.jpg",
+      "eng_word": "pocket",
+      "french_sentence": "La poche est pratique pour ranger de petits objets.",
+      "eng_sentence": "The pocket is convenient for storing small objects."
+    },
+    {
+      "word": "vêtement",
+      "gender": "m",
+      "the_word": "Le vêtement",
+      "imageLink": "https://example.com/vetement_image.jpg",
+      "eng_word": "item of clothing",
+      "french_sentence": "Le vêtement est essentiel pour se protéger du froid.",
+      "eng_sentence": "The item of clothing is essential for protecting oneself from the cold."
+    },
+    {
+      "word": "pantalon",
+      "gender": "m",
+      "the_word": "Le pantalon",
+      "imageLink": "https://example.com/pantalon_image.jpg",
+      "eng_word": "trousers",
+      "french_sentence": "Le pantalon est un vêtement pour les jambes.",
+      "eng_sentence": "The trousers are a garment for the legs."
+    },
+    {
+      "word": "chaussure",
+      "gender": "f",
+      "the_word": "La chaussure",
+      "imageLink": "https://example.com/chaussure_image.jpg",
+      "eng_word": "shoe",
+      "french_sentence": "La chaussure protège les pieds.",
+      "eng_sentence": "The shoe protects the feet."
+    },
+    {
+      "word": "ceinture",
+      "gender": "f",
+      "the_word": "La ceinture",
+      "imageLink": "https://example.com/ceinture_image.jpg",
+      "eng_word": "belt",
+      "french_sentence": "La ceinture maintient les pantalons en place.",
+      "eng_sentence": "The belt keeps the trousers in place."
+    },
+    {
+      "word": "chemise",
+      "gender": "f",
+      "the_word": "La chemise",
+      "imageLink": "https://example.com/chemise_image.jpg",
+      "eng_word": "shirt",
+      "french_sentence": "La chemise est un vêtement pour le haut du corps.",
+      "eng_sentence": "The shirt is a garment for the upper body."
+    },
+    {
+      "word": "jupe",
+      "gender": "f",
+      "the_word": "La jupe",
+      "imageLink": "https://example.com/jupe_image.jpg",
+      "eng_word": "skirt",
+      "french_sentence": "La jupe est un vêtement pour les femmes.",
+      "eng_sentence": "The skirt is a garment for women."
+    },
+    {
+      "word": "costume",
+      "gender": "m",
+      "the_word": "Le costume",
+      "imageLink": "https://example.com/costume_image.jpg",
+      "eng_word": "suit",
+      "french_sentence": "Le costume est une tenue formelle.",
+      "eng_sentence": "The suit is a formal outfit."
+    },
+    {
+      "word": "chapeau",
+      "gender": "m",
+      "the_word": "Le chapeau",
+      "imageLink": "https://example.com/chapeau_image.jpg",
+      "eng_word": "hat",
+      "french_sentence": "Le chapeau protège la tête du soleil.",
+      "eng_sentence": "The hat protects the head from the sun."
+    },
+    {
+      "word": "manteau",
+      "gender": "m",
+      "the_word": "Le manteau",
+      "imageLink": "https://example.com/manteau_image.jpg",
+      "eng_word": "coat",
+      "french_sentence": "Le manteau tient chaud en hiver.",
+      "eng_sentence": "The coat keeps you warm in winter."
+    },
+    {
+      "word": "botte",
+      "gender": "f",
+      "the_word": "La botte",
+      "imageLink": "https://example.com/botte_image.jpg",
+      "eng_word": "boot",
+      "french_sentence": "La botte est un type de chaussure.",
+      "eng_sentence": "The boot is a type of shoe."
+    },
+    {
+      "word": "chaussette",
+      "gender": "f",
+      "the_word": "La chaussette",
+      "imageLink": "https://example.com/chaussette_image.jpg",
+      "eng_word": "sock",
+      "french_sentence": "La chaussette garde les pieds au chaud.",
+      "eng_sentence": "The sock keeps the feet warm."
+    },
+    {
+      "word": "veste",
+      "gender": "f",
+      "the_word": "La veste",
+      "imageLink": "https://example.com/veste_image.jpg",
+      "eng_word": "jacket",
+      "french_sentence": "La veste est un vêtement léger.",
+      "eng_sentence": "The jacket is a lightweight garment."
+    },
+    {
+      "word": "jean",
+      "gender": "m",
+      "the_word": "Le jean",
+      "imageLink": "https://example.com/jean_image.jpg",
+      "eng_word": "jeans",
+      "french_sentence": "Le jean est un pantalon en denim.",
+      "eng_sentence": "Jeans are denim trousers."
+    },
+    {
+      "word": "parapluie",
+      "gender": "m",
+      "the_word": "Le parapluie",
+      "imageLink": "https://example.com/parapluie_image.jpg",
+      "eng_word": "umbrella",
+      "french_sentence": "Le parapluie protège de la pluie.",
+      "eng_sentence": "The umbrella protects from the rain."
     }
   ]
 }
