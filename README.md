@@ -1,9 +1,6 @@
 Eng/French dictionary that shows gender:
 https://www.wordreference.com/
 
-Later to add audio:
-https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&q=Un%20Femme&tl=Fr
-
 French practice exams:
 https://www.canada.ca/content/dam/psc-cfp/documents/services/second-language-testing-public-service/fr-reading-test-booklet-100919.pdf
 
@@ -11,15 +8,9 @@ Ideas:
 * "add levels, lives and a timer, and when the level increases the timer gets shorter and shorter"
 * keyboard navigation - m for masculine and f for feminine
 
-la boisson (fem) - drink, beverage
-le café (masc) - coffee, cafe
-le thé (masc) - tea
-la crêpe (fem) - crepe
-le repas (masc) - meal
-le beurre (masc) - butter
-la banane (fem) - banana
-le fromage (masc) - cheese
-le bonbon (masc) - sweet, candy
+le changement (masc)
+la température (fem)
+la chimie (fem)
 le poisson (masc) - fish (singular)
 la carotte (fem) - carrot
 le sel (masc) - salt
@@ -164,7 +155,6 @@ la semaine (fem): week
 la naissance (fem): birth
 la jeunesse (fem): youth
 hier: yesterday
-les vacances (fem): holiday
 dimanche: Sunday
 la fête (fem): celebration
 juin: June
@@ -198,8 +188,6 @@ vendredi: Friday
 janvier: January
 le travail (masc): work, job, task
 la reine (fem): queen
-l'emploi (masc): employment
-le métier (masc): trade, occupation, job
 la police (fem): police
 le professeur (masc): professor
 le docteur (masc): doctor
@@ -229,7 +217,6 @@ le jouet (masc): toy
 la fourchette (fem): fork
 l'assiette (fem): plate
 le miroir (masc): mirror
-le tapis (masc): carpet, rug
 la lampe (fem): lamp
 la douche (fem): shower
 le shampooing (masc): shampoo
@@ -300,7 +287,6 @@ l'équipement (masc): equipment
 le billet (masc): ticket
 la clé (fem): key
 la radio (fem): radio
-les lunettes (fem): glasses
 le document (masc): document
 la poudre (fem): powder
 le plateau (masc): plateau, tray, stage
@@ -341,7 +327,6 @@ l'étage (masc): floor, level, storey
 l'appartement (masc): flat, apartment
 l'adresse (fem): address
 la plage (fem): beach
-le prisonnier (masc): prisoner, inmate
 le bar (masc): bar
 le parc (masc): park
 la cave (fem): cellar
@@ -359,6 +344,13 @@ le pont (masc): bridge
 la banque (fem): bank
 la poubelle (fem): bin, trash can
 les États-Unis (masc): United States
+l'oeil (masc): eye
+la nouvelle (fem): news
+la lunette (fem): glasses
+la vacance (fem): holiday
+l'histoire (fem): story
+le média (masc): medium
+le devoir (masc): homework
 le site (masc): site
 l'Angleterre (fem): England
 l'Asie (fem): Asia
@@ -436,7 +428,6 @@ la peur (fem): fear
 le plaisir (masc): pleasure
 la pensée (fem): thought
 le bonheur (masc): happiness
-le goût (masc): taste
 le sentiment (masc): feeling, emotion, sentiment
 le désir (masc): desire
 la joie (fem): joy
@@ -515,7 +506,6 @@ le membre (masc): member
 le signe (masc): sign
 l'expérience (fem): experience, experiment
 le hasard (masc): chance
-le résultat (masc): result
 l'occasion (fem): opportunity
 le choix (masc): choice
 le produit (masc): product
@@ -542,7 +532,6 @@ le langage (masc): language
 l'appel (masc): call
 le message (masc): message
 l'information (fem): information
-les nouvelles (fem): the news
 le contact (masc): contact
 le commentaire (masc): commentary
 la demande (fem): application, request
@@ -560,7 +549,6 @@ le thème (masc): theme
 le débat (masc): debate
 le titre (masc): title
 l'entretien (masc): maintenance, upkeep, interview
-les médias (masc): media
 la traduction (fem): translation
 l'internet (masc): internet
 l'argument (masc): argument
@@ -646,7 +634,6 @@ la disparition (fem): disappearance
 l'identité (fem): identity
 la publicité (fem): advertising
 l'origine (fem): origin
-les devoirs: homework
 l'étape (fem): stage, step
 le dommage (masc): damage
 la conférence (fem): conference
@@ -767,7 +754,6 @@ le cœur (masc): heart
 le visage (masc): face
 la face (fem): side
 l'âge (masc): age
-les yeux (masc): eyes
 le pied (masc): foot
 la bouche (fem): mouth
 le sang (masc): blood
@@ -861,7 +847,6 @@ l'étude (fem): study
 la salle (fem): room
 la classe (fem): class, lesson
 l'élève (masc/fem): pupil, student
-le concours (masc): entrance exam
 le directeur (masc): director
 la bibliothèque (fem): library
 le lycée (masc): high school

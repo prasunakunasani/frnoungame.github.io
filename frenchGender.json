@@ -434,15 +434,6 @@
       "eng_sentence": "Christmas is celebrated in December."
     },
     {
-      "word": "père",
-      "gender": "m",
-      "the_word": "le père",
-      "imageLink": "",
-      "eng_word": "the father",
-      "french_sentence": "Mon père est très gentil.",
-      "eng_sentence": "My father is very kind."
-    },
-    {
       "word": "frère",
       "gender": "m",
       "the_word": "le frère",
@@ -461,15 +452,6 @@
       "eng_sentence": "The condition for success is to work hard."
     },
     {
-      "word": "personne",
-      "gender": "f",
-      "the_word": "Une personne",
-      "imageLink": "https://example.com/person_image.jpg",
-      "eng_word": "person",
-      "french_sentence": "Cette personne est très talentueuse.",
-      "eng_sentence": "This person is very talented."
-    },
-    {
       "word": "responsable",
       "gender": "m",
       "the_word": "Un responsable",
@@ -483,24 +465,15 @@
       "gender": "m",
       "the_word": "Un remboursement",
       "imageLink": "https://example.com/refund_image.jpg",
-      "eng_word": "refund",
+      "eng_word": "refund/reimbursement",
       "french_sentence": "J'ai demandé un remboursement pour l'article défectueux.",
       "eng_sentence": "I requested a refund for the defective item."
-    },
-    {
-      "word": "remboursement",
-      "gender": "m",
-      "the_word": "Un remboursement",
-      "imageLink": "https://example.com/reimbursement_image.jpg",
-      "eng_word": "reimbursement",
-      "french_sentence": "La compagnie a effectué le remboursement des frais de voyage.",
-      "eng_sentence": "The company reimbursed the travel expenses."
     },
     {
       "word": "rapport",
       "gender": "m",
       "the_word": "Un rapport",
-      "imageLink": "https://example.com/report_image.jpg",
+      "imageLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzjlte8UBrhyKsVjC1eMmhmQa-IAYeOD-z_IArns_fIAM3h5FFWgbD9Aepmcjh817wd1M&usqp=CAU",
       "eng_word": "report",
       "french_sentence": "Le chercheur a présenté un rapport détaillé sur ses découvertes.",
       "eng_sentence": "The researcher presented a detailed report on his findings."
@@ -524,18 +497,9 @@
       "eng_sentence": "The train was delayed due to a technical issue."
     },
     {
-      "word": "édifice",
+      "word": "édifice/bâtiment",
       "gender": "m",
-      "the_word": "Un édifice",
-      "imageLink": "https://example.com/edifice_image.jpg",
-      "eng_word": "building",
-      "french_sentence": "Le nouvel édifice est impressionnant avec son architecture moderne.",
-      "eng_sentence": "The new building is impressive with its modern architecture."
-    },
-    {
-      "word": "bâtiment",
-      "gender": "m",
-      "the_word": "Un bâtiment",
+      "the_word": "Un édifice/Un bâtiment",
       "imageLink": "https://example.com/building_image.jpg",
       "eng_word": "building",
       "french_sentence": "Le Louvre est un célèbre bâtiment à Paris.",
@@ -779,7 +743,7 @@
       "word": "télévision",
       "gender": "f",
       "the_word": "La télévision",
-      "imageLink": "https://example.com/television_image.jpg",
+      "imageLink": "https://png.pngtree.com/png-clipart/20190116/ourmid/pngtree-pink-tv-cartoon-tv-hand-drawn-tv-tv-decoration-png-image_397670.jpg",
       "eng_word": "television",
       "french_sentence": "J'aime regarder des émissions de télévision le soir.",
       "eng_sentence": "I enjoy watching television shows in the evening."
@@ -896,7 +860,7 @@
       "word": "cours de formation",
       "gender": "m",
       "the_word": "Le cours de formation",
-      "imageLink": "https://example.com/cours_formation_image.jpg",
+      "imageLink": "https://as1.ftcdn.net/v2/jpg/02/35/64/70/1000_F_235647009_gle7erENZ1PxtrjTk4H3xwngOtdjxkJU.jpg",
       "eng_word": "training course",
       "french_sentence": "Le cours de formation abordera différents sujets liés à la gestion de projet.",
       "eng_sentence": "The training course will cover various topics related to project management."
@@ -1095,7 +1059,7 @@
       "gender": "m",
       "the_word": "Le matériel",
       "imageLink": "https://example.com/materiel_image.jpg",
-      "eng_word": "material",
+      "eng_word": "material/equipment",
       "french_sentence": "J'ai besoin de nouveau matériel de bureau.",
       "eng_sentence": "I need new office material."
     },
@@ -1183,11 +1147,11 @@
     {
       "word": "personne",
       "gender": "f",
-      "the_word": "La personne",
-      "imageLink": "https://example.com/personne_image.jpg",
+      "the_word": "Une personne",
+      "imageLink": "https://example.com/person_image.jpg",
       "eng_word": "person",
-      "french_sentence": "Cette personne est très sympathique.",
-      "eng_sentence": "This person is very friendly."
+      "french_sentence": "Cette personne est très talentueuse.",
+      "eng_sentence": "This person is very talented."
     },
     {
       "word": "retour",
@@ -1197,15 +1161,6 @@
       "eng_word": "return",
       "french_sentence": "Je serai de retour demain matin.",
       "eng_sentence": "I will be back tomorrow morning."
-    },
-    {
-      "word": "travail",
-      "gender": "m",
-      "the_word": "Le travail",
-      "imageLink": "https://example.com/travail_image.jpg",
-      "eng_word": "work",
-      "french_sentence": "Je dois terminer mon travail avant la fin de la journée.",
-      "eng_sentence": "I need to finish my work by the end of the day."
     },
     {
       "word": "achat",
@@ -1280,9 +1235,9 @@
       "eng_sentence": "Security is a priority in our company."
     },
     {
-      "word": "carte",
+      "word": "carte/fiche",
       "gender": "f",
-      "the_word": "La carte",
+      "the_word": "La carte/La fiche",
       "imageLink": "https://example.com/carte_image.jpg",
       "eng_word": "card",
       "french_sentence": "J'ai besoin de ma carte d'identité pour voyager.",
@@ -1337,7 +1292,7 @@
       "word": "question",
       "gender": "f",
       "the_word": "La question",
-      "imageLink": "https://example.com/question_image.jpg",
+      "imageLink": "https://thumbs.dreamstime.com/b/pink-brain-funny-human-nervous-system-organ-cartoon-character-thinking-question-mark-vector-illustration-isolated-white-185007152.jpg",
       "eng_word": "question",
       "french_sentence": "Posez-moi une question, et je vous répondrai.",
       "eng_sentence": "Ask me a question, and I will answer you."
@@ -1440,15 +1395,6 @@
       "eng_word": "someone",
       "french_sentence": "Quelqu'un m'a appelé pendant que j'étais au téléphone.",
       "eng_sentence": "Someone called me while I was on the phone."
-    },
-    {
-      "word": "recherche",
-      "gender": "f",
-      "the_word": "La recherche",
-      "imageLink": "https://example.com/recherche_image.jpg",
-      "eng_word": "search",
-      "french_sentence": "Je dois faire une recherche approfondie avant de prendre une décision.",
-      "eng_sentence": "I need to do thorough research before making a decision."
     },
     {
       "word": "une",
@@ -1658,15 +1604,6 @@
       "eng_sentence": "Product quality is a priority for our company."
     },
     {
-      "word": "prix",
-      "gender": "m",
-      "the_word": "Le prix",
-      "imageLink": "https://example.com/prix_image.jpg",
-      "eng_word": "price",
-      "french_sentence": "Le prix des marchandises a augmenté en raison de la demande croissante.",
-      "eng_sentence": "The price of goods has increased due to the growing demand."
-    },
-    {
       "word": "division",
       "gender": "f",
       "the_word": "La division",
@@ -1706,7 +1643,7 @@
       "word": "projet",
       "gender": "m",
       "the_word": "Le projet",
-      "imageLink": "https://example.com/projets_image.jpg",
+      "imageLink": "https://media.istockphoto.com/id/1399269037/vector/business-roadmap-flat-design-vector-illustration-with-white-background.jpg?s=612x612&w=0&k=20&c=6bEX7_lmVOrR0ry-zeOB0Pldgz7DbN32unDp6DUJhqg=",
       "eng_word": "project",
       "french_sentence": "Le projet de construction débutera l'année prochaine.",
       "eng_sentence": "The construction project will start next year."
@@ -1746,15 +1683,6 @@
       "eng_word": "situation",
       "french_sentence": "La situation actuelle nécessite une attention immédiate.",
       "eng_sentence": "The current situation requires immediate attention."
-    },
-    {
-      "word": "résultat",
-      "gender": "m",
-      "the_word": "Le résultat",
-      "imageLink": "https://example.com/resultat_image.jpg",
-      "eng_word": "result",
-      "french_sentence": "Le résultat de l'examen sera annoncé demain.",
-      "eng_sentence": "The result of the exam will be announced tomorrow."
     },
     {
       "word": "étape",
@@ -1892,19 +1820,10 @@
       "eng_sentence": "You need a special permission to access this area."
     },
     {
-      "word": "matériel",
-      "gender": "m",
-      "the_word": "Le matériel",
-      "imageLink": "https://example.com/materiel_image.jpg",
-      "eng_word": "equipment",
-      "french_sentence": "Nous devons acheter du nouveau matériel pour notre laboratoire.",
-      "eng_sentence": "We need to buy new equipment for our laboratory."
-    },
-    {
       "word": "inspecteur",
       "gender": "m",
       "the_word": "L'inspecteur",
-      "imageLink": "https://example.com/inspecteurs_image.jpg",
+      "imageLink": "https://i.guim.co.uk/img/media/ffc016b01f45eeec94ff69dc59eb65a9137ae52a/0_95_3500_2101/master/3500.jpg?width=1200&height=900&quality=85&auto=format&fit=crop&s=915d4080291d752325c0a25518ac4602",
       "eng_word": "inspector",
       "french_sentence": "L'inspecteur de police est venu enquêter sur le vol.",
       "eng_sentence": "The police inspector came to investigate the theft."
@@ -1967,19 +1886,10 @@
       "word": "message",
       "gender": "m",
       "the_word": "Le message",
-      "imageLink": "https://example.com/message_image.jpg",
+      "imageLink": "https://www.nicepng.com/png/detail/365-3653799_two-cartoon-talking-bubbles-a-large-blue-one.png",
       "eng_word": "message",
       "french_sentence": "J'ai reçu un message important de mon collègue.",
       "eng_sentence": "I received an important message from my colleague."
-    },
-    {
-      "word": "tableau",
-      "gender": "m",
-      "the_word": "Le tableau",
-      "imageLink": "https://example.com/tableau_image.jpg",
-      "eng_word": "board",
-      "french_sentence": "Le professeur a écrit des notes au tableau.",
-      "eng_sentence": "The teacher wrote notes on the board."
     },
     {
       "word": "communication",
@@ -2025,15 +1935,6 @@
       "eng_word": "system",
       "french_sentence": "Le système informatique a été mis à jour pour améliorer la sécurité des données.",
       "eng_sentence": "The computer system has been updated to enhance data security."
-    },
-    {
-      "word": "fiche",
-      "gender": "f",
-      "the_word": "La fiche",
-      "imageLink": "https://example.com/fiches_image.jpg",
-      "eng_word": "card",
-      "french_sentence": "N'oubliez pas de remplir la fiche d'inscription.",
-      "eng_sentence": "Don't forget to fill out the registration card."
     },
     {
       "word": "directrice",
@@ -2201,7 +2102,7 @@
       "word": "pomme",
       "gender": "f",
       "the_word": "La pomme",
-      "imageLink": "https://example.com/pomme_image.jpg",
+      "imageLink": "https://img.freepik.com/free-vector/apple-fruit-cartoon-icon-illustration-food-fruit-icon-concept-isolated-flat-cartoon-style_138676-2922.jpg?w=2000",
       "eng_word": "apple",
       "french_sentence": "La pomme est rouge.",
       "eng_sentence": "The apple is red."
@@ -2264,7 +2165,7 @@
       "word": "nuit",
       "gender": "f",
       "the_word": "La nuit",
-      "imageLink": "https://example.com/nuit_image.jpg",
+      "imageLink": "https://thumbs.dreamstime.com/b/cartoon-town-night-purple-pink-silhouettes-houses-skyscrapers-background-stars-moon-vector-197626999.jpg",
       "eng_word": "night",
       "french_sentence": "La nuit est étoilée.",
       "eng_sentence": "The night is starry."
@@ -2291,7 +2192,7 @@
       "word": "sandwich",
       "gender": "m",
       "the_word": "Le sandwich",
-      "imageLink": "https://example.com/sandwich_image.jpg",
+      "imageLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMW_stkNl8hzCYCJxeER8inwAdeCgW_NC3eg&usqp=CAU",
       "eng_word": "sandwich",
       "french_sentence": "Le sandwich est délicieux.",
       "eng_sentence": "The sandwich is delicious."
@@ -2369,15 +2270,6 @@
       "eng_sentence": "Rice accompanies many dishes."
     },
     {
-      "word": "pain",
-      "gender": "m",
-      "the_word": "Le pain",
-      "imageLink": "https://example.com/pain_image.jpg",
-      "eng_word": "bread",
-      "french_sentence": "Le pain est croustillant à l'extérieur et moelleux à l'intérieur.",
-      "eng_sentence": "The bread is crispy on the outside and soft on the inside."
-    },
-    {
       "word": "vin",
       "gender": "m",
       "the_word": "Le vin",
@@ -2399,7 +2291,7 @@
       "word": "cuisine",
       "gender": "f",
       "the_word": "La cuisine",
-      "imageLink": "https://example.com/cuisine_image.jpg",
+      "imageLink": "https://img.freepik.com/premium-vector/stylish-pink-kitchen-design-with-built-hob-sink-refrigerator-vector-drawing_531064-200.jpg",
       "eng_word": "kitchen, cuisine",
       "french_sentence": "La cuisine est l'endroit où l'on prépare les repas.",
       "eng_sentence": "The kitchen is the place where meals are prepared."
@@ -2430,7 +2322,492 @@
       "eng_word": "wizard",
       "french_sentence": "Le magicien fait des tours de magie étonnants avec sa baguette.",
       "eng_sentence": "The wizard performs amazing magic tricks with his wand."
+    },
+    {
+      "word": "tapis",
+      "gender": "m",
+      "the_word": "Le tapis",
+      "imageLink": "https://clipart-library.com/img/2097750.gif",
+      "eng_word": "carpet, rug",
+      "french_sentence": "Le tapis est doux et confortable.",
+      "eng_sentence": "The carpet is soft and comfortable."
+    },
+    {
+      "word": "métier",
+      "gender": "m",
+      "the_word": "Un métier",
+      "imageLink": "https://example.com/metier_image.jpg",
+      "eng_word": "trade, occupation, job",
+      "french_sentence": "Un métier est une profession ou une occupation.",
+      "eng_sentence": "A job is a profession or an occupation."
+    },
+    {
+      "word": "résultat",
+      "gender": "m",
+      "the_word": "Le résultat",
+      "imageLink": "https://example.com/resultat_image.jpg",
+      "eng_word": "result",
+      "french_sentence": "Le résultat montre le succès ou l'échec d'une action.",
+      "eng_sentence": "The result shows the success or failure of an action."
+    },
+    {
+      "word": "chimie",
+      "gender": "f",
+      "the_word": "La chimie",
+      "imageLink": "https://example.com/chimie_image.jpg",
+      "eng_word": "chemistry",
+      "french_sentence": "La chimie étudie les propriétés et les transformations de la matière.",
+      "eng_sentence": "Chemistry studies the properties and transformations of matter."
+    },
+    {
+      "word": "boisson",
+      "gender": "f",
+      "the_word": "La boisson",
+      "imageLink": "https://img.freepik.com/free-vector/kawaii-fast-food-cute-drinks-illustration_24908-60622.jpg?w=2000",
+      "eng_word": "drink, beverage",
+      "french_sentence": "La boisson rafraîchit et désaltère.",
+      "eng_sentence": "The drink refreshes and quenches thirst."
+    },
+    {
+      "word": "café",
+      "gender": "m",
+      "the_word": "Le café",
+      "imageLink": "https://example.com/cafe_image.jpg",
+      "eng_word": "coffee, cafe",
+      "french_sentence": "Le café est une boisson stimulante souvent consommée le matin.",
+      "eng_sentence": "Coffee is a stimulating beverage often consumed in the morning."
+    },
+    {
+      "word": "thé",
+      "gender": "m",
+      "the_word": "Le thé",
+      "imageLink": "https://example.com/the_image.jpg",
+      "eng_word": "tea",
+      "french_sentence": "Le thé est une boisson chaude réconfortante.",
+      "eng_sentence": "Tea is a comforting hot beverage."
+    },
+    {
+      "word": "crêpe",
+      "gender": "f",
+      "the_word": "La crêpe",
+      "imageLink": "https://www.shutterstock.com/image-vector/cute-crepes-various-topping-600w-1981710923.jpg",
+      "eng_word": "crepe",
+      "french_sentence": "La crêpe est une délicieuse spécialité française souvent garnie de sucre, de chocolat ou de fruits.",
+      "eng_sentence": "The crepe is a delicious French specialty often filled with sugar, chocolate, or fruits."
+    },
+    {
+      "word": "repas",
+      "gender": "m",
+      "the_word": "Le repas",
+      "imageLink": "https://example.com/repas_image.jpg",
+      "eng_word": "meal",
+      "french_sentence": "Le repas est un moment pour se nourrir et profiter de la nourriture en bonne compagnie.",
+      "eng_sentence": "A meal is a time to eat and enjoy food in good company."
+    },
+    {
+      "word": "beurre",
+      "gender": "m",
+      "the_word": "Le beurre",
+      "imageLink": "https://example.com/beurre_image.jpg",
+      "eng_word": "butter",
+      "french_sentence": "Le beurre est une garniture savoureuse pour le pain et les plats.",
+      "eng_sentence": "Butter is a tasty topping for bread and dishes."
+    },
+    {
+      "word": "banane",
+      "gender": "f",
+      "the_word": "La banane",
+      "imageLink": "https://example.com/banane_image.jpg",
+      "eng_word": "banana",
+      "french_sentence": "La banane est un fruit jaune et doux qui est riche en nutriments.",
+      "eng_sentence": "The banana is a yellow and sweet fruit that is rich in nutrients."
+    },
+    {
+      "word": "fromage",
+      "gender": "m",
+      "the_word": "Le fromage",
+      "imageLink": "https://example.com/fromage_image.jpg",
+      "eng_word": "cheese",
+      "french_sentence": "Le fromage est un produit laitier délicieux et polyvalent utilisé dans de nombreux plats.",
+      "eng_sentence": "Cheese is a delicious and versatile dairy product used in many dishes."
+    },
+    {
+      "word": "bonbon",
+      "gender": "m",
+      "the_word": "Le bonbon",
+      "imageLink": "https://img.freepik.com/premium-vector/trick-treat-candy-halloween-cartoon-clipart_576561-2742.jpg?w=2000",
+      "eng_word": "sweet, candy",
+      "french_sentence": "Le bonbon est une petite douceur sucrée que l'on aime déguster.",
+      "eng_sentence": "The bonbon is a small sweet treat that people enjoy eating."
+    },
+    {
+      "word": "épisode",
+      "gender": "m",
+      "the_word": "L'épisode",
+      "imageLink": "https://example.com/episode_image.jpg",
+      "eng_word": "episode",
+      "french_sentence": "L'épisode est une partie d'une série ou d'un programme télévisé.",
+      "eng_sentence": "An episode is a part of a series or TV show."
+    },
+    {
+      "word": "boulanger",
+      "gender": "m",
+      "the_word": "Le boulanger",
+      "imageLink": "https://example.com/boulanger_image.jpg",
+      "eng_word": "baker",
+      "french_sentence": "Le boulanger prépare et cuit du pain frais tous les jours.",
+      "eng_sentence": "The baker prepares and bakes fresh bread every day."
+    },
+    {
+      "word": "camion",
+      "gender": "m",
+      "the_word": "Le camion",
+      "imageLink": "https://example.com/camion_image.jpg",
+      "eng_word": "truck",
+      "french_sentence": "Le camion transporte des marchandises d'un endroit à un autre.",
+      "eng_sentence": "The truck transports goods from one place to another."
+    },
+    {
+      "word": "panier",
+      "gender": "m",
+      "the_word": "Le panier",
+      "imageLink": "https://example.com/panier_image.jpg",
+      "eng_word": "basket",
+      "french_sentence": "Le panier est utilisé pour transporter et contenir divers objets.",
+      "eng_sentence": "The basket is used to carry and hold various objects."
+    },
+    {
+      "word": "nation",
+      "gender": "f",
+      "the_word": "La nation",
+      "imageLink": "https://example.com/nation_image.jpg",
+      "eng_word": "nation",
+      "french_sentence": "La nation est un groupe de personnes partageant une histoire, une culture et une identité communes.",
+      "eng_sentence": "A nation is a group of people sharing a common history, culture, and identity."
+    },
+    {
+      "word": "menteur",
+      "gender": "m",
+      "the_word": "Le menteur",
+      "imageLink": "https://example.com/menteur_image.jpg",
+      "eng_word": "liar",
+      "french_sentence": "Le menteur dit des choses fausses et trompe les autres.",
+      "eng_sentence": "The liar says untrue things and deceives others."
+    },
+    {
+      "word": "vie",
+      "gender": "f",
+      "the_word": "La vie",
+      "imageLink": "https://example.com/vie_image.jpg",
+      "eng_word": "life",
+      "french_sentence": "La vie est belle.",
+      "eng_sentence": "Life is beautiful."
+    },
+    {
+      "word": "territoire",
+      "gender": "m",
+      "the_word": "Le territoire",
+      "imageLink": "https://example.com/territoire_image.jpg",
+      "eng_word": "territory",
+      "french_sentence": "Le territoire est vaste.",
+      "eng_sentence": "The territory is vast."
+    },
+    {
+      "word": "clientèle",
+      "gender": "f",
+      "the_word": "La clientèle",
+      "imageLink": "https://example.com/clientele_image.jpg",
+      "eng_word": "clientele",
+      "french_sentence": "La clientèle est satisfaite.",
+      "eng_sentence": "The clientele is satisfied."
+    },
+    {
+      "word": "pain",
+      "gender": "m",
+      "the_word": "Le pain",
+      "imageLink": "https://example.com/pain_image.jpg",
+      "eng_word": "bread",
+      "french_sentence": "Le pain est délicieux.",
+      "eng_sentence": "The bread is delicious."
+    },
+    {
+      "word": "chocolat",
+      "gender": "m",
+      "the_word": "Le chocolat",
+      "imageLink": "https://example.com/chocolat_image.jpg",
+      "eng_word": "chocolate",
+      "french_sentence": "Le chocolat est sucré et savoureux.",
+      "eng_sentence": "The chocolate is sweet and tasty."
+    },
+    {
+      "word": "pâtisserie",
+      "gender": "f",
+      "the_word": "La pâtisserie",
+      "imageLink": "https://example.com/patisserie_image.jpg",
+      "eng_word": "pastry shop",
+      "french_sentence": "La pâtisserie vend de délicieuses pâtisseries.",
+      "eng_sentence": "The pastry shop sells delicious pastries."
+    },
+    {
+      "word": "gâteau",
+      "gender": "m",
+      "the_word": "Le gâteau",
+      "imageLink": "https://example.com/gateau_image.jpg",
+      "eng_word": "cake",
+      "french_sentence": "Le gâteau est sucré et moelleux.",
+      "eng_sentence": "The cake is sweet and fluffy."
+    },
+    {
+      "word": "ingénieur",
+      "gender": "m",
+      "the_word": "L'ingénieur",
+      "imageLink": "https://example.com/ingenieur_image.jpg",
+      "eng_word": "engineer",
+      "french_sentence": "L'ingénieur construit des choses incroyables.",
+      "eng_sentence": "The engineer builds amazing things."
+    },
+    {
+      "word": "avocat",
+      "gender": "m",
+      "the_word": "L'avocat",
+      "imageLink": "https://example.com/avocat_image.jpg",
+      "eng_word": "lawyer",
+      "french_sentence": "L'avocat défend les droits des personnes.",
+      "eng_sentence": "The lawyer defends people's rights."
+    },
+    {
+      "word": "passion",
+      "gender": "f",
+      "the_word": "La passion",
+      "imageLink": "https://example.com/passion_image.jpg",
+      "eng_word": "passion",
+      "french_sentence": "La passion rend la vie plus excitante.",
+      "eng_sentence": "Passion makes life more exciting."
+    },
+    {
+      "word": "réussite",
+      "gender": "f",
+      "the_word": "La réussite",
+      "imageLink": "https://example.com/reussite_image.jpg",
+      "eng_word": "success",
+      "french_sentence": "La réussite demande du travail et de la persévérance.",
+      "eng_sentence": "Success requires work and perseverance."
+    },
+    {
+      "word": "satisfaction",
+      "gender": "f",
+      "the_word": "La satisfaction",
+      "imageLink": "https://example.com/satisfaction_image.jpg",
+      "eng_word": "satisfaction",
+      "french_sentence": "La satisfaction vient lorsque l'on atteint ses objectifs.",
+      "eng_sentence": "Satisfaction comes when one achieves their goals."
+    },
+    {
+      "word": "client",
+      "gender": "m",
+      "the_word": "Le client",
+      "imageLink": "https://example.com/client_image.jpg",
+      "eng_word": "client",
+      "french_sentence": "Le client est roi.",
+      "eng_sentence": "The client is king."
+    },
+    {
+      "word": "travail",
+      "gender": "m",
+      "the_word": "Le travail",
+      "imageLink": "https://example.com/travail_image.jpg",
+      "eng_word": "work",
+      "french_sentence": "Le travail est important pour atteindre ses objectifs.",
+      "eng_sentence": "Work is important to achieve one's goals."
+    },
+    {
+      "word": "sacrifice",
+      "gender": "m",
+      "the_word": "Le sacrifice",
+      "imageLink": "https://example.com/sacrifice_image.jpg",
+      "eng_word": "sacrifice",
+      "french_sentence": "Le sacrifice peut mener à de grandes réalisations.",
+      "eng_sentence": "Sacrifice can lead to great accomplishments."
+    },
+    {
+      "word": "opportunité",
+      "gender": "f",
+      "the_word": "L'opportunité",
+      "imageLink": "https://example.com/opportunite_image.jpg",
+      "eng_word": "opportunity",
+      "french_sentence": "Saisis chaque opportunité.",
+      "eng_sentence": "Seize every opportunity."
+    },
+    {
+      "word": "intelligence",
+      "gender": "f",
+      "the_word": "L'intelligence",
+      "imageLink": "https://example.com/intelligence_image.jpg",
+      "eng_word": "intelligence",
+      "french_sentence": "L'intelligence est précieuse.",
+      "eng_sentence": "Intelligence is valuable."
+    },
+    {
+      "word": "classe",
+      "gender": "f",
+      "the_word": "La classe",
+      "imageLink": "https://example.com/classe_image.jpg",
+      "eng_word": "class",
+      "french_sentence": "J'aime ma classe.",
+      "eng_sentence": "I love my class."
+    },
+    {
+      "word": "père",
+      "gender": "m",
+      "the_word": "Le père",
+      "imageLink": "https://example.com/pere_image.jpg",
+      "eng_word": "father",
+      "french_sentence": "Mon père est gentil.",
+      "eng_sentence": "My father is kind."
+    },
+    {
+      "word": "fils",
+      "gender": "m",
+      "the_word": "Le fils",
+      "imageLink": "https://example.com/fils_image.jpg",
+      "eng_word": "son",
+      "french_sentence": "Le fils joue au parc.",
+      "eng_sentence": "The son plays at the park."
+    },
+    {
+      "word": "centre",
+      "gender": "m",
+      "the_word": "Le centre",
+      "imageLink": "https://example.com/centre_image.jpg",
+      "eng_word": "center",
+      "french_sentence": "Le centre est ouvert.",
+      "eng_sentence": "The center is open."
+    },
+    {
+      "word": "voisin",
+      "gender": "m",
+      "the_word": "Le voisin",
+      "imageLink": "https://example.com/voisin_image.jpg",
+      "eng_word": "neighbor",
+      "french_sentence": "Mon voisin est sympathique.",
+      "eng_sentence": "My neighbor is friendly."
+    },
+    {
+      "word": "prix",
+      "gender": "m",
+      "the_word": "Le prix",
+      "imageLink": "https://example.com/prix_image.jpg",
+      "eng_word": "price",
+      "french_sentence": "Le prix est raisonnable.",
+      "eng_sentence": "The price is reasonable."
+    },
+    {
+      "word": "concours",
+      "gender": "m",
+      "the_word": "Le concours",
+      "imageLink": "https://example.com/concours_image.jpg",
+      "eng_word": "competition",
+      "french_sentence": "Le concours est amusant.",
+      "eng_sentence": "The competition is fun."
+    },
+    {
+      "word": "confiance",
+      "gender": "f",
+      "the_word": "La confiance",
+      "imageLink": "https://example.com/confiance_image.jpg",
+      "eng_word": "confidence",
+      "french_sentence": "Aie confiance en toi.",
+      "eng_sentence": "Have confidence in yourself."
+    },
+    {
+      "word": "goût",
+      "gender": "m",
+      "the_word": "Le goût",
+      "imageLink": "https://example.com/gout_image.jpg",
+      "eng_word": "taste",
+      "french_sentence": "Ce gâteau a un bon goût.",
+      "eng_sentence": "This cake tastes good."
+    },
+    {
+      "word": "arôme",
+      "gender": "m",
+      "the_word": "L'arôme",
+      "imageLink": "https://example.com/arome_image.jpg",
+      "eng_word": "aroma",
+      "french_sentence": "Cet arôme est agréable.",
+      "eng_sentence": "This aroma is pleasant."
+    },
+    {
+      "word": "jury",
+      "gender": "m",
+      "the_word": "Le jury",
+      "imageLink": "https://example.com/jury_image.jpg",
+      "eng_word": "jury",
+      "french_sentence": "Le jury décide du gagnant.",
+      "eng_sentence": "The jury decides the winner."
+    },
+    {
+      "word": "technique",
+      "gender": "f",
+      "the_word": "La technique",
+      "imageLink": "https://example.com/technique_image.jpg",
+      "eng_word": "technique",
+      "french_sentence": "Cette technique est simple.",
+      "eng_sentence": "This technique is simple."
+    },
+    {
+      "word": "mélange",
+      "gender": "m",
+      "the_word": "Le mélange",
+      "imageLink": "https://example.com/melange_image.jpg",
+      "eng_word": "mixture",
+      "french_sentence": "Fais un mélange des ingrédients.",
+      "eng_sentence": "Make a mixture of the ingredients."
+    },
+    {
+      "word": "fermentation",
+      "gender": "f",
+      "the_word": "La fermentation",
+      "imageLink": "https://example.com/fermentation_image.jpg",
+      "eng_word": "fermentation",
+      "french_sentence": "La fermentation crée des bulles.",
+      "eng_sentence": "Fermentation creates bubbles."
+    },
+    {
+      "word": "pétrissage",
+      "gender": "m",
+      "the_word": "Le pétrissage",
+      "imageLink": "https://example.com/petrissage_image.jpg",
+      "eng_word": "kneading",
+      "french_sentence": "Le pétrissage rend la pâte moelleuse.",
+      "eng_sentence": "Kneading makes the dough soft."
+    },
+    {
+      "word": "forme",
+      "gender": "f",
+      "the_word": "La forme",
+      "imageLink": "https://example.com/forme_image.jpg",
+      "eng_word": "shape",
+      "french_sentence": "Donne à la pâte une forme ronde.",
+      "eng_sentence": "Give the dough a round shape."
+    },
+    {
+      "word": "cuisson",
+      "gender": "f",
+      "the_word": "La cuisson",
+      "imageLink": "https://example.com/cuisson_image.jpg",
+      "eng_word": "cooking",
+      "french_sentence": "La cuisson demande de la patience.",
+      "eng_sentence": "Cooking requires patience."
+    },
+    {
+      "word": "test",
+      "gender": "m",
+      "the_word": "Le test",
+      "imageLink": "https://example.com/test_image.jpg",
+      "eng_word": "test",
+      "french_sentence": "Le test évalue tes connaissances.",
+      "eng_sentence": "The test evaluates your knowledge."
     }
-
   ]
 }
