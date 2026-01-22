@@ -3357,6 +3357,429 @@
       "eng_word": "umbrella",
       "french_sentence": "Le parapluie protège de la pluie.",
       "eng_sentence": "The umbrella protects from the rain."
-    }
+    },
+    {
+    "word": "classe",
+    "gender": "f",
+    "the_word": "La classe",
+    "imageLink": "https://example.com/classe_image.jpg",
+    "eng_word": "class",
+    "french_sentence": "La classe est grande et lumineuse.",
+    "eng_sentence": "The class is big and bright."
+  },
+  {
+    "word": "étudiant",
+    "gender": "m",
+    "the_word": "Le étudiant",
+    "imageLink": "https://example.com/etudiant_image.jpg",
+    "eng_word": "student",
+    "french_sentence": "Le étudiant écrit dans son cahier.",
+    "eng_sentence": "The student writes in his notebook."
+  },
+  {
+    "word": "étudiante",
+    "gender": "f",
+    "the_word": "La étudiante",
+    "imageLink": "https://example.com/etudiante_image.jpg",
+    "eng_word": "female student",
+    "french_sentence": "La étudiante lit un livre intéressant.",
+    "eng_sentence": "The female student reads an interesting book."
+  },
+  {
+    "word": "livre",
+    "gender": "m",
+    "the_word": "Le livre",
+    "imageLink": "https://example.com/livre_image.jpg",
+    "eng_word": "book",
+    "french_sentence": "Le livre est sur la table.",
+    "eng_sentence": "The book is on the table."
+  },
+  {
+    "word": "stylo",
+    "gender": "m",
+    "the_word": "Le stylo",
+    "imageLink": "https://example.com/stylo_image.jpg",
+    "eng_word": "pen",
+    "french_sentence": "Le stylo est bleu et neuf.",
+    "eng_sentence": "The pen is blue and new."
+  },
+  {
+    "word": "tableau",
+    "gender": "m",
+    "the_word": "Le tableau",
+    "imageLink": "https://example.com/tableau_image.jpg",
+    "eng_word": "blackboard",
+    "french_sentence": "Le tableau est propre et blanc.",
+    "eng_sentence": "The blackboard is clean and white."
+  },
+  {
+    "word": "activité",
+    "gender": "f",
+    "the_word": "L'activité",
+    "imageLink": "https://example.com/activite_image.jpg",
+    "eng_word": "activity",
+    "french_sentence": "L'activité commence après le cours.",
+    "eng_sentence": "The activity starts after class."
+  },
+  {
+    "word": "conversation",
+    "gender": "f",
+    "the_word": "La conversation",
+    "imageLink": "https://example.com/conversation_image.jpg",
+    "eng_word": "conversation",
+    "french_sentence": "La conversation est intéressante aujourd'hui.",
+    "eng_sentence": "The conversation is interesting today."
+  },
+  {
+    "word": "grammaire",
+    "gender": "f",
+    "the_word": "La grammaire",
+    "imageLink": "https://example.com/grammaire_image.jpg",
+    "eng_word": "grammar",
+    "french_sentence": "La grammaire est difficile mais importante.",
+    "eng_sentence": "Grammar is difficult but important."
+  },
+  {
+    "word": "page",
+    "gender": "f",
+    "the_word": "La page",
+    "imageLink": "https://example.com/page_image.jpg",
+    "eng_word": "page",
+    "french_sentence": "La page est blanche et vide.",
+    "eng_sentence": "The page is blank and empty."
+  },
+  {
+    "word": "professeur",
+    "gender": "m",
+    "the_word": "Le professeur",
+    "imageLink": "https://example.com/professeur_image.jpg",
+    "eng_word": "teacher",
+    "french_sentence": "Le professeur explique la leçon aujourd'hui.",
+    "eng_sentence": "The teacher explains the lesson today."
+  },
+  {
+    "word": "table",
+    "gender": "f",
+    "the_word": "La table",
+    "imageLink": "https://example.com/table_image.jpg",
+    "eng_word": "table",
+    "french_sentence": "La table est ronde et petite.",
+    "eng_sentence": "The table is round and small."
+  },
+  {
+    "word": "vocabulaire",
+    "gender": "m",
+    "the_word": "Le vocabulaire",
+    "imageLink": "https://example.com/vocabulaire_image.jpg",
+    "eng_word": "vocabulary",
+    "french_sentence": "Le vocabulaire est facile à apprendre.",
+    "eng_sentence": "The vocabulary is easy to learn."
+  },
+    {
+    "word": "ami",
+    "gender": "m",
+    "the_word": "Le ami",
+    "imageLink": "https://example.com/ami_image.jpg",
+    "eng_word": "friend (male)",
+    "french_sentence": "Le ami parle avec moi.",
+    "eng_sentence": "The friend talks with me."
+  },
+  {
+    "word": "amie",
+    "gender": "f",
+    "the_word": "La amie",
+    "imageLink": "https://example.com/amie_image.jpg",
+    "eng_word": "friend (female)",
+    "french_sentence": "La amie écoute attentivement.",
+    "eng_sentence": "The friend listens carefully."
+  },
+  {
+    "word": "femme",
+    "gender": "f",
+    "the_word": "La femme",
+    "imageLink": "https://example.com/femme_image.jpg",
+    "eng_word": "woman",
+    "french_sentence": "La femme est dans la classe.",
+    "eng_sentence": "The woman is in the class."
+  },
+  {
+    "word": "fille",
+    "gender": "f",
+    "the_word": "La fille",
+    "imageLink": "https://example.com/fille_image.jpg",
+    "eng_word": "girl",
+    "french_sentence": "La fille lit un petit livre.",
+    "eng_sentence": "The girl reads a small book."
+  },
+  {
+    "word": "garçon",
+    "gender": "m",
+    "the_word": "Le garçon",
+    "imageLink": "https://example.com/garcon_image.jpg",
+    "eng_word": "boy",
+    "french_sentence": "Le garçon écrit dans son cahier.",
+    "eng_sentence": "The boy writes in his notebook."
+  },
+  {
+    "word": "homme",
+    "gender": "m",
+    "the_word": "L'homme",
+    "imageLink": "https://example.com/homme_image.jpg",
+    "eng_word": "man",
+    "french_sentence": "L'homme parle avec le professeur.",
+    "eng_sentence": "The man talks with the teacher."
+  },
+  {
+    "word": "barbe",
+    "gender": "f",
+    "the_word": "La barbe",
+    "imageLink": "https://example.com/barbe_image.jpg",
+    "eng_word": "beard",
+    "french_sentence": "La barbe est longue et noire.",
+    "eng_sentence": "The beard is long and black."
+  },
+  {
+    "word": "moustache",
+    "gender": "f",
+    "the_word": "La moustache",
+    "imageLink": "https://example.com/moustache_image.jpg",
+    "eng_word": "moustache",
+    "french_sentence": "La moustache est fine et brune.",
+    "eng_sentence": "The moustache is thin and brown."
+  },
+    {
+    "word": "blouson",
+    "gender": "m",
+    "the_word": "Le blouson",
+    "imageLink": "https://example.com/blouson_image.jpg",
+    "eng_word": "jacket",
+    "french_sentence": "Le blouson est bleu et chaud.",
+    "eng_sentence": "The jacket is blue and warm."
+  },
+  {
+    "word": "casquette",
+    "gender": "f",
+    "the_word": "La casquette",
+    "imageLink": "https://example.com/casquette_image.jpg",
+    "eng_word": "cap",
+    "french_sentence": "La casquette est rouge et jolie.",
+    "eng_sentence": "The cap is red and nice."
+  },
+  {
+    "word": "chapeau",
+    "gender": "m",
+    "the_word": "Le chapeau",
+    "imageLink": "https://example.com/chapeau_image.jpg",
+    "eng_word": "hat",
+    "french_sentence": "Le chapeau est grand et noir.",
+    "eng_sentence": "The hat is big and black."
+  },
+  {
+    "word": "chemise",
+    "gender": "f",
+    "the_word": "La chemise",
+    "imageLink": "https://example.com/chemise_image.jpg",
+    "eng_word": "shirt (men's)",
+    "french_sentence": "La chemise est propre et blanche.",
+    "eng_sentence": "The shirt is clean and white."
+  },
+  {
+    "word": "chemisier",
+    "gender": "m",
+    "the_word": "Le chemisier",
+    "imageLink": "https://example.com/chemisier_image.jpg",
+    "eng_word": "blouse (women's)",
+    "french_sentence": "Le chemisier est bleu clair.",
+    "eng_sentence": "The blouse is light blue."
+  },
+  {
+    "word": "costume",
+    "gender": "m",
+    "the_word": "Le costume",
+    "imageLink": "https://example.com/costume_image.jpg",
+    "eng_word": "suit",
+    "french_sentence": "Le costume est noir et élégant.",
+    "eng_sentence": "The suit is black and elegant."
+  },
+  {
+    "word": "cravate",
+    "gender": "f",
+    "the_word": "La cravate",
+    "imageLink": "https://example.com/cravate_image.jpg",
+    "eng_word": "tie",
+    "french_sentence": "La cravate est rouge et courte.",
+    "eng_sentence": "The tie is red and short."
+  },
+  {
+    "word": "jupe",
+    "gender": "f",
+    "the_word": "La jupe",
+    "imageLink": "https://example.com/jupe_image.jpg",
+    "eng_word": "skirt",
+    "french_sentence": "La jupe est courte et bleue.",
+    "eng_sentence": "The skirt is short and blue."
+  },
+  {
+    "word": "manteau",
+    "gender": "m",
+    "the_word": "Le manteau",
+    "imageLink": "https://example.com/manteau_image.jpg",
+    "eng_word": "coat",
+    "french_sentence": "Le manteau est long et chaud.",
+    "eng_sentence": "The coat is long and warm."
+  },
+  {
+    "word": "pantalon",
+    "gender": "m",
+    "the_word": "Le pantalon",
+    "imageLink": "https://example.com/pantalon_image.jpg",
+    "eng_word": "pants",
+    "french_sentence": "Le pantalon est noir et propre.",
+    "eng_sentence": "The pants are black and clean."
+  },
+  {
+    "word": "robe",
+    "gender": "f",
+    "the_word": "La robe",
+    "imageLink": "https://example.com/robe_image.jpg",
+    "eng_word": "dress",
+    "french_sentence": "La robe est rouge et jolie.",
+    "eng_sentence": "The dress is red and pretty."
+  },
+  {
+    "word": "veste",
+    "gender": "f",
+    "the_word": "La veste",
+    "imageLink": "https://example.com/veste_image.jpg",
+    "eng_word": "jacket / suit coat",
+    "french_sentence": "La veste est élégante et noire.",
+    "eng_sentence": "The jacket is elegant and black."
+  },
+  {
+    "word": "vêtement",
+    "gender": "m",
+    "the_word": "Le vêtement",
+    "imageLink": "https://example.com/vetement_image.jpg",
+    "eng_word": "piece of clothing",
+    "french_sentence": "Le vêtement est propre et neuf.",
+    "eng_sentence": "The clothing is clean and new."
+  },
+  {
+    "word": "jean",
+    "gender": "m",
+    "the_word": "Le jean",
+    "imageLink": "https://example.com/jean_image.jpg",
+    "eng_word": "jeans",
+    "french_sentence": "Le jean est bleu et confortable.",
+    "eng_sentence": "The jeans are blue and comfortable."
+  },
+  {
+    "word": "pull-over",
+    "gender": "m",
+    "the_word": "Le pull-over",
+    "imageLink": "https://example.com/pull-over_image.jpg",
+    "eng_word": "sweater",
+    "french_sentence": "Le pull-over est rouge et chaud.",
+    "eng_sentence": "The sweater is red and warm."
+  },
+    {
+    "word": "banane",
+    "gender": "f",
+    "the_word": "La banane",
+    "imageLink": "https://example.com/banane_image.jpg",
+    "eng_word": "banana",
+    "french_sentence": "La banane est jaune et mûre.",
+    "eng_sentence": "The banana is yellow and ripe."
+  },
+  {
+    "word": "carotte",
+    "gender": "f",
+    "the_word": "La carotte",
+    "imageLink": "https://example.com/carotte_image.jpg",
+    "eng_word": "carrot",
+    "french_sentence": "La carotte est orange et croquante.",
+    "eng_sentence": "The carrot is orange and crunchy."
+  },
+  {
+    "word": "chocolat",
+    "gender": "m",
+    "the_word": "Le chocolat",
+    "imageLink": "https://example.com/chocolat_image.jpg",
+    "eng_word": "chocolate",
+    "french_sentence": "Le chocolat est doux et sucré.",
+    "eng_sentence": "The chocolate is sweet and sugary."
+  },
+  {
+    "word": "éléphant",
+    "gender": "m",
+    "the_word": "L'éléphant",
+    "imageLink": "https://example.com/elephant_image.jpg",
+    "eng_word": "elephant",
+    "french_sentence": "L'éléphant est grand et gris.",
+    "eng_sentence": "The elephant is big and gray."
+  },
+  {
+    "word": "général",
+    "gender": "m",
+    "the_word": "Le général",
+    "imageLink": "https://example.com/general_image.jpg",
+    "eng_word": "general",
+    "french_sentence": "Le général parle avec ses soldats.",
+    "eng_sentence": "The general talks with his soldiers."
+  },
+  {
+    "word": "image",
+    "gender": "f",
+    "the_word": "L'image",
+    "imageLink": "https://example.com/image_image.jpg",
+    "eng_word": "image / picture",
+    "french_sentence": "L'image est belle et colorée.",
+    "eng_sentence": "The picture is beautiful and colorful."
+  },
+  {
+    "word": "pingouin",
+    "gender": "m",
+    "the_word": "Le pingouin",
+    "imageLink": "https://example.com/pingouin_image.jpg",
+    "eng_word": "penguin",
+    "french_sentence": "Le pingouin nage dans l'eau froide.",
+    "eng_sentence": "The penguin swims in cold water."
+  },
+  {
+    "word": "plante",
+    "gender": "f",
+    "the_word": "La plante",
+    "imageLink": "https://example.com/plante_image.jpg",
+    "eng_word": "plant",
+    "french_sentence": "La plante est verte et petite.",
+    "eng_sentence": "The plant is green and small."
+  },
+  {
+    "word": "tigre",
+    "gender": "m",
+    "the_word": "Le tigre",
+    "imageLink": "https://example.com/tigre_image.jpg",
+    "eng_word": "tiger",
+    "french_sentence": "Le tigre est orange et noir.",
+    "eng_sentence": "The tiger is orange and black."
+  },
+  {
+    "word": "tomate",
+    "gender": "f",
+    "the_word": "La tomate",
+    "imageLink": "https://example.com/tomate_image.jpg",
+    "eng_word": "tomato",
+    "french_sentence": "La tomate est rouge et juteuse.",
+    "eng_sentence": "The tomato is red and juicy."
+  },
+  {
+    "word": "tragédie",
+    "gender": "f",
+    "the_word": "La tragédie",
+    "imageLink": "https://example.com/tragédie_image.jpg",
+    "eng_word": "tragedy",
+    "french_sentence": "La tragédie est triste et dramatique.",
+    "eng_sentence": "The tragedy is sad and dramatic."
+  }
   ]
 }
